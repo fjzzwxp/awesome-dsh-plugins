@@ -1,0 +1,5 @@
+url: "https://github.com/Anionex/dsh-vision-toolkit"
+name: "Anionex/dsh-vision-toolkit"
+category: vision
+description:
+  en: "[dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI."

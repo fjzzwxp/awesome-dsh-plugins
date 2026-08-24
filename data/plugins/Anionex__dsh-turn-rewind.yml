@@ -1,0 +1,5 @@
+url: "https://github.com/Anionex/dsh-turn-rewind"
+name: "Anionex/dsh-turn-rewind"
+category: tools
+description:
+  en: "deepseek harness对话和代码状态回退插件 | DSH — rewind conversation and workspace state, powered by a persistent Change Ledger."

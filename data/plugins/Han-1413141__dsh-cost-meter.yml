@@ -1,0 +1,5 @@
+url: "https://github.com/Han-1413141/dsh-cost-meter"
+name: "Han-1413141/dsh-cost-meter"
+category: usage
+description:
+  en: "DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI."

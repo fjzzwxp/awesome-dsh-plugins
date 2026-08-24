@@ -1,0 +1,5 @@
+url: "https://github.com/DDDMUC/dsh-free-search"
+name: "DDDMUC/dsh-free-search"
+category: model
+description:
+  en: "Free web search provider for DeepSeek Harness - DuckDuckGo backend, no API key needed."

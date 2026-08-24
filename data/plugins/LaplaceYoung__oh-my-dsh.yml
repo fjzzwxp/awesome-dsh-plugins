@@ -1,0 +1,5 @@
+url: "https://github.com/LaplaceYoung/oh-my-dsh"
+name: "LaplaceYoung/oh-my-dsh"
+category: tools
+description:
+  en: "oh-my-dsh：面向 DSH (DeepSeek Harness) 的插件生态——700+ 插件，只通过扩展接缝注册，不修改 agent-loop 骨架."

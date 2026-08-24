@@ -1,0 +1,5 @@
+url: "https://github.com/AITabby/dockyard-dsh"
+name: "AITabby/dockyard-dsh"
+category: model
+description:
+  en: "A macOS-only native account-pool and provider plugin for DeepSeek Harness."

@@ -1,0 +1,5 @@
+url: "https://github.com/dsh-tui/dsh-tui"
+name: "dsh-tui/dsh-tui"
+category: model
+description:
+  en: "Claude Code-style terminal UI for DeepSeek Harness agents, as an out-of-tree dsh plugin bundle."

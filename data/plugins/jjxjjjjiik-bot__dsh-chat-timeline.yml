@@ -1,0 +1,5 @@
+url: "https://github.com/jjxjjjjiik-bot/dsh-chat-timeline"
+name: "jjxjjjjiik-bot/dsh-chat-timeline"
+category: dev
+description:
+  en: "1:1 port of DeepSeek's official web right-side chat navigation rail (ScrollNav) as a DeepSeek Harness (DSH) plugin."

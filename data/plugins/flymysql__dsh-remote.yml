@@ -1,0 +1,5 @@
+url: "https://github.com/flymysql/dsh-remote"
+name: "flymysql/dsh-remote"
+category: tools
+description:
+  en: "Remote-work assistant for DeepSeek Harness (DSH): connect SSH (key or password), pick a remote workspace, operate with rw_* tools, and SFTP-mirror it into a real local DSH workspace."

@@ -1,0 +1,5 @@
+url: "https://github.com/joejojoking-cloud/dsh-file-explorer"
+name: "joejojoking-cloud/dsh-file-explorer"
+category: tools
+description:
+  en: "File explorer plugin for DeepSeek Harness: file tree, preview, markdown, syntax highlighting, in-panel editing, VS Code integration - DeepSeek Harness 全局文件资源管理器插件."

@@ -1,0 +1,5 @@
+url: "https://github.com/hellodigua/dsh-share"
+name: "hellodigua/dsh-share"
+category: tools
+description:
+  en: "DSH 对话分享插件，分享单轮或多轮对话，可导出为图片或 Markdown。Share DSH Q&As or selected conversation groups as PNG or Markdown."

@@ -1,0 +1,5 @@
+url: "https://github.com/lehhair/dsh-diff-viewer"
+name: "lehhair/dsh-diff-viewer"
+category: ui
+description:
+  en: "DSH Web GUI PiUI-style diff viewer plugin: replaces the stock DiffBlock for write/edit tool calls via ui-tool diff-card chain slots (host patch included). Private."

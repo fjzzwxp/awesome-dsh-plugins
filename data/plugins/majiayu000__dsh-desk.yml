@@ -1,0 +1,5 @@
+url: "https://github.com/majiayu000/dsh-desk"
+name: "majiayu000/dsh-desk"
+category: tools
+description:
+  en: "Installable Tauri desktop distribution for DeepSeek Harness with a bundled runtime, trusted plugin review, and daily compatibility checks."

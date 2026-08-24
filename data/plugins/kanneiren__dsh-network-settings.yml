@@ -1,0 +1,5 @@
+url: "https://github.com/kanneiren/dsh-network-settings"
+name: "kanneiren/dsh-network-settings"
+category: tools
+description:
+  en: "DSH网络设置插件 | DeepSeek Harness network diagnostics, proxy detection and repair for Windows/WSL/MacOS."

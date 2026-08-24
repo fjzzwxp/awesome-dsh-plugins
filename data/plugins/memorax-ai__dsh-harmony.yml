@@ -1,0 +1,5 @@
+url: "https://github.com/memorax-ai/dsh-harmony"
+name: "memorax-ai/dsh-harmony"
+category: model
+description:
+  en: "A library for patching, replacing and decorating dsh plugin during runtime."

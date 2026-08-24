@@ -1,0 +1,5 @@
+url: "https://github.com/liguobao/dsh-desktop"
+name: "liguobao/dsh-desktop"
+category: ui
+description:
+  en: "An independent, open-source desktop wrapper for DeepSeek Harness. It starts the bundled @deepseek-ai/dsh Web UI locally and loads it in a hardened Electron window on Linux, macOS, and Windows."

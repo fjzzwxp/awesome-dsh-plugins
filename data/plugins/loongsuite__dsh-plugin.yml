@@ -1,0 +1,5 @@
+url: "https://github.com/loongsuite/dsh-plugin"
+name: "loongsuite/dsh-plugin"
+category: usage
+description:
+  en: "OpenTelemetry tracing for DeepSeek Harness (dsh): turns each agent turn into a GenAI span tree — steps, LLM calls with TTFT, tool executions, token usage — exported over standard OTLP to Jaeger, Grafana Tempo, SigNoz, Langfuse, or any compatible backend."

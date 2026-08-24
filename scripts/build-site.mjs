@@ -42,6 +42,10 @@ const html = `<!doctype html>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>awesome-dsh-plugin · DSH 插件精选</title>
+<script>
+  window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+</script>
+<script defer src="/_vercel/insights/script.js"></script>
 <style>
   :root { --bg:#f6f8fa; --card:#fff; --border:#d0d7de; --text:#1f2328; --muted:#57606a; --accent:#0969da; --feat:#fff8e1; --feat-border:#eac54f; }
   * { box-sizing: border-box; }

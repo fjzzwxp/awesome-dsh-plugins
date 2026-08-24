@@ -1,0 +1,5 @@
+url: "https://github.com/PerryLink/dsh-permission-rules"
+name: "PerryLink/dsh-permission-rules"
+category: model
+description:
+  en: "Claude Code-style declarative permission rules for DeepSeek Harness: ordered allow/deny/ask rules with tool-name, argument (glob/regex), and workspace-path matching on the tools/pre-execute waterfall, session-log audit, and HMR reload."

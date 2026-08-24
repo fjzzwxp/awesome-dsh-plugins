@@ -1,0 +1,5 @@
+url: "https://github.com/SnowCrescenter-tech/dsh-milestone"
+name: "SnowCrescenter-tech/dsh-milestone"
+category: session
+description:
+  en: "Git-style milestone timeline for DeepSeek Harness - hover for metadata, click to jump to any message. 会话里程碑导航条：像 Git 提交图一眼定位每条提问，悬停看时间/轮次/耗时/TTFT，点击即跳转。"

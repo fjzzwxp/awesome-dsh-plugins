@@ -1,0 +1,5 @@
+url: "https://github.com/PolinniZhong/dsh-omi-voice"
+name: "PolinniZhong/dsh-omi-voice"
+category: voice
+description:
+  en: "DeepSeek Harness 语音朗读插件：沉浸式听朗读，用豆包 TTS 自然音色读 AI 回复（BYOK · 点读/暂停/继续）."

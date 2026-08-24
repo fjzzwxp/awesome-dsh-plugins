@@ -1,0 +1,5 @@
+url: "https://github.com/Qinling-Melon-Farmers/dsh-memoir"
+name: "Qinling-Melon-Farmers/dsh-memoir"
+category: memory
+description:
+  en: "本地优先、零普通运行时依赖的 DSH 项目记忆：有界会话冻结 Hot Memory、倒排 BM25 召回、生命周期与缓存命中优化、中英双语 GUI。 / Local-first DSH project memory with zero regular runtime dependencies: bounded session-frozen Hot Memory, inverted-index BM25 recall, lifecycle, cache-aware design, and a bilingual GUI."

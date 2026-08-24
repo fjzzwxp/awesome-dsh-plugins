@@ -1,0 +1,5 @@
+url: "https://github.com/Phant0Meow/dsh-meow-memory"
+name: "Phant0Meow/dsh-meow-memory"
+category: session
+description:
+  en: "Cross-session memory plugin for DeepSeek Harness: seven-layer SQLite store (soul/user/project/fact/lesson/topic/rules), BM25 retrieval, per-window dream consolidation. 跨会话七层长期记忆插件。"

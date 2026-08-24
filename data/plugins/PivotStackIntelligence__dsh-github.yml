@@ -1,0 +1,5 @@
+url: "https://github.com/PivotStackIntelligence/dsh-github"
+name: "PivotStackIntelligence/dsh-github"
+category: git
+description:
+  en: "A DeepSeek Harness (dsh) plugin."

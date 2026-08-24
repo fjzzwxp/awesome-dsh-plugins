@@ -16,7 +16,7 @@
     "generate": "node scripts/generate-readme.mjs",
     "check": "node scripts/generate-readme.mjs --check",
     "probe": "node scripts/probe-stars.mjs",
-    "预览": "node scripts/build-preview.mjs",
+    "preview": "node scripts/build-preview.mjs",
     "collect": "node scripts/collect.mjs",
     "build": "node scripts/build-site.mjs"
   },

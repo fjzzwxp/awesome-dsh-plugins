@@ -1,0 +1,5 @@
+url: "https://github.com/shengsheng90/DSH-taskboard"
+name: "shengsheng90/DSH-taskboard"
+category: ui
+description:
+  en: "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime."

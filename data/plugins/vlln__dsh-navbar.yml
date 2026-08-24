@@ -1,0 +1,5 @@
+url: "https://github.com/vlln/dsh-navbar"
+name: "vlln/dsh-navbar"
+category: tools
+description:
+  en: "DSH 插件：对话节点导航条（右缘节点串快速跳转 user 消息）。官方 bundle 插件，dsh plugin --profile web add 安装."

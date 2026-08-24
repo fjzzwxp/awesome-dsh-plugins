@@ -1,0 +1,5 @@
+url: "https://github.com/sunruize93-cmyk/dsh-benign-exit"
+name: "sunruize93-cmyk/dsh-benign-exit"
+category: git
+description:
+  en: "Deterministically annotate benign non-zero bash/pwsh exit codes in DeepSeek Harness (grep 1 = no match, git diff --exit-code = differences, test/which/jq -e) so models stop over-investigating normal results."

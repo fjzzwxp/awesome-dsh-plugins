@@ -1,0 +1,5 @@
+url: "https://github.com/shanliuling/dsh-image-gen"
+name: "shanliuling/dsh-image-gen"
+category: model
+description:
+  en: "Generate images directly in DeepSeek Harness chats."

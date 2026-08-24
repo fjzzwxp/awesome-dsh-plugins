@@ -1,0 +1,5 @@
+url: "https://github.com/weijiafu14/pi2dsh"
+name: "weijiafu14/pi2dsh"
+category: tools
+description:
+  en: "Bridge the Pi and DeepSeek Harness ecosystems: one Pi Host ABI runs unmodified Pi extensions as native DSH plugins. 打通 Pi 与 DSH 生态。"

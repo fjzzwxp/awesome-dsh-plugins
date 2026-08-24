@@ -1,0 +1,5 @@
+url: "https://github.com/xgone/dsh-remote"
+name: "xgone/dsh-remote"
+category: browser
+description:
+  en: "Remote access for DeepSeek Harness: account/password auth + MFA (TOTP) login gate, signed session cookies, role-based access, in-browser directory picker, and a Settings page for account management."

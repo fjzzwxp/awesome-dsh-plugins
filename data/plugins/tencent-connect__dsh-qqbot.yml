@@ -1,0 +1,5 @@
+url: "https://github.com/tencent-connect/dsh-qqbot"
+name: "tencent-connect/dsh-qqbot"
+category: tools
+description:
+  en: "让 QQ Bot 接入 DeepSeek Harness（dsh）的官方插件."

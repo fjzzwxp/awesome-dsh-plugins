@@ -1,0 +1,5 @@
+url: "https://github.com/toolclub/dsh-agent-team-gui"
+name: "toolclub/dsh-agent-team-gui"
+category: ui
+description:
+  en: "Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights."

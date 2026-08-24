@@ -1,0 +1,5 @@
+url: "https://github.com/saya-ch/dsh-mobile"
+name: "saya-ch/dsh-mobile"
+category: remote
+description:
+  en: "DeepSeek Harness 移动端适配与安全访问插件，支持局域网、远程连接、Android App 和手机浏览器。"

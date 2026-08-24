@@ -1,0 +1,5 @@
+url: "https://github.com/Moresyl/dsh-studio"
+name: "Moresyl/dsh-studio"
+category: ui
+description:
+  en: "DeepSeek Harness 原生桌面端 · Linux / macOS / Windows · Rust + Tauri."

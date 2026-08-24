@@ -1,0 +1,5 @@
+url: "https://github.com/Mombrane/dsh-subagent-monitor"
+name: "Mombrane/dsh-subagent-monitor"
+category: model
+description:
+  en: "A DeepSeek Harness (dsh) plugin."

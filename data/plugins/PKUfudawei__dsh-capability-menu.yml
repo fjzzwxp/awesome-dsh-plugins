@@ -1,0 +1,5 @@
+url: "https://github.com/PKUfudawei/dsh-capability-menu"
+name: "PKUfudawei/dsh-capability-menu"
+category: tools
+description:
+  en: "Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers."

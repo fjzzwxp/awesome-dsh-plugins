@@ -1,0 +1,5 @@
+url: "https://github.com/Make0209/dsh-usage-stats"
+name: "Make0209/dsh-usage-stats"
+category: usage
+description:
+  en: "DeepSeek Harness 插件：GitHub 风格用量热力图 + Token / 缓存命中 / 账户余额看板 + 工作区别名管理。"

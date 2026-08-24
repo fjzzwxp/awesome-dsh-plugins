@@ -1,0 +1,5 @@
+url: "https://github.com/MichengAI/dsh-skills-manager"
+name: "MichengAI/dsh-skills-manager"
+category: tools
+description:
+  en: "DSH Skills Manager 基于 DeepSeek Harness 的Skills管理插件."

@@ -1,0 +1,5 @@
+url: "https://github.com/PensiveFei/dsh-secure-audit"
+name: "PensiveFei/dsh-secure-audit"
+category: model
+description:
+  en: "Read-only security & compliance plugin for DeepSeek Harness: prompt-injection detection, Chinese-PII redaction, and local configuration audit with redacted, reproducible reports."

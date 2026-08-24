@@ -1,0 +1,5 @@
+url: "https://github.com/MoFeng2223/dsh-claude-provider"
+name: "MoFeng2223/dsh-claude-provider"
+category: model
+description:
+  en: "Custom Claude provider support for DeepSeek Harness."

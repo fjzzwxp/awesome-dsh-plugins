@@ -1,0 +1,5 @@
+url: "https://github.com/Lxiayu/DshCockpit"
+name: "Lxiayu/DshCockpit"
+category: usage
+description:
+  en: "Desktop cockpit for DeepSeek Harness (dsh): token usage & cost tracking, budget alerts, runtime auto-update with rollback, Quick Ask hotkey, scheduled tasks, session search. Win+macOS. DeepSeek Harness 桌面驾驶舱：成本/用量监控 · 自动更新 · 定时任务."

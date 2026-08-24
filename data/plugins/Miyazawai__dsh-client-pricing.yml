@@ -1,0 +1,5 @@
+url: "https://github.com/Miyazawai/dsh-client-pricing"
+name: "Miyazawai/dsh-client-pricing"
+category: session
+description:
+  en: "会话顶栏实时显示 DeepSeek API 价格（峰谷定价 / 现行一口价，flash / pro 自动切换） | DeepSeek Harness client plugin: live DeepSeek API pricing badge (peak/off-peak, flash/pro) in the session header."

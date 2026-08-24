@@ -1,0 +1,5 @@
+url: "https://github.com/MJorgin/dsh-media-skills"
+name: "MJorgin/dsh-media-skills"
+category: model
+description:
+  en: "Free image reading & generation for DeepSeek Harness (rc.7 / rc.8 / v0.1.1-rc.1 / rc.2) — paste-image reading with auto vision transcription, DeepSeek-V4-Flash-Vision-Exp / GLM-4V-Flash / SenseNova / Gemini failover, Kolors + U1 Fast generation. No keys in repo."

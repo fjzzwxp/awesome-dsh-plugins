@@ -1,0 +1,5 @@
+url: "https://github.com/PGZXB/dsh-feishu"
+name: "PGZXB/dsh-feishu"
+category: ui
+description:
+  en: "The Feishu UI for DeepSeek Harness — a panel-driven control console: every slash command a button on the ⚙️ control-panel card, in-card approvals & questions, live streaming cards, one-QR setup. | DeepSeek Harness 的飞书 UI：面板驱动控制台——每个命令都是卡片按钮，卡内审批与提问，流式卡片，扫码一键配置。"

@@ -1,0 +1,31 @@
+name: Decay scan
+
+# Weekly sweep of every listed entry: repos that are gone, archived, or
+# unreachable. Findings print to the run log for human review — the scan never
+# removes anything itself.
+
+on:
+  schedule:
+    - cron: '41 3 * * 1' # Mondays, off the :00/:30 herd
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: decay-scan
+  cancel-in-progress: true
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install
+      - name: Scan for dead entries
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/scan-decay.mjs

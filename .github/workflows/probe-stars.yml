@@ -1,0 +1,43 @@
+name: Refresh stars
+
+# Weekly: re-probe stargazers for every listed repo (drives the ⭐ featured
+# trio per category) and commit the refreshed data/stars.json back to main.
+# The commit is pushed with the workflow's own token — it only touches
+# data/stars.json, so no human review is needed.
+
+on:
+  schedule:
+    - cron: '23 2 * * 1' # Mondays
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-stars
+  cancel-in-progress: true
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install
+      - name: Probe stars
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/probe-stars.mjs --fresh
+      - name: Commit refreshed stars
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/stars.json
+          if git diff --cached --quiet; then
+            echo "stars.json unchanged — nothing to commit."
+          else
+            git commit -m "chore: refresh star counts"
+            git push
+          fi

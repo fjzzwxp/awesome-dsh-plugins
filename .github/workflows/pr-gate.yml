@@ -1,0 +1,51 @@
+name: Submission gate
+
+# Checks the repos behind a PR's entries: repo existence, archive status, age.
+# These need the authenticated GitHub API, which the fork-safe `pull_request`
+# job in pr-check.yml deliberately has no access to — so this runs via
+# workflow_run, in the base repository's context, after that job finishes.
+#
+# SECURITY: a token is in scope here, so nothing from the pull request is ever
+# executed. The checkout stays on the base repo's default branch — trusted
+# code, trusted lockfile — and the only thing taken from the PR is the content
+# of data/plugins/*.yml, extracted into a scratch directory and read as data.
+
+on:
+  workflow_run:
+    workflows: ['PR check']
+    types: [completed]
+
+permissions:
+  contents: read
+  checks: write
+
+concurrency:
+  group: pr-gate-${{ github.event.workflow_run.head_sha }}
+  cancel-in-progress: true
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Extract PR's plugin YAMLs into scratch dir
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          run_id=${{ github.event.workflow_run.id }}
+          pr_number=$(gh api repos/${{ github.repository }}/actions/runs/$run_id/pulls --jq '.[0].number')
+          mkdir -p /tmp/pr-plugins
+          for f in $(gh api repos/${{ github.repository }}/pulls/$pr_number/files --jq '.[].filename' | grep '^data/plugins/.*\.yml$'); do
+            gh api "repos/${{ github.repository }}/contents/$f?ref=pull/$pr_number/head" --jq '.content' | base64 -d > "/tmp/pr-plugins/$(basename $f)"
+          done
+          echo "PR_PLUGIN_COUNT=$(ls /tmp/pr-plugins | wc -l | tr -d ' ')" >> "$GITHUB_ENV"
+      - name: Gate submitted repos
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          if [ "$PR_PLUGIN_COUNT" = "0" ]; then echo "No plugin YAMLs in this PR — nothing to gate."; exit 0; fi
+          node scripts/check-submission.mjs /tmp/pr-plugins/*.yml

@@ -1,0 +1,30 @@
+name: collect
+
+# Continuously enrich the plugin library: discover new dsh plugins on GitHub,
+# probe their stars, auto-classify, write them back, regenerate the READMEs,
+# and push. Vercel rebuilds the site from the new data on the resulting push.
+on:
+  schedule:
+    # Every day at 03:17 UTC — an odd minute avoids the top-of-hour stampede.
+    - cron: '17 3 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install
+      - name: Collect + commit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: node scripts/collect.mjs --commit

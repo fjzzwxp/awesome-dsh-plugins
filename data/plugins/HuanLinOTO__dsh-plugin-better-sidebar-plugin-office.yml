@@ -1,0 +1,5 @@
+url: "https://github.com/HuanLinOTO/dsh-plugin-better-sidebar-plugin-office"
+name: "HuanLinOTO/dsh-plugin-better-sidebar-plugin-office"
+category: ui
+description:
+  en: "为 better-sidebar 提供 Office 三件套预览（.docx/.xlsx/.pptx），独立 bundle 瘦身主体 | Provides Office-suite preview (.docx/.xlsx/.pptx) for better-sidebar as a separate bundle to slim the core."

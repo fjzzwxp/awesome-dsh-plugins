@@ -1,0 +1,5 @@
+url: "https://github.com/HuanLinOTO/dsh-plugin-yet-another-subagent"
+name: "HuanLinOTO/dsh-plugin-yet-another-subagent"
+category: tools
+description:
+  en: "可配置子代理 profile 系统，单一 subagent 工具 + profile 参数，含 Web UI 设置/实时进度/子代理树 | Configurable subagent profile system: single subagent tool + profile param, with Web UI settings/real-time progress/subagent tree."

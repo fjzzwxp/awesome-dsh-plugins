@@ -1,0 +1,5 @@
+url: "https://github.com/HiWhaleW/dsh-toolbox"
+name: "HiWhaleW/dsh-toolbox"
+category: tools
+description:
+  en: "Local-first DeepSeek Harness plugins for product research, context routing, plugin preflight, and compatibility monitoring."

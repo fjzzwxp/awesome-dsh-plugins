@@ -1,0 +1,5 @@
+url: "https://github.com/JUANWANG-BUAA/dsh-full-remote"
+name: "JUANWANG-BUAA/dsh-full-remote"
+category: remote
+description:
+  en: "Auditable, token-gated DeepSeek Harness remote gateway: mobile QR access, per-device sessions, Host/Origin rewrite, settings/credentials/directory support."

@@ -1,0 +1,5 @@
+url: "https://github.com/Jungod1121/dsh-anchored-standard"
+name: "Jungod1121/dsh-anchored-standard"
+category: tools
+description:
+  en: "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap (bash+read), then full Standard tools after the first tool call or reply."

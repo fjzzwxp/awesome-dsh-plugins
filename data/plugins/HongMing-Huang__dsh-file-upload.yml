@@ -1,0 +1,5 @@
+url: "https://github.com/HongMing-Huang/dsh-file-upload"
+name: "HongMing-Huang/dsh-file-upload"
+category: docs
+description:
+  en: "DeepSeek Harness (dsh) file-message plugin: Claude-style drag-and-drop / paperclip upload, content sniffing, document-to-Markdown via Microsoft MarkItDown (with built-in JS fallback), text inlining, read_document tool for agents."

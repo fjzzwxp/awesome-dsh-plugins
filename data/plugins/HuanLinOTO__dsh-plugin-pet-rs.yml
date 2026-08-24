@@ -1,0 +1,5 @@
+url: "https://github.com/HuanLinOTO/dsh-plugin-pet-rs"
+name: "HuanLinOTO/dsh-plugin-pet-rs"
+category: tools
+description:
+  en: "DSH 桌宠（Rust 版），5 态鲸鱼 + 双 SSE 实时推送 + 透明置顶窗 + 系统托盘，三端支持 | DSH desktop pet (Rust edition): 5-state whale + dual SSE real-time push + transparent always-on-top window + tray, cross-platform."

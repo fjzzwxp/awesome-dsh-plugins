@@ -1,0 +1,5 @@
+url: "https://github.com/HuanLinOTO/dsh-plugin-aigc-canvas"
+name: "HuanLinOTO/dsh-plugin-aigc-canvas"
+category: tools
+description:
+  en: "provider-agnostic AIGC HTTP 桥 + 无限画布 + ffmpeg 后处理，13 个工具含画布连边/reroll/媒体编辑 | Provider-agnostic AIGC HTTP bridge + infinite canvas + ffmpeg post-processing; 13 tools incl. canvas linking/reroll/media-edit."

@@ -1,0 +1,5 @@
+url: "https://github.com/w2112515/dsh-plugin-development"
+name: "w2112515/dsh-plugin-development"
+category: model
+description:
+  en: "Portable Agent Skill for developing and auditing DeepSeek Harness plugins, with an optional profile-installable DSH bundle adapter."

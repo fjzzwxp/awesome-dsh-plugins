@@ -1,0 +1,5 @@
+url: "https://github.com/thness/dsh-mobile"
+name: "thness/dsh-mobile"
+category: remote
+description:
+  en: "DeepSeek Harness Android — 把 DeepSeek Harness 完整装进安卓手机：内嵌 Node.js 运行时 + 官方 Web UI，开箱即用的独立 App。"

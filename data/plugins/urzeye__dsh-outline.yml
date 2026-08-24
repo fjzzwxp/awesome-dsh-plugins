@@ -1,0 +1,5 @@
+url: "https://github.com/urzeye/dsh-outline"
+name: "urzeye/dsh-outline"
+category: tools
+description:
+  en: "DeepSeek Harness（DSH）Web GUI 的实时大纲插件，移植自 Ophel Atlas."

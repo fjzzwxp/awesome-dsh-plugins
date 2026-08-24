@@ -1,0 +1,5 @@
+url: "https://github.com/tianmingwan/dsh-vision-any"
+name: "tianmingwan/dsh-vision-any"
+category: model
+description:
+  en: "让纯文本 DeepSeek Harness Agent 直接粘贴图片，支持任意 OpenAI 兼容 / Anthropic / Gemini 视觉 API | Paste images into text-only DeepSeek Harness agents and analyze them with any OpenAI-compatible, Anthropic, or Gemini vision API."

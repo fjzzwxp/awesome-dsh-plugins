@@ -1,0 +1,5 @@
+url: "https://github.com/taxueseek/dsh-files"
+name: "taxueseek/dsh-files"
+category: tools
+description:
+  en: "DeepSeek Harness dual-face plugin: session-isolated file upload with colorful composer cards + read_document tool (text/PDF/DOCX/XLSX) with content sniffing and LRU caching."

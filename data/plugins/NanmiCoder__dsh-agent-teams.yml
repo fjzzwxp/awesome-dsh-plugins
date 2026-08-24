@@ -1,0 +1,5 @@
+url: "https://github.com/NanmiCoder/dsh-agent-teams"
+name: "NanmiCoder/dsh-agent-teams"
+category: model
+description:
+  en: "AgentTeams plugin for DeepSeek Harness."

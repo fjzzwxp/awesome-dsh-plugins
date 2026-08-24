@@ -1,0 +1,5 @@
+url: "https://github.com/Optim-Agent/dsh-plans"
+name: "Optim-Agent/dsh-plans"
+category: model
+description:
+  en: "Human-in-the-loop planning preset for DeepSeek Harness (DSH), adapted from prime-plans: researched Markdown plans in ./dsh-plans, reviewer/criticizer subagent refinement, per-workspace language & model settings, goal-driven execution with ponytail + MVP tests."

@@ -1,0 +1,5 @@
+url: "https://github.com/Nagi-ovo/dsh-visualize"
+name: "Nagi-ovo/dsh-visualize"
+category: model
+description:
+  en: "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations."

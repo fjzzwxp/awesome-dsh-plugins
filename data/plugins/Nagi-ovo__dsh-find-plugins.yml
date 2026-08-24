@@ -1,0 +1,5 @@
+url: "https://github.com/Nagi-ovo/dsh-find-plugins"
+name: "Nagi-ovo/dsh-find-plugins"
+category: git
+description:
+  en: "帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins."

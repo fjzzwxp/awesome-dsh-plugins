@@ -1,0 +1,5 @@
+url: "https://github.com/Noob-stupid/dsh-plugin-hub"
+name: "Noob-stupid/dsh-plugin-hub"
+category: git
+description:
+  en: "DeepSeek Harness (DSH) 插件管理面板：一键启用/停用插件 + GitHub dsh-plugin 插件市场，带插件详情与一键安装 | Plugin manager & marketplace for DeepSeek Harness."

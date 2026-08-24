@@ -1,0 +1,5 @@
+url: "https://github.com/Moeblack/dsh-message-edit"
+name: "Moeblack/dsh-message-edit"
+category: tools
+description:
+  en: "DSH 插件：分支式消息编辑、重掷、重试与版本时间线 | DSH plugin: branch-based message editing, reroll, retry, version timeline."

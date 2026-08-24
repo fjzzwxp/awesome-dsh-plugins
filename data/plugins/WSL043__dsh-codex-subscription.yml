@@ -1,0 +1,5 @@
+url: "https://github.com/WSL043/dsh-codex-subscription"
+name: "WSL043/dsh-codex-subscription"
+category: model
+description:
+  en: "DeepSeek Harness 的 ChatGPT/Codex 订阅插件：独立 OAuth、模型、真实额度、搜索与图片；无需 API Key 或 Codex CLI."

@@ -1,0 +1,5 @@
+url: "https://github.com/anweat/dsh-web-search-pro"
+name: "anweat/dsh-web-search-pro"
+category: model
+description:
+  en: "Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering)."

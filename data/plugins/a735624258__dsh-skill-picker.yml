@@ -1,0 +1,5 @@
+url: "https://github.com/a735624258/dsh-skill-picker"
+name: "a735624258/dsh-skill-picker"
+category: skill
+description:
+  en: "DSH 实现 workbuddy 同款选择 skill 功能 | WorkBuddy-style skill picker for DeepSeek Harness: pick a skill in the composer, insert the official /skill-name gesture, and DSH loads it with your message."

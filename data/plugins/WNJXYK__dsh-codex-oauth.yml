@@ -1,0 +1,5 @@
+url: "https://github.com/WNJXYK/dsh-codex-oauth"
+name: "WNJXYK/dsh-codex-oauth"
+category: model
+description:
+  en: "Use your OpenAI subscription with DeepSeek Harness to access GPT models, image generation, and web search."

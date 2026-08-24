@@ -1,0 +1,5 @@
+url: "https://github.com/agi-fans/oh-my-dsh"
+name: "agi-fans/oh-my-dsh"
+category: ui
+description:
+  en: "A focused, keyboard-first DeepSeek coding agent built on the plugin architecture of DeepSeek Harness and inspired by the interaction quality of oh-my-pi."

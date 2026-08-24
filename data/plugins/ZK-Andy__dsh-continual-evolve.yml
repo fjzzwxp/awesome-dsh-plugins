@@ -1,0 +1,5 @@
+url: "https://github.com/ZK-Andy/dsh-continual-evolve"
+name: "ZK-Andy/dsh-continual-evolve"
+category: model
+description:
+  en: "Continual self-evolution plugin for DeepSeek Harness: versioned, auditable, rollback-safe harness state refined from session trajectories, with a benchmark-driven validation loop."

@@ -1,0 +1,5 @@
+url: "https://github.com/amlyczz/dsh-lark-link"
+name: "amlyczz/dsh-lark-link"
+category: tools
+description:
+  en: "High-reliability Feishu/Lark bridge for DeepSeek Harness — QR one-click auth, multi-mode agents, card-based commands, zero-loss outbox, media in/out, session-log doctor, reusable DSH Web GUI."

@@ -1,0 +1,5 @@
+url: "https://github.com/Walvez/dsh-codex-sync"
+name: "Walvez/dsh-codex-sync"
+category: model
+description:
+  en: "The ultimate 2-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount & auto MCP mirroring."

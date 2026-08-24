@@ -1,0 +1,5 @@
+url: "https://github.com/anysearch-team/anysearch-dsh"
+name: "anysearch-team/anysearch-dsh"
+category: model
+description:
+  en: "AnySearch web search provider and advanced search tools for DeepSeek Harness (DSH)."

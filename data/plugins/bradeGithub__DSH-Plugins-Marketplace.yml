@@ -1,0 +1,5 @@
+url: "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
+name: "bradeGithub/DSH-Plugins-Marketplace"
+category: git
+description:
+  en: "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI."

@@ -1,0 +1,5 @@
+url: "https://github.com/anoslide/dsh-vscode-layout"
+name: "anoslide/dsh-vscode-layout"
+category: dev
+description:
+  en: "把 DeepSeek Harness（dsh）Web 界面改造成 VS Code 式 IDE：三栏布局、文件树、多标签查看器/编辑器、桌面启动器，全部补丁可重放（MIT）."

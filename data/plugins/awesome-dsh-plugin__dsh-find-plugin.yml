@@ -1,0 +1,5 @@
+url: "https://github.com/awesome-dsh-plugin/dsh-find-plugin"
+name: "awesome-dsh-plugin/dsh-find-plugin"
+category: git
+description:
+  en: "Find DSH plugins inside the agent — live GitHub dsh-plugin topic search, star-ranked / 会话内搜索发现 DSH 插件."

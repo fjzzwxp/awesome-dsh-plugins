@@ -1,0 +1,5 @@
+url: "https://github.com/dclichang2022/dsh-green-meter"
+name: "dclichang2022/dsh-green-meter"
+category: usage
+description:
+  en: "Energy & carbon metering for DeepSeek Harness: per-turn/per-request energy, cache carbon savings, electricity cost."

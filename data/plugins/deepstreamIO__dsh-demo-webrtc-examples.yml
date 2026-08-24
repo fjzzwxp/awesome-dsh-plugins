@@ -1,0 +1,5 @@
+url: "https://github.com/deepstreamIO/dsh-demo-webrtc-examples"
+name: "deepstreamIO/dsh-demo-webrtc-examples"
+category: browser
+description:
+  en: "A DeepSeek Harness (dsh) plugin."

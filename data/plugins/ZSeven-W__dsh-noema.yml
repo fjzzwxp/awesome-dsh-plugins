@@ -1,0 +1,5 @@
+url: "https://github.com/ZSeven-W/dsh-noema"
+name: "ZSeven-W/dsh-noema"
+category: memory
+description:
+  en: "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page."

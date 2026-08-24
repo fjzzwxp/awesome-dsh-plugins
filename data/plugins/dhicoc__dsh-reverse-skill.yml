@@ -1,0 +1,5 @@
+url: "https://github.com/dhicoc/dsh-reverse-skill"
+name: "dhicoc/dsh-reverse-skill"
+category: security
+description:
+  en: "Complete reverse-skill (85 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineering, authorized pentesting and security research skill pack."

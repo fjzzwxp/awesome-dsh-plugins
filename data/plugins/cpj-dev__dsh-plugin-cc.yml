@@ -1,0 +1,5 @@
+url: "https://github.com/cpj-dev/dsh-plugin-cc"
+name: "cpj-dev/dsh-plugin-cc"
+category: model
+description:
+  en: "Bridge Deepseek-harness into Claude Code for review, critique, delegation, and session import."

@@ -1,0 +1,5 @@
+url: "https://github.com/yg33717/DSH_tensorflow"
+name: "yg33717/DSH_tensorflow"
+category: vision
+description:
+  en: "implemement of DEEP SUPERVISED HASHING FOR FAST IMAGE RETRIEVAL_CVPR2016."

@@ -1,0 +1,5 @@
+url: "https://github.com/yanhua1010/dsh-harness-tutorial"
+name: "yanhua1010/dsh-harness-tutorial"
+category: model
+description:
+  en: "DeepSeek Harness Agent 的原理与实现：从零到一实现一个 AI Agent —— 一切皆插件的中文教程（VitePress 站点 + 8 个 Demo + mini-harness 教学项目）."

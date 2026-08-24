@@ -1,0 +1,5 @@
+url: "https://github.com/yjh051108/dsh-router-standard"
+name: "yjh051108/dsh-router-standard"
+category: tools
+description:
+  en: "Task-aware reasoning-mode router for DeepSeek Harness: three measured behavior bands (spec/mixed/react) with phase-transition evidence, persona + first-turn tool injection, agent-visible tuning. Dual-attractor policy paper included."

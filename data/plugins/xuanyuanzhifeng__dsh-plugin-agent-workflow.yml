@@ -1,0 +1,5 @@
+url: "https://github.com/xuanyuanzhifeng/dsh-plugin-agent-workflow"
+name: "xuanyuanzhifeng/dsh-plugin-agent-workflow"
+category: model
+description:
+  en: "DeepSeek Harness Agent Workflow."

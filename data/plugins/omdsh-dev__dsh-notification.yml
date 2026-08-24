@@ -1,0 +1,5 @@
+url: "https://github.com/omdsh-dev/dsh-notification"
+name: "omdsh-dev/dsh-notification"
+category: model
+description:
+  en: "Desktop notifications for DeepSeek Harness turn completions, with per-outcome controls and include/exclude keyword rules."

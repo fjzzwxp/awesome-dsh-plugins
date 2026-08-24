@@ -1,0 +1,5 @@
+url: "https://github.com/multica-ai/dsh-multica-runtime"
+name: "multica-ai/dsh-multica-runtime"
+category: tools
+description:
+  en: "Support dsh runtime on Multica."

@@ -1,0 +1,5 @@
+url: "https://github.com/omdsh-dev/DSH-better-sidebar"
+name: "omdsh-dev/DSH-better-sidebar"
+category: ui
+description:
+  en: "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages."

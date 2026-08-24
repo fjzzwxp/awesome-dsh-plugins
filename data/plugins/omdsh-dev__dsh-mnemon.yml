@@ -1,0 +1,5 @@
+url: "https://github.com/omdsh-dev/dsh-mnemon"
+name: "omdsh-dev/dsh-mnemon"
+category: model
+description:
+  en: "Three-tier memory control plane for DeepSeek Harness: persistent runtime context, searchable project documents, pluggable long-term memory, smart routing, supervised agent workflows, WebUI, and headless tools."

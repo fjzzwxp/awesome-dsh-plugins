@@ -1,0 +1,5 @@
+url: "https://github.com/omdsh-dev/dsh-data-agent"
+name: "omdsh-dev/dsh-data-agent"
+category: model
+description:
+  en: "Connect DSH to your database for conversational data analysis and actionable business insights."

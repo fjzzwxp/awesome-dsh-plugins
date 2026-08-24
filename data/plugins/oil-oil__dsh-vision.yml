@@ -1,0 +1,5 @@
+url: "https://github.com/oil-oil/dsh-vision"
+name: "oil-oil/dsh-vision"
+category: vision
+description:
+  en: "Near-native image understanding for DeepSeek Harness."

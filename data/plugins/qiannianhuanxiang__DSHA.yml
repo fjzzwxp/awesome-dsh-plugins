@@ -1,0 +1,5 @@
+url: "https://github.com/qiannianhuanxiang/DSHA"
+name: "qiannianhuanxiang/DSHA"
+category: model
+description:
+  en: "DeepSeek Harness 安卓启动器：内置 proot+Ubuntu，免 ROOT 免 Termux 一键运行 deepseek-harness，多源测速/分步安装/WebUI 预览/设备 Shell 桥接."

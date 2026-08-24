@@ -1,0 +1,5 @@
+url: "https://github.com/omdsh-dev/dsh-open-in-vscode"
+name: "omdsh-dev/dsh-open-in-vscode"
+category: ui
+description:
+  en: "Open DeepSeek Harness workspace directories in VS Code directly from the web GUI."

@@ -1,0 +1,5 @@
+url: "https://github.com/myYangyunfan/dsh_desktop"
+name: "myYangyunfan/dsh_desktop"
+category: model
+description:
+  en: "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch."

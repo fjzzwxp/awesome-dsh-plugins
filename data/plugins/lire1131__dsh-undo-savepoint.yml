@@ -1,0 +1,5 @@
+url: "https://github.com/lire1131/dsh-undo-savepoint"
+name: "lire1131/dsh-undo-savepoint"
+category: dev
+description:
+  en: "DSH crash-rescue plugin: undo config & plugin-code changes, secret-safe snapshots, one-click SAFE MODE, plus offline CLI/GUI that work even when DSH won't boot."

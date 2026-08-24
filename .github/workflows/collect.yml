@@ -1,12 +1,9 @@
 name: collect
 
-# Continuously enrich the plugin library: discover new dsh plugins on GitHub,
-# probe their stars, auto-classify, write them back, regenerate the READMEs,
-# and push. Vercel rebuilds the site from the new data on the resulting push.
 on:
   schedule:
-    # Every day at 03:17 UTC — an odd minute avoids the top-of-hour stampede.
-    - cron: '17 3 * * *'
+    # Twice daily: 03:17 and 15:17 UTC (11:17 and 23:17 Beijing time)
+    - cron: '17 3,15 * * *'
   workflow_dispatch: {}
 
 permissions:

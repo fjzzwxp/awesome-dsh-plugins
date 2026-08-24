@@ -1,0 +1,5 @@
+url: "https://github.com/MichengAI/dsh-archive-manager"
+name: "MichengAI/dsh-archive-manager"
+category: tools
+description:
+  en: "DSH Archive Manager 基于 DeepSeek Harness 的归档会话管理插件."

@@ -1,0 +1,5 @@
+url: "https://github.com/MichengAI/dsh-codex-desktop"
+name: "MichengAI/dsh-codex-desktop"
+category: model
+description:
+  en: "DeepSeek Harness Codex 跨平台桌面版，无需提前安装任何环境，开箱即用."

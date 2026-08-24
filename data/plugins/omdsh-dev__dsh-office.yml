@@ -1,0 +1,5 @@
+url: "https://github.com/omdsh-dev/dsh-office"
+name: "omdsh-dev/dsh-office"
+category: tools
+description:
+  en: "办公三件套！Office document tools for DeepSeek Harness (dsh): generate, read, and edit spreadsheets (.xlsx), PDFs, and presentations (.pptx)."

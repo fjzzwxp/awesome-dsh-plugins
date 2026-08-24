@@ -1,0 +1,5 @@
+url: "https://github.com/railgun0325/dsh-phone"
+name: "railgun0325/dsh-phone"
+category: remote
+description:
+  en: "让 DeepSeek Harness 的 agent 跑在手机里，通过 Magisk root 原生操作安卓系统（截图/点击/滑动/开应用）+ 移动端布局 + WebView APK."

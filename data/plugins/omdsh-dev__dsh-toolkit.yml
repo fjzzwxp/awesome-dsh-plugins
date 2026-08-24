@@ -1,0 +1,5 @@
+url: "https://github.com/omdsh-dev/dsh-toolkit"
+name: "omdsh-dev/dsh-toolkit"
+category: tools
+description:
+  en: "DSH 零依赖工具包 collection —— time / encoding / json / calculator / csv / regex / markdown / diff / stat / schema 十个确定性工具，统一入口一键安装."

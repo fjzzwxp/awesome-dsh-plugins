@@ -1,0 +1,5 @@
+url: "https://github.com/omdsh-dev/dsh-advisor"
+name: "omdsh-dev/dsh-advisor"
+category: model
+description:
+  en: "Advisor - Pair a second model that passively reviews each turn and injects notes. 搭配一个会在每轮对话被动注入见解和审查的副模型。"

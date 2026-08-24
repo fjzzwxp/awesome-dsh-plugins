@@ -1,0 +1,5 @@
+url: "https://github.com/omdsh-dev/dsh-gomoku"
+name: "omdsh-dev/dsh-gomoku"
+category: model
+description:
+  en: "在DSH中与AI下五子棋，也可以让AI对局，看哪个AI棋力更强."

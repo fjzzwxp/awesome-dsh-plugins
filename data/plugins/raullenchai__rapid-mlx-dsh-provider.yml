@@ -1,0 +1,5 @@
+url: "https://github.com/raullenchai/rapid-mlx-dsh-provider"
+name: "raullenchai/rapid-mlx-dsh-provider"
+category: model
+description:
+  en: "Native Rapid-MLX provider for DeepSeek Harness (dsh) — dsh reads model facts from the server instead of your settings.yaml."

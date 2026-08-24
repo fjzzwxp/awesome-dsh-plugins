@@ -1,0 +1,5 @@
+url: "https://github.com/not-big-dog/DSH-pipeline-kernel"
+name: "not-big-dog/DSH-pipeline-kernel"
+category: tools
+description:
+  en: "A DeepSeek Harness (dsh) plugin."

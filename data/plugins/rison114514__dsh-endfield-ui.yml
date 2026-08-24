@@ -1,0 +1,5 @@
+url: "https://github.com/rison114514/dsh-endfield-ui"
+name: "rison114514/dsh-endfield-ui"
+category: ui
+description:
+  en: "Endfield-inspired industrial UI shell for DeepSeek Harness (dsh) — non-official fan theme. Install: dsh plugin --profile web add @rison/dsh-endfield-ui."

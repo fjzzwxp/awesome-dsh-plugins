@@ -1,0 +1,5 @@
+url: "https://github.com/oil-oil/dsh-oil-sticky-prompt"
+name: "oil-oil/dsh-oil-sticky-prompt"
+category: model
+description:
+  en: "Pin the nearest user prompt to the top of a DeepSeek Harness transcript."

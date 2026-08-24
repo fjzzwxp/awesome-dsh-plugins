@@ -1,0 +1,5 @@
+url: "https://github.com/pyqx/dsh-preset-minimal-plus"
+name: "pyqx/dsh-preset-minimal-plus"
+category: skill
+description:
+  en: "A DeepSeek Harness (dsh) plugin."

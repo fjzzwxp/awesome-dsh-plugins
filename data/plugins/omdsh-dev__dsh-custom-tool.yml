@@ -1,0 +1,5 @@
+url: "https://github.com/omdsh-dev/dsh-custom-tool"
+name: "omdsh-dev/dsh-custom-tool"
+category: model
+description:
+  en: "Create and manage sandboxed JavaScript tools for DeepSeek Harness with a Monaco editor and model-driven tool lifecycle."

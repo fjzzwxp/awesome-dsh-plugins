@@ -1,0 +1,5 @@
+url: "https://github.com/omdsh-dev/dsh-deep-research"
+name: "omdsh-dev/dsh-deep-research"
+category: model
+description:
+  en: "Adaptive deep-research orchestrator plugin for DeepSeek Harness (official workflow engine, cybernetics/information-theory design)."

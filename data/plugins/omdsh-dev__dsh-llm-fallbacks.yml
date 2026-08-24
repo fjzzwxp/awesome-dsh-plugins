@@ -1,0 +1,5 @@
+url: "https://github.com/omdsh-dev/dsh-llm-fallbacks"
+name: "omdsh-dev/dsh-llm-fallbacks"
+category: model
+description:
+  en: "An dsh plugin for role-based LLM retry&fallback strategy. 基于角色的模型重试备用策略插件."

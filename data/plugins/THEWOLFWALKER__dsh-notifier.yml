@@ -1,0 +1,5 @@
+url: "https://github.com/THEWOLFWALKER/dsh-notifier"
+name: "THEWOLFWALKER/dsh-notifier"
+category: notify
+description:
+  en: "Unified notification push plugin for DeepSeek Harness (DSH): one minimal notify() API, 8 channel adapters (telegram/dingtalk/feishu/wxpusher/pushplus/serverchan/bark/webhook), dual trigger (auto session events + agent tool)."

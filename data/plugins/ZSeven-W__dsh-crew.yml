@@ -1,0 +1,5 @@
+url: "https://github.com/ZSeven-W/dsh-crew"
+name: "ZSeven-W/dsh-crew"
+category: vision
+description:
+  en: "DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation."

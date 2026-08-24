@@ -1,0 +1,5 @@
+url: "https://github.com/ZSeven-W/dsh-android"
+name: "ZSeven-W/dsh-android"
+category: dev
+description:
+  en: "DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb."

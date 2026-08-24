@@ -1,0 +1,5 @@
+url: "https://github.com/Stormycry-cryp/dsh-AuthInOne"
+name: "Stormycry-cryp/dsh-AuthInOne"
+category: model
+description:
+  en: "Self-contained DeepSeek Harness (DSH) plugin for Provider/Auth login, model switching, image fallback, token/cost analytics, and same-port Web restart. Useful? A star helps."

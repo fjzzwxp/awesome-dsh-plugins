@@ -1,0 +1,5 @@
+url: "https://github.com/CanglongCl/dsh-web-review"
+name: "CanglongCl/dsh-web-review"
+category: ui
+description:
+  en: "DeepSeek Harness Web GUI 的网页预览与元素批注插件，让 AI 根据可视化反馈直接修改前端源码。"

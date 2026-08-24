@@ -1,0 +1,5 @@
+url: "https://github.com/DCspirit-23/DSH-inspired-Code-Simplification-Skill"
+name: "DCspirit-23/DSH-inspired-Code-Simplification-Skill"
+category: git
+description:
+  en: "This Codex skill is adapted from DeepSeek Harness’s [dsh-find-simplifications](https://github.com/deepseek-ai/deepseek-harness/tree/master/.agents/skills/dsh-find-simplifications) skill."

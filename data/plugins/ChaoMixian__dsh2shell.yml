@@ -1,0 +1,5 @@
+url: "https://github.com/ChaoMixian/dsh2shell"
+name: "ChaoMixian/dsh2shell"
+category: model
+description:
+  en: "Unauthenticated RCE PoC for exposed DeepSeek Harness (dsh) web instances."

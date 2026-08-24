@@ -1,0 +1,5 @@
+url: "https://github.com/Clarklevis1995/dsh-mobile"
+name: "Clarklevis1995/dsh-mobile"
+category: remote
+description:
+  en: "DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生 iOS 客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言."

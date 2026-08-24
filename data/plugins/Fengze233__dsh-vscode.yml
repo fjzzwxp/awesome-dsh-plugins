@@ -1,0 +1,5 @@
+url: "https://github.com/Fengze233/dsh-vscode"
+name: "Fengze233/dsh-vscode"
+category: tools
+description:
+  en: "在 VS Code 侧边栏内嵌使用 DeepSeek Harness（DSH）网页界面的插件."

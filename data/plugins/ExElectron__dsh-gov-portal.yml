@@ -1,0 +1,5 @@
+url: "https://github.com/ExElectron/dsh-gov-portal"
+name: "ExElectron/dsh-gov-portal"
+category: model
+description:
+  en: "A DeepSeek Harness (dsh) plugin."

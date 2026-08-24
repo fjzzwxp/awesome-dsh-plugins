@@ -1,0 +1,5 @@
+url: "https://github.com/ChenRuoT/dsh-sidebar-qa"
+name: "ChenRuoT/dsh-sidebar-qa"
+category: model
+description:
+  en: "一个基于DSH-better-sidebar的侧边栏提问tab，实现类codex的侧边提问或claude code的/btw功能."

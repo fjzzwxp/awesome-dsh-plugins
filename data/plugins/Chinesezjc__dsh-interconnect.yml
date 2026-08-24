@@ -1,0 +1,5 @@
+url: "https://github.com/Chinesezjc/dsh-interconnect"
+name: "Chinesezjc/dsh-interconnect"
+category: tools
+description:
+  en: "Cross-instance message/event handoff plugins for DSH (interconnect service + tools)."

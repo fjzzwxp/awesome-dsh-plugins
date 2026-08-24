@@ -1,0 +1,5 @@
+url: "https://github.com/DietCokewithSugar/dsh-user-experience"
+name: "DietCokewithSugar/dsh-user-experience"
+category: ui
+description:
+  en: "Persona-driven UX walkthrough plugin for DeepSeek Harness (DSH) - scans React + TypeScript source code for UX issues, pinpoints them, and suggests fixes."

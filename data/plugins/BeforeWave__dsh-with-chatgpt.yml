@@ -1,0 +1,5 @@
+url: "https://github.com/BeforeWave/dsh-with-chatgpt"
+name: "BeforeWave/dsh-with-chatgpt"
+category: model
+description:
+  en: "Bring ChatGPT’s reasoning to your local codebase. Work directly, or delegate larger tasks to DSH."

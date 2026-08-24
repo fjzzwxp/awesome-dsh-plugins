@@ -1,0 +1,5 @@
+url: "https://github.com/Axiaohungry/dsh-llm-codebuddy"
+name: "Axiaohungry/dsh-llm-codebuddy"
+category: model
+description:
+  en: "在deepseek harness中使用workbuddy api，因为公司只提供workbuddy积分."

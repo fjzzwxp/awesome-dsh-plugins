@@ -1,0 +1,5 @@
+url: "https://github.com/AnkoCD/dsh-server-deployment"
+name: "AnkoCD/dsh-server-deployment"
+category: tools
+description:
+  en: "DeepSeek Harness 多用户服务器部署：登录门户 / 每用户独立实例与 OS 级隔离 / 独立 API Key / 交付文件抽屉；文件访问经 sudo 助手降权执行（修复 issue #1 TOCTOU）。非本机工具。"

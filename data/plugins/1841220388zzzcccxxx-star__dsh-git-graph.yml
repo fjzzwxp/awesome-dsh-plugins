@@ -1,0 +1,5 @@
+url: "https://github.com/1841220388zzzcccxxx-star/dsh-git-graph"
+name: "1841220388zzzcccxxx-star/dsh-git-graph"
+category: git
+description:
+  en: "Embedded git repository graph visualizer for the DeepSeek Harness Web GUI | 嵌入式 Git 仓库图谱可视化插件（提交历史图 / 分支过滤 / 文件 diff / VSCode 式未提交改动）."

@@ -1,0 +1,5 @@
+url: "https://github.com/A3Boy/dsh-web-tools"
+name: "A3Boy/dsh-web-tools"
+category: browser
+description:
+  en: "Multi-provider Web Search & Fetch for DeepSeek Harness — Tavily, Exa, Firecrawl, Brave, You.com, Jina & SearXNG with fallback and native settings UI."

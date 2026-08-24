@@ -1,0 +1,5 @@
+url: "https://github.com/zexadev/dsh-tether"
+name: "zexadev/dsh-tether"
+category: remote
+description:
+  en: "Reach the DeepSeek Harness on your dev machine from your phone — across networks, through no server at all (iroh P2P)."

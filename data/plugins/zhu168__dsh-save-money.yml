@@ -1,0 +1,5 @@
+url: "https://github.com/zhu168/dsh-save-money"
+name: "zhu168/dsh-save-money"
+category: model
+description:
+  en: "Save-money plugin for DSH (DeepSeek Harness) — define your own \"pause / resume\" time windows; at pause time running long tasks are paused (not stopped) automatically, and they resume when the window ends."

@@ -1,0 +1,5 @@
+url: "https://github.com/zebbkira/dsh-skills-mcp-manager"
+name: "zebbkira/dsh-skills-mcp-manager"
+category: tools
+description:
+  en: "面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。"

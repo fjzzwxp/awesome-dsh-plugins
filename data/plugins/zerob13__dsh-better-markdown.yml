@@ -1,0 +1,5 @@
+url: "https://github.com/zerob13/dsh-better-markdown"
+name: "zerob13/dsh-better-markdown"
+category: model
+description:
+  en: "DeepSeek Harness Web plugin powered by markstream-react for resilient streaming Markdown, Mermaid diagrams, KaTeX math, and safe renderer fallback."

@@ -1,0 +1,5 @@
+url: "https://github.com/yyyyukari/dsh-plugin-workshop"
+name: "yyyyukari/dsh-plugin-workshop"
+category: git
+description:
+  en: "Steam Workshop-style plugin browser for the DeepSeek Harness (DSH) Web UI - zero-server: GitHub-powered search, trending windows, Chinese search & bilingual translation, plugin-signature filtering, and smart one-click install/update/uninstall with an installed-plugins manager."

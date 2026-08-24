@@ -1,0 +1,5 @@
+url: "https://github.com/xmutfyh/dsh-plugin-writing-guard"
+name: "xmutfyh/dsh-plugin-writing-guard"
+category: model
+description:
+  en: "DeepSeek Harness (DSH) academic writing guard for papers — 论文去AI味 / AI-writing style detection, evidence preservation, journal-fit calibration, manuscript proofreading, writing_audit & automatic checks. Local, zero network, zero LLM."

@@ -1,0 +1,5 @@
+url: "https://github.com/zhoujianbin/dsh-team-hub"
+name: "zhoujianbin/dsh-team-hub"
+category: model
+description:
+  en: "Turn a single-user DeepSeek Harness instance into a secure, workspace-isolated team service."

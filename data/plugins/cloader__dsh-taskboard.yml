@@ -1,0 +1,5 @@
+url: "https://github.com/cloader/dsh-taskboard"
+name: "cloader/dsh-taskboard"
+category: tools
+description:
+  en: "deepseekharness 任务看板插件."

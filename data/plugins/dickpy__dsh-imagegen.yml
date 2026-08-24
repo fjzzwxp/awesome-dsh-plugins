@@ -1,0 +1,5 @@
+url: "https://github.com/dickpy/dsh-imagegen"
+name: "dickpy/dsh-imagegen"
+category: model
+description:
+  en: "DSH (DeepSeek Harness) Web GUI AI image generation plugin: text-to-image & image-to-image via OpenAI-compatible endpoints (gpt-image-2), with shared cross-device history."

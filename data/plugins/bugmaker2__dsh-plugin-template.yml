@@ -1,0 +1,5 @@
+url: "https://github.com/bugmaker2/dsh-plugin-template"
+name: "bugmaker2/dsh-plugin-template"
+category: model
+description:
+  en: "Template for deepseek-harness plugin development."

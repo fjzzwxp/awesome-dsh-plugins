@@ -1,0 +1,5 @@
+url: "https://github.com/chenw2759-wq/dsh-plugin-healthcheck"
+name: "chenw2759-wq/dsh-plugin-healthcheck"
+category: tools
+description:
+  en: "害怕插件装了就崩溃？用这个插件帮你检测插件是否正常/是否含木马！."

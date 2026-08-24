@@ -1,0 +1,5 @@
+url: "https://github.com/ccq1/dsh-side-panel"
+name: "ccq1/dsh-side-panel"
+category: git
+description:
+  en: "DSH 侧边栏，集成文件浏览器、终端和 Git 审查，方便预览文件。"

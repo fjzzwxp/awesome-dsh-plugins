@@ -1,0 +1,5 @@
+url: "https://github.com/dingyi222666/dsh-session-notification"
+name: "dingyi222666/dsh-session-notification"
+category: session
+description:
+  en: "提供会话完成等四种状态的通知响应，支持浏览器提示和提示词."

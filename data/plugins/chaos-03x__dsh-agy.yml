@@ -1,0 +1,5 @@
+url: "https://github.com/chaos-03x/dsh-agy"
+name: "chaos-03x/dsh-agy"
+category: model
+description:
+  en: "Google Antigravity (agy) OAuth auth + model access plugin for DeepSeek Harness: multi-account pool, 429 rotation, device fingerprinting, CLI and web login."

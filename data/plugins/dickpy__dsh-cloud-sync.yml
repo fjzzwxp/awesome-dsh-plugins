@@ -1,0 +1,5 @@
+url: "https://github.com/dickpy/dsh-cloud-sync"
+name: "dickpy/dsh-cloud-sync"
+category: model
+description:
+  en: "Portable DeepSeek Harness profile and local-plugin source synchronization via WebDAV."

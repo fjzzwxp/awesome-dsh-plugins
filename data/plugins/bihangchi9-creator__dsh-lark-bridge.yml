@@ -1,0 +1,5 @@
+url: "https://github.com/bihangchi9-creator/dsh-lark-bridge"
+name: "bihangchi9-creator/dsh-lark-bridge"
+category: model
+description:
+  en: "A native DeepSeek Harness (dsh) plugin bridging dsh coding agents to Feishu/Lark group chats — one group, one project directory."

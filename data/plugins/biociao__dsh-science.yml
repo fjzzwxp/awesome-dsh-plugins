@@ -1,0 +1,5 @@
+url: "https://github.com/biociao/dsh-science"
+name: "biociao/dsh-science"
+category: tools
+description:
+  en: "A DeepSeek Harness (dsh) plugin."

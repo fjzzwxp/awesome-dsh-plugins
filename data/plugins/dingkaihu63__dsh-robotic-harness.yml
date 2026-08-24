@@ -1,0 +1,5 @@
+url: "https://github.com/dingkaihu63/dsh-robotic-harness"
+name: "dingkaihu63/dsh-robotic-harness"
+category: tools
+description:
+  en: "Robotic Harness: embodied-intelligence research tools for DeepSeek Harness - robot asset inspection, MuJoCo pick-place simulation with fault injection, evidence-based diagnostics, and reproducible experiment bundles."

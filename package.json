@@ -22,5 +22,8 @@
   },
   "devDependencies": {
     "js-yaml": "^4.1.0"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
   }
 }

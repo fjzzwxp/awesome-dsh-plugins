@@ -1,0 +1,5 @@
+url: "https://github.com/huiliyi37/dsh-tianshu-tui"
+name: "huiliyi37/dsh-tianshu-tui"
+category: tools
+description:
+  en: "官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简渲染核心（由作者自己的开源项目天枢 Tui 演进）、流式 Markdown/工具卡、多会话 tab、16+ 主题、slash 命令与选择器、输入历史与本地偏好持久化、LSP 诊断、成本统计、启动自更新。纯展示层。"

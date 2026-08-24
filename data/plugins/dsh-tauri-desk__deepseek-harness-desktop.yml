@@ -1,0 +1,5 @@
+url: "https://github.com/dsh-tauri-desk/deepseek-harness-desktop"
+name: "dsh-tauri-desk/deepseek-harness-desktop"
+category: model
+description:
+  en: "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux."

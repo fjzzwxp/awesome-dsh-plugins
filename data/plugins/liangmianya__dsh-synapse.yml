@@ -1,0 +1,5 @@
+url: "https://github.com/liangmianya/dsh-synapse"
+name: "liangmianya/dsh-synapse"
+category: session
+description:
+  en: "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness."

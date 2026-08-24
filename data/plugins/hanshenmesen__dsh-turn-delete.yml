@@ -1,0 +1,5 @@
+url: "https://github.com/hanshenmesen/dsh-turn-delete"
+name: "hanshenmesen/dsh-turn-delete"
+category: model
+description:
+  en: "Delete one complete turn from a DeepSeek Harness session without deleting the session."

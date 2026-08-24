@@ -1,0 +1,5 @@
+url: "https://github.com/eri64/dsh-claude-ux"
+name: "eri64/dsh-claude-ux"
+category: model
+description:
+  en: "DSH plugin: Claude-style Chinese risk control & conversation autonomy for DeepSeek Harness web."

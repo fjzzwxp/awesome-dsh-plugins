@@ -1,0 +1,5 @@
+url: "https://github.com/franksong2702/dsh-codex-connect"
+name: "franksong2702/dsh-codex-connect"
+category: model
+description:
+  en: "Use openai-codex models and image generation via ChatGPT OAuth for DeepSeek Harness."

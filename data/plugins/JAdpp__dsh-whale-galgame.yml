@@ -1,0 +1,5 @@
+url: "https://github.com/JAdpp/dsh-whale-galgame"
+name: "JAdpp/dsh-whale-galgame"
+category: model
+description:
+  en: "工作推gal两不误~面向DeepSeek Harness的跨会话事件感知Galgame引擎与界面插件，支持鲸鱼娘/GPT/Claude/Grok/Gemini/Kimi多位模型娘角色."

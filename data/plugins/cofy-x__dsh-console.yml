@@ -1,0 +1,5 @@
+url: "https://github.com/cofy-x/dsh-console"
+name: "cofy-x/dsh-console"
+category: ui
+description:
+  en: "A TypeScript and React/Ink terminal frontend for DeepSeek Harness."

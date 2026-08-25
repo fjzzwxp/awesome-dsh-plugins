@@ -1,0 +1,5 @@
+url: "https://github.com/cyijun/dsh-surfing-plugin"
+name: "cyijun/dsh-surfing-plugin"
+category: browser
+description:
+  en: "SearXNG search and Crawl4AI fetch providers for DeepSeek Harness."

@@ -1,0 +1,5 @@
+url: "https://github.com/ai-shushu/dsh-quota-meter"
+name: "ai-shushu/dsh-quota-meter"
+category: usage
+description:
+  en: "Per-session quota meter for DSH: real-token billing, live progress bar, budget blocking, configurable multi-model pricing. 会话额度监控：真实记账、进度条、额度拦截、价目可配。"

@@ -1,0 +1,5 @@
+url: "https://github.com/SeaOf0/dsh-redteam-model"
+name: "SeaOf0/dsh-redteam-model"
+category: model
+description:
+  en: "基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，不定期完善逻辑与修复bug）."

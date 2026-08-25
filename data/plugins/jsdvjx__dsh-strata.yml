@@ -1,0 +1,5 @@
+url: "https://github.com/jsdvjx/dsh-strata"
+name: "jsdvjx/dsh-strata"
+category: session
+description:
+  en: "Session strata for the DeepSeek Harness Web GUI: the transcript's scrollbar becomes a to-scale, colour-coded map of the whole run, with your own messages emphasised and clickable anchors."

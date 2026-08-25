@@ -1,0 +1,5 @@
+url: "https://github.com/songoao25/dsh-bottom-info-bar"
+name: "songoao25/dsh-bottom-info-bar"
+category: model
+description:
+  en: "Bottom Info Bar — an information bar plugin for DeepSeek Harness: provider/model, live balance, peak/off-peak pricing with countdown, and real persisted per-session spend in a single line."

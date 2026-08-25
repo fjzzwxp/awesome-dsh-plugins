@@ -1,0 +1,5 @@
+url: "https://github.com/Yuntwo/dsh-langfuse-plugin"
+name: "Yuntwo/dsh-langfuse-plugin"
+category: model
+description:
+  en: "Langfuse telemetry sidecar bundle for DeepSeek Harness."

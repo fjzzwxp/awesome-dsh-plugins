@@ -1,0 +1,5 @@
+url: "https://github.com/kenz1117/dsh-ui-usage-billing"
+name: "kenz1117/dsh-ui-usage-billing"
+category: ui
+description:
+  en: "Usage billing dashboard plugin for DeepSeek Harness: sidebar cost metrics, real usage aggregation from session logs, current multi-provider pricing catalog."

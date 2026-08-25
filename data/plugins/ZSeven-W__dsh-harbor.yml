@@ -1,0 +1,5 @@
+url: "https://github.com/ZSeven-W/dsh-harbor"
+name: "ZSeven-W/dsh-harbor"
+category: tools
+description:
+  en: "DeepSeek Harness (DSH) plugin: a read-only ledger for the plugins you already have installed — a capability inventory with file:line evidence, declared-vs-detected reconciliation, cross-profile version drift, and a diff of what changed since the last scan."

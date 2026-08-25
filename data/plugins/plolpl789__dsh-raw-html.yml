@@ -1,0 +1,5 @@
+url: "https://github.com/plolpl789/dsh-raw-html"
+name: "plolpl789/dsh-raw-html"
+category: ui
+description:
+  en: "VCP visual-synesthesia protocol plugin for DeepSeek Harness: render agent HTML output as real UI (cards / KaTeX math / Mermaid diagrams / built-in calligraphy fonts / zero-JS interactions), plug-and-play on any DSH environment."

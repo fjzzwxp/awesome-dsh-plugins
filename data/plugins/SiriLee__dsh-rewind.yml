@@ -1,0 +1,5 @@
+url: "https://github.com/SiriLee/dsh-rewind"
+name: "SiriLee/dsh-rewind"
+category: model
+description:
+  en: "DeepSeek Harness plugin: in-place conversation rewind in the same session window (Claude Code /rewind semantics) + optional file restore."

@@ -1,0 +1,5 @@
+url: "https://github.com/WSL043/DSH-Portable"
+name: "WSL043/DSH-Portable"
+category: ui
+description:
+  en: "A truly portable DeepSeek Harness desktop build. Sessions, settings, plugins, and workspace move with the folder."

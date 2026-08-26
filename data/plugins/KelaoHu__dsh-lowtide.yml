@@ -1,0 +1,5 @@
+url: "https://github.com/KelaoHu/dsh-lowtide"
+name: "KelaoHu/dsh-lowtide"
+category: workflow
+description:
+  en: "Time-shifting task delegation for DeepSeek Harness (dsh): plan tasks at leisure, they run unattended off-peak, come back to a report. Human-adjudicated, desktop + web."

@@ -1,0 +1,5 @@
+url: "https://github.com/Soren-ABT/dsh-knowledge"
+name: "Soren-ABT/dsh-knowledge"
+category: memory
+description:
+  en: "Knowledge base & RAG plugin for DeepSeek Harness (DSH): chunking, local embeddings, hybrid search, management panel."

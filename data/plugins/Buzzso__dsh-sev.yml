@@ -1,0 +1,5 @@
+url: "https://github.com/Buzzso/dsh-sev"
+name: "Buzzso/dsh-sev"
+category: remote
+description:
+  en: "Remote DSH host management for DeepSeek Harness — run a headless dsh on your own server, operate it from the local GUI (SSH tunnels, mixed session list, auto-heal)."

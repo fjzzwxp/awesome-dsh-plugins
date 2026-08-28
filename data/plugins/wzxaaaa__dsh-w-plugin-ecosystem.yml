@@ -1,0 +1,5 @@
+url: "https://github.com/wzxaaaa/dsh-w-plugin-ecosystem"
+name: "wzxaaaa/dsh-w-plugin-ecosystem"
+category: tools
+description:
+  en: "为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插."

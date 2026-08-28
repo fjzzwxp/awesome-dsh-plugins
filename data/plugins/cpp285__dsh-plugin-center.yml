@@ -1,0 +1,5 @@
+url: "https://github.com/cpp285/dsh-plugin-center"
+name: "cpp285/dsh-plugin-center"
+category: model
+description:
+  en: "A compact discovery and lifecycle console for DeepSeek Harness plugins."

@@ -1,0 +1,5 @@
+url: "https://github.com/AdamPlatin123/dsh-plugin-radar"
+name: "AdamPlatin123/dsh-plugin-radar"
+category: tools
+description:
+  en: "DSH Plugin Radar — 开源 DSH 插件生态雷达：自动发现 15900+ 候选、k8s 运行级实测 10000+、15 分钟快照管线；插件目录是其自动生成的 artifact."

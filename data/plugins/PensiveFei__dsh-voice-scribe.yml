@@ -1,0 +1,5 @@
+url: "https://github.com/PensiveFei/dsh-voice-scribe"
+name: "PensiveFei/dsh-voice-scribe"
+category: model
+description:
+  en: "DSH voice input plugin: tap Alt to talk, get text in composer. Web Speech default (zero config), optional OpenAI-compatible ASR, polish via DSH LLM."

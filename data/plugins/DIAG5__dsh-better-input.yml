@@ -1,0 +1,5 @@
+url: "https://github.com/DIAG5/dsh-better-input"
+name: "DIAG5/dsh-better-input"
+category: voice
+description:
+  en: "BetterInput是一套输入增强套件：从语音识别、AI 润色、提示词优化，到把各类文件转成结构清晰的Md，再到交互体验优化等——把每一种喂给智能体的输入都变得更好。BetterInput is an input-enhancement suite for DSH: voice recognition, AI polishing, prompt optimization, turning files into structured Markdown, and UX refinements — making every input you feed an agent better."

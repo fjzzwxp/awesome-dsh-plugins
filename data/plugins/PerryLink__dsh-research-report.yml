@@ -1,0 +1,5 @@
+url: "https://github.com/PerryLink/dsh-research-report"
+name: "PerryLink/dsh-research-report"
+category: git
+description:
+  en: "Verifiable research-report engine for DeepSeek Harness: content-addressed evidence ledger (claim-snapshot binding, tamper-evident) plus versioned sealed reports with per-claim verification verdicts and a manifest-sealed directory."

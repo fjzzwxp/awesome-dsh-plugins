@@ -1,0 +1,5 @@
+url: "https://github.com/HakureiMonika/dsh-sandbox-escalation-fix"
+name: "HakureiMonika/dsh-sandbox-escalation-fix"
+category: model
+description:
+  en: "Session-aware sandbox escalation compatibility plugin for DeepSeek Harness/DSH第三方模型会话沙箱升级兼容插件."

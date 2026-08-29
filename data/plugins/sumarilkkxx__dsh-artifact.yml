@@ -1,0 +1,5 @@
+url: "https://github.com/sumarilkkxx/dsh-artifact"
+name: "sumarilkkxx/dsh-artifact"
+category: model
+description:
+  en: "Inline ECharts rendering plugin for DeepSeek Harness."

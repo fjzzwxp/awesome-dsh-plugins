@@ -1,0 +1,5 @@
+url: "https://github.com/guo6x/dsh-pilot"
+name: "guo6x/dsh-pilot"
+category: session
+description:
+  en: "Give your DSH agent hands: drive a real browser (Edge/Chrome over CDP) from the chat — ref-driven clicking, per-session browsers, and a live cockpit panel. Zero runtime deps, no API key."

@@ -1,0 +1,5 @@
+url: "https://github.com/hytime/dsh-thinking-effort"
+name: "hytime/dsh-thinking-effort"
+category: model
+description:
+  en: "Configurable reasoning levels for hand-declared DSH llm-pi-ai models, with bilingual settings and subagent defaults."

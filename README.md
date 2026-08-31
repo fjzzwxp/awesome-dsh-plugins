@@ -68,6 +68,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [bill9109/dsh-drag-and-drop](https://github.com/bill9109/dsh-drag-and-drop) - 为 DSH Web UI 增加跨平台文件拖拽与原始路径插入能力，无需复制文件.
 - [CanglongCl/dsh-web-review](https://github.com/CanglongCl/dsh-web-review) - DeepSeek Harness Web GUI 的网页预览与元素批注插件，让 AI 根据可视化反馈直接修改前端源码。
 - [CAPTAIN1275/dsh-ui-web](https://github.com/CAPTAIN1275/dsh-ui-web) - A DeepSeek Harness (dsh) plugin.
+- [Chengzhibense/Fairy-DSH](https://github.com/Chengzhibense/Fairy-DSH) - Fairy personality and visual plugin suite for DeepSeek Harness.
 - [cofy-x/dsh-console](https://github.com/cofy-x/dsh-console) - A TypeScript and React/Ink terminal frontend for DeepSeek Harness.
 - [dhicoc/dsh-chinese-traditional-wisdom-skill](https://github.com/dhicoc/dsh-chinese-traditional-wisdom-skill) - 中华传统智慧（玄枢）AI Agent 技能包的 DeepSeek Harness（dsh）Cordis 插件：八字/紫微/六爻/梅花/奇门/风水/五运六气/体质全融合，本地确定性引擎 + 可视化 Dashboard，一行 dsh plugin add 安装。
 - [DietCokewithSugar/dsh-user-experience](https://github.com/DietCokewithSugar/dsh-user-experience) - Persona-driven UX walkthrough plugin for DeepSeek Harness (DSH) - scans React + TypeScript source code for UX issues, pinpoints them, and suggests fixes.
@@ -415,10 +416,12 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [MichengAI/dsh-codex-ui](https://github.com/MichengAI/dsh-codex-ui) - DSH Codex UI 基于 DeepSeek Harness 的 Codex UI 插件，还原度90%，小细节拉满.
 - [MichengAI/dsh-skills-manager](https://github.com/MichengAI/dsh-skills-manager) - DSH Skills Manager 基于 DeepSeek Harness 的Skills管理插件.
 - [Minglink/dsh-infinite-gen-2](https://github.com/Minglink/dsh-infinite-gen-2) - DeepSeek 专用破甲插件「无限二代」dsh-infinite-gen-2 — armor-breaking plugin for DeepSeek稳定化破甲提示词，求 Star 收藏 ⭐.
+- [Minglink/dsh-infinite-gen-3](https://github.com/Minglink/dsh-infinite-gen-3) - DeepSeek 专用破甲插件「无限三代」dsh-infinite-gen-3 — armor-breaking plugin for DeepSeek，破甲版：稳定化破甲，求 Star 收藏 ⭐.
 - [Moeblack/dsh-message-edit](https://github.com/Moeblack/dsh-message-edit) - DSH 插件：分支式消息编辑、重掷、重试与版本时间线 | DSH plugin: branch-based message editing, reroll, retry, version timeline.
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) - Support dsh runtime on Multica.
 - [not-big-dog/DSH-pipeline-kernel](https://github.com/not-big-dog/DSH-pipeline-kernel) - A DeepSeek Harness (dsh) plugin.
 - [Nyasers/dsh-hanako](https://github.com/Nyasers/dsh-hanako) - DSH for Hanako.
+- [oh-my-dsh/dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill) - 帮助插件自动随着dsh版本升级的skill.
 - [omdsh-dev/dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) - DSH Web 选中批注插件：选文字→批注→回车随消息发送；气泡隐藏批注块（零闪烁）；回复按 Annotation N 逐条对照（可悬浮芯片）。官方 bundle，零核心改动.
 - [omdsh-dev/dsh-lark](https://github.com/omdsh-dev/dsh-lark) - Lark/Feishu IM bot channel for DeepSeek Harness | 飞书 DeepSeek Harness （DSH）插件.
 - [omdsh-dev/dsh-office](https://github.com/omdsh-dev/dsh-office) - 办公三件套！Office document tools for DeepSeek Harness (dsh): generate, read, and edit spreadsheets (.xlsx), PDFs, and presentations (.pptx).

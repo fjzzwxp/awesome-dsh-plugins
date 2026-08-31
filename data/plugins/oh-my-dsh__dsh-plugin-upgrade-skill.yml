@@ -1,0 +1,5 @@
+url: "https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill"
+name: "oh-my-dsh/dsh-plugin-upgrade-skill"
+category: tools
+description:
+  en: "帮助插件自动随着dsh版本升级的skill."

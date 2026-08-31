@@ -1,0 +1,5 @@
+url: "https://github.com/hanshanyike/dsh-yolo"
+name: "hanshanyike/dsh-yolo"
+category: model
+description:
+  en: "把对话里说过的重要事情，变成持续可跟进的计划。 为 deepseek-harness 打造的个人助手：从对话中整理事项、跟踪变化，并在需要时提醒你。"

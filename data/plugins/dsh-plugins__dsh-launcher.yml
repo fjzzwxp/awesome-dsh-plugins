@@ -1,0 +1,5 @@
+url: "https://github.com/dsh-plugins/dsh-launcher"
+name: "dsh-plugins/dsh-launcher"
+category: model
+description:
+  en: "A desktop launcher for running multiple DeepSeek Harness (DSH) versions and instances side by side. 多版本、多实例的 DeepSeek Harness (DSH) 桌面启动器。"

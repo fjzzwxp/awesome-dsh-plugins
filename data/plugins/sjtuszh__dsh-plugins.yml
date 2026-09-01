@@ -1,0 +1,5 @@
+url: "https://github.com/sjtuszh/dsh-plugins"
+name: "sjtuszh/dsh-plugins"
+category: tools
+description:
+  en: "A DeepSeek Harness (dsh) plugin."

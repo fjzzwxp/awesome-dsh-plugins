@@ -1,0 +1,5 @@
+url: "https://github.com/akira399/dsh-godot-skill"
+name: "akira399/dsh-godot-skill"
+category: tools
+description:
+  en: "Godot Engine 4.x 全栈游戏开发技能插件 for DeepSeek Harness (DSH) — registers the godot-4-development skill at runtime."

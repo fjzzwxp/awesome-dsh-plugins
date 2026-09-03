@@ -1,0 +1,5 @@
+url: "https://github.com/SCSpotato/dsh-remote"
+name: "SCSpotato/dsh-remote"
+category: remote
+description:
+  en: "Native Android client to remotely control DeepSeek Harness (DSH) from your phone."

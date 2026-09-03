@@ -1,0 +1,5 @@
+url: "https://github.com/FishBottle7/opencode2dsh"
+name: "FishBottle7/opencode2dsh"
+category: model
+description:
+  en: "DSH plugin — free OpenCode Zen models for DeepSeek Harness (DSH). Free LLM API, no API key needed. 在 DSH 中使用 OpenCode Zen 免费模型，无需 API key."

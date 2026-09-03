@@ -1,0 +1,5 @@
+url: "https://github.com/pax-beehive/dsh-hub-cli"
+name: "pax-beehive/dsh-hub-cli"
+category: dev
+description:
+  en: "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub."

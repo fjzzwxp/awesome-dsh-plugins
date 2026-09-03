@@ -1,0 +1,5 @@
+url: "https://github.com/YRN-playmaker/dsh-wallpaper_share"
+name: "YRN-playmaker/dsh-wallpaper_share"
+category: tools
+description:
+  en: "一键同步壁纸引擎各类动态场景壁纸的插件，设置应用启动项。A \"wallpaper engine\" synchronization plugin mounted on the deepseek harness can synchronize static wallpapers."

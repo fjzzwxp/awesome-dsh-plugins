@@ -1,0 +1,5 @@
+url: "https://github.com/sagirimo/BioDSH"
+name: "sagirimo/BioDSH"
+category: model
+description:
+  en: "The bioinformatics agent desktop for clinicians and wet-lab scientists — built on DeepSeek Harness. One-click installers, a skill store, offline mode."

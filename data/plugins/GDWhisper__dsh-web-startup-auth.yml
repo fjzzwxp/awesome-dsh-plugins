@@ -1,0 +1,5 @@
+url: "https://github.com/GDWhisper/dsh-web-startup-auth"
+name: "GDWhisper/dsh-web-startup-auth"
+category: tools
+description:
+  en: "DSH（DeepSeek Harness）远程 Web 启动 + 用户名/密码认证插件。 | DeepSeek Harness Remote‑Web‑Launch Plugin with Username/Password Auth."

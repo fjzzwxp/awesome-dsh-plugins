@@ -1,0 +1,5 @@
+url: "https://github.com/LiZhenNet/dsh-antigravity"
+name: "LiZhenNet/dsh-antigravity"
+category: model
+description:
+  en: "为 DeepSeek Harness (DSH) 打造的 Google Antigravity 模型提供者插件/Google Antigravity LLM provider for DeepSeek Harness with native Web OAuth, real-time quota tracking, and dynamic reasoning effort routing."

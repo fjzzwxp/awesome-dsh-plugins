@@ -1,0 +1,5 @@
+url: "https://github.com/sunxin-ai/dsh-design-qa"
+name: "sunxin-ai/dsh-design-qa"
+category: model
+description:
+  en: "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches the mock. Ships the benchmark behind that judgement — four fixtures, 23 injected defects, and every raw model transcript. Retires itself when DeepSeek ships vision."

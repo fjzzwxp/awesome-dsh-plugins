@@ -1,0 +1,5 @@
+url: "https://github.com/moon09300731/dsh-approval-gate"
+name: "moon09300731/dsh-approval-gate"
+category: security
+description:
+  en: "DeepSeek Harness 自动审批门控：Flash 预判不可回补操作，安全自动批准、危险转人工（fail-safe）."

@@ -1,0 +1,5 @@
+url: "https://github.com/Jiyr0119/dsh-workspace-explorer"
+name: "Jiyr0119/dsh-workspace-explorer"
+category: ui
+description:
+  en: "DeepSeek Harness 工作区文件资源管理器:右侧目录树面板,点击/拖拽文件引用进输入框,UI 对齐 DSH 原生风格 | Workspace file explorer plugin for DeepSeek Harness: right-side file tree panel, click or drag file references into the composer, native DSH look."

@@ -1,0 +1,5 @@
+url: "https://github.com/GZX2211/dsh-Visual-Workflow"
+name: "GZX2211/dsh-Visual-Workflow"
+category: tools
+description:
+  en: "专为 DeepSeek Harness Web GUI 打造的可视化多 Agent 工作流编排插件。公开测试版已上线！接下来会随着 DSH 的正式版上线一并发布正式版！最新声明：非常抱歉，经过昨日的一个测试，发现编排引擎会偶发提示词交叉，导致子代理越权行为，并且自己调用已限制工具，可能会有安全隐患，正在修复。"

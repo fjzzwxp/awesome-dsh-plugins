@@ -1,0 +1,5 @@
+url: "https://github.com/DSH-APP/DSHA"
+name: "DSH-APP/DSHA"
+category: model
+description:
+  en: "免 ROOT 免 Termux，在手机上跑 DeepSeek Harness。完整 Ubuntu 环境 + proroot 零 ptrace 开销 · AI 输出实时上屏 · ADB 直连 · 数据不丢."

@@ -1,0 +1,5 @@
+url: "https://github.com/yexi-by/dsh-unrestricted"
+name: "yexi-by/dsh-unrestricted"
+category: tools
+description:
+  en: "DeepSeek Harness Web 可开关破限提示词插件，支持多模式、子代理和锚点兼容检查。"

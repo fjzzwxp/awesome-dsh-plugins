@@ -1,0 +1,5 @@
+url: "https://github.com/ExElectron/dsh-tool-hongtou"
+name: "ExElectron/dsh-tool-hongtou"
+category: tools
+description:
+  en: "DeepSeek Harness 红头公文插件：两阶段解耦流水线（LLM 结构化提纲 + 确定性 Word 2003 XML 版式渲染）生成标准红头公文."

@@ -480,6 +480,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [Yan-Zero/dsh-std](https://github.com/Yan-Zero/dsh-std) - A DeepSeek Harness (dsh) plugin.
 - [yejiming/dsh-museai-tavern](https://github.com/yejiming/dsh-museai-tavern) - MuseAI的DeepSeek Harness插件，可以将你的MuseAI角色放进DSH使用啦！.
 - [yexi-by/dsh-unrestricted](https://github.com/yexi-by/dsh-unrestricted) - DeepSeek Harness Web 可开关破限提示词插件，支持多模式、子代理和锚点兼容检查。
+- [yjh051108/dsh-agi-harness](https://github.com/yjh051108/dsh-agi-harness) - AGI harness: 责任闭环、信誉、学习的外部化（DSH 插件组合）.
 - [yjh051108/dsh-router-standard](https://github.com/yjh051108/dsh-router-standard) - Task-aware reasoning-mode router for DeepSeek Harness: three measured behavior bands (spec/mixed/react) with phase-transition evidence, persona + first-turn tool injection, agent-visible tuning. Dual-attractor policy paper included.
 - [yjh051108/dsh-super-injector](https://github.com/yjh051108/dsh-super-injector) - A DeepSeek Harness (dsh) plugin.
 - [YRN-playmaker/dsh-wallpaper_share](https://github.com/YRN-playmaker/dsh-wallpaper_share) - 一键同步壁纸引擎各类动态场景壁纸的插件，设置应用启动项。A "wallpaper engine" synchronization plugin mounted on the deepseek harness can synchronize static wallpapers.
@@ -500,6 +501,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - ⭐ [deepstreamIO/dsh-demo-webrtc-examples](https://github.com/deepstreamIO/dsh-demo-webrtc-examples) - A DeepSeek Harness (dsh) plugin.
 - [2672243194/dsh-read-url](https://github.com/2672243194/dsh-read-url) - DeepSeek Harness URL reader: fetch any page and return clean main-content text/Markdown. Auto charset (GBK/GB2312/UTF-8/Big5), token-efficient (6000-char cap, cache, offset), zero deps, no API key. 网页一键读全文 → 干净正文 / 结构化 Markdown.
 - [A3Boy/dsh-web-tools](https://github.com/A3Boy/dsh-web-tools) - Multi-provider Web Search & Fetch for DeepSeek Harness — Tavily, Exa, Firecrawl, Brave, You.com, Jina & SearXNG with fallback and native settings UI.
+- [antibrow/dsh-antibrow](https://github.com/antibrow/dsh-antibrow) - DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
 - [cyijun/dsh-surfing-plugin](https://github.com/cyijun/dsh-surfing-plugin) - SearXNG search and Crawl4AI fetch providers for DeepSeek Harness.
 - [statem-li/dsh-webui](https://github.com/statem-li/dsh-webui) - DeepSeek Harness 会话增强全家桶：定时自动化任务引擎（cron 调度·绑定模型真实执行·Agent 建议确认）、会话产物卡片、对话退回与文件回退/修改历史对比、视图图块与消息导航、工具调用聚合、Markdown 渲染、模型推理等级同步与 Developer Role 兼容检测、AnySearch 网页搜索、本地记忆（hybrid 检索）、用量工作台与 Token 预算、技能管理、文件浏览器、供应商设置、AI 浏览器、生图/辅助视觉、邮箱验证码、网络代理、任务完成提示音、审批提醒等。
 - [xgone/dsh-remote](https://github.com/xgone/dsh-remote) - Remote access for DeepSeek Harness: account/password auth + MFA (TOTP) login gate, signed session cookies, role-based access, in-browser directory picker, and a Settings page for account management.
@@ -577,6 +579,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [lxzy-7/dsh-plugin-guard](https://github.com/lxzy-7/dsh-plugin-guard) - Install safety net for DeepSeek Harness: pre-install snapshots, one-click/automatic rollback, guarded boot, and incident reports that auto-trigger agent analysis. 中文: DeepSeek Harness 插件安装安全网（安装前自动快照、一键/自动回退、守护启动、事故报告自动触发 Agent 分析）。
 - [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) - Import 14+ external agent chat histories (Claude Code, Codex, ChatGPT, Cursor, Gemini, Reasonix, opencode, ZCode, Grok Build, OpenClaw, Pi, Hermes, Kimi CLI, DSH) into DeepSeek Harness as resumable sessions — full-fidelity, reverse export/sync, bundle backup. | 从 Claude Code、Codex、Reasonix 等 Agent 工具导入历史消息到 DeepSeek Harness 并继续对话。
 - [pax-beehive/dsh-hub-cli](https://github.com/pax-beehive/dsh-hub-cli) - Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub.
+- [PerryLink/dsh-doublecheck](https://github.com/PerryLink/dsh-doublecheck) - Double-check before you ship: grill the requirements, test the implementation, prove the delivery. An engineering-discipline bundle for DeepSeek Harness.
 - [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide) - Installable DSH bundle: the dsh-plugin-guide plugin-development knowledge base as an on-demand agent skill. Official docs archive (EN/ZH), Cordis primer, 114-repo community archive, 1654 archived Discussions, 20+ battle-tested pitfalls.
 - [sryimnoob123/dsh-starter](https://github.com/sryimnoob123/dsh-starter) - A beginner-friendly starter for DeepSeek Harness - a minimal Electron desktop client for the official web GUI.
 - [ZSeven-W/dsh-android](https://github.com/ZSeven-W/dsh-android) - DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb.
@@ -585,9 +588,9 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 
 - ⭐ [wenbin-wb/dsh-bridge](https://github.com/wenbin-wb/dsh-bridge) - 🚀 DeepSeek Harness 多通道远程访问与安全守护插件 | 局域网扫码直连、Cloudflare / 自建公网隧道、微信 / QQ / 飞书 / Telegram 机器人全生命周期对话 | 内置全协议访问安全认证、后台防篡改与容灾保命体系.
 - ⭐ [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) - Complete reverse-skill (85 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineering, authorized pentesting and security research skill pack.
-- ⭐ [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) - Server-grade gateway that turns DeepSeek Harness into a multi-tenant platform: remote access + auto HTTPS, subuser permissions & quotas, sandbox enforcement, encrypted auth, audit log.
-- [moon09300731/dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) - DeepSeek Harness 自动审批门控：Flash 预判不可回补操作，安全自动批准、危险转人工（fail-safe）.
+- ⭐ [moon09300731/dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) - DeepSeek Harness 自动审批门控：Flash 预判不可回补操作，安全自动批准、危险转人工（fail-safe）.
 - [omdsh-dev/dsh-security-audit](https://github.com/omdsh-dev/dsh-security-audit) - DSH 本机安全审计插件：配置/插件来源/会话/网络暴露面，只读脱敏风险报告.
+- [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) - Server-grade gateway that turns DeepSeek Harness into a multi-tenant platform: remote access + auto HTTPS, subuser permissions & quotas, sandbox enforcement, encrypted auth, audit log.
 
 ### Remote & Mobile
 

@@ -1,0 +1,5 @@
+url: "https://github.com/HOWILLMAKEIT/dsh-model-context-catalog"
+name: "HOWILLMAKEIT/dsh-model-context-catalog"
+category: model
+description:
+  en: "DeepSeek Harness 插件：维护 llm-pi-ai 模型的准确上下文窗口，避免长会话被误判为上下文溢出。"

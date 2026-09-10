@@ -1,0 +1,5 @@
+url: "https://github.com/Ultronen/dsh-archived-chats"
+name: "Ultronen/dsh-archived-chats"
+category: session
+description:
+  en: "Local-first session lifecycle for DeepSeek Harness: safely bulk-archive workspaces, search and preview archived chats, restore history as copies, manage backups, recycle protection, retention, and lineage."

@@ -1,0 +1,5 @@
+url: "https://github.com/Kytolly/dsh-evolve-in-git"
+name: "Kytolly/dsh-evolve-in-git"
+category: git
+description:
+  en: "A deepseek-harness plugin, making your agent evolve in customed git repository."

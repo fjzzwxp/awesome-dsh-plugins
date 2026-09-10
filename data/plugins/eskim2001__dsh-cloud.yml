@@ -1,0 +1,5 @@
+url: "https://github.com/eskim2001/dsh-cloud"
+name: "eskim2001/dsh-cloud"
+category: remote
+description:
+  en: "dshcloud：部署并托管 DeepSeek Harness (dsh) 实例的多租户平台，支持自托管或云端部署。Deploy and host DeepSeek Harness (dsh) instances — self-hosted on your own server or cloud-hosted: a multi-tenant platform with isolated Docker containers, persistent workspaces and resource quotas."

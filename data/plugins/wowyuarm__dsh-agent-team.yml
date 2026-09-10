@@ -1,0 +1,5 @@
+url: "https://github.com/wowyuarm/dsh-agent-team"
+name: "wowyuarm/dsh-agent-team"
+category: model
+description:
+  en: "Give DeepSeek Harness a persistent agent team for long-running collaboration."

@@ -1,0 +1,5 @@
+url: "https://github.com/FylarOpen/dsh-fylar-office-editor"
+name: "FylarOpen/dsh-fylar-office-editor"
+category: docs
+description:
+  en: "Office document preview, editing, and DOCX generation for DeepSeek Harness, powered by Fylar Office SDK."

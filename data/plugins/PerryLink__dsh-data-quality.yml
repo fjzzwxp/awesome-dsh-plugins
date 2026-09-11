@@ -1,0 +1,5 @@
+url: "https://github.com/PerryLink/dsh-data-quality"
+name: "PerryLink/dsh-data-quality"
+category: model
+description:
+  en: "DeepSeek Harness plugin: deterministic data profiling, cleaning, and verification (dsh-data-quality)."

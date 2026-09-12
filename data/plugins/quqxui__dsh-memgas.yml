@@ -1,0 +1,5 @@
+url: "https://github.com/quqxui/dsh-memgas"
+name: "quqxui/dsh-memgas"
+category: memory
+description:
+  en: "DeepSeek Harness 长期记忆插件：四通道检索融合 + 记忆演化闭环，记忆构建与检索方法来自 ICLR 2026 论文 MemGAS。Long-term memory plugin for DeepSeek Harness (dsh)."

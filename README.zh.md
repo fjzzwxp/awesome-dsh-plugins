@@ -253,6 +253,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) - 在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations.
 - [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) - AgentTeams plugin for DeepSeek Harness.
 - [NanmiCoder/dsh-auto-mode](https://github.com/NanmiCoder/dsh-auto-mode) - Safe automatic permissions for DeepSeek Harness.
+- [Nyasers/DSHana](https://github.com/Nyasers/DSHana) - DSHana: DeepSeek Harness as a subagent for HanaAgent.
 - [OBdangshang07/DSH_Creative_Workshop](https://github.com/OBdangshang07/DSH_Creative_Workshop) - Steam-Workshop-inspired discovery, trust, graph search, collections, and transactional installation planning for DeepSeek Harness plugins.
 - [oil-oil/dsh-oil-creator](https://github.com/oil-oil/dsh-oil-creator) - AI-assisted local creator workbench for DeepSeek Harness.
 - [oil-oil/dsh-oil-sticky-prompt](https://github.com/oil-oil/dsh-oil-sticky-prompt) - Pin the nearest user prompt to the top of a DeepSeek Harness transcript.
@@ -442,6 +443,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [like-study1/Oh-My-DSH](https://github.com/like-study1/Oh-My-DSH) - 🐳 DeepSeek Harness 插件聚合社区 — 自动同步 dsh-plugin 生态 · 精选目录 · 每 4 小时自动维护 | Oh-My-DSH: a community-maintained catalog of DeepSeek Harness plugins, auto-synced from the dsh-plugin topic.
 - [limbo947/dsh-recall-plugin](https://github.com/limbo947/dsh-recall-plugin) - DSH 消息撤回插件：回到发送该消息时的状态 DSH Message Recall Plugin: Return to the state when the message was sent.
 - [LingyeSoul/dsh-tavern](https://github.com/LingyeSoul/dsh-tavern) - A DeepSeek Harness (dsh) plugin.
+- [literaf/dsh-ai4scholar](https://github.com/literaf/dsh-ai4scholar) - AI4Scholar for DeepSeek Harness (dsh): 38 native academic tools — Semantic Scholar, PubMed, Google Scholar, arXiv, bioRxiv/medRxiv, DOI, full text, auto-cite, figures, unified search. Powered by ai4scholar.net.
 - [Lixxx1/dsh-vscode](https://github.com/Lixxx1/dsh-vscode) - 在 VS Code 中使用 DeepSeek Harness. Use DeepSeek Harness in VS Code.
 - [liyupi/dsh-kun-like-pet](https://github.com/liyupi/dsh-kun-like-pet) - Kun Like 桌宠 —— DeepSeek Harness 桌面宠物插件：右下角小坤宠随 Agent 工作状态切换 9 种动作，任务完成播放「你干嘛~哎哟」.
 - [LoserFox/dsh-gal](https://github.com/LoserFox/dsh-gal) - DSH Galgame 模式：前台 flash GM 即兴演出 + 后台 pro 真实干活的双 agent 视觉小说舞台（独立插件）.
@@ -542,8 +544,8 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 ### 📄 文档与知识
 
 - ⭐ [HuanLinOTO/dsh-plugin-mineru](https://github.com/HuanLinOTO/dsh-plugin-mineru) - 向模型暴露 MinerU 文档解析工具，将 PDF/图片/DOCX/PPTX/XLSX 转为结构化 Markdown/JSON | Exposes MinerU document-parsing tools to the model, converting PDF/images/DOCX/PPTX/XLSX into structured Markdown/JSON.
-- ⭐ [yueyezhufeng/dsh-markdown](https://github.com/yueyezhufeng/dsh-markdown) - 一个MarkDown轻量级智能编辑器.
 - ⭐ [FylarOpen/dsh-fylar-office-editor](https://github.com/FylarOpen/dsh-fylar-office-editor) - Office document preview, editing, and DOCX generation for DeepSeek Harness, powered by Fylar Office SDK.
+- ⭐ [yueyezhufeng/dsh-markdown](https://github.com/yueyezhufeng/dsh-markdown) - 一个MarkDown轻量级智能编辑器.
 - [HongMing-Huang/dsh-file-upload](https://github.com/HongMing-Huang/dsh-file-upload) - DeepSeek Harness (dsh) file-message plugin: Claude-style drag-and-drop / paperclip upload, content sniffing, document-to-Markdown via Microsoft MarkItDown (with built-in JS fallback), text inlining, read_document tool for agents.
 
 ### 🧩 技能与指令

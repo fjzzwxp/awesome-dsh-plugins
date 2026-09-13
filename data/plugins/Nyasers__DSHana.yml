@@ -1,0 +1,5 @@
+url: "https://github.com/Nyasers/DSHana"
+name: "Nyasers/DSHana"
+category: model
+description:
+  en: "DSHana: DeepSeek Harness as a subagent for HanaAgent."

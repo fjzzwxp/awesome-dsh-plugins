@@ -1,0 +1,5 @@
+url: "https://github.com/ClickPM/dsh-acp-interactive"
+name: "ClickPM/dsh-acp-interactive"
+category: dev
+description:
+  en: "Editor-facing ACP server for Zed and other ACP clients, composed from published DeepSeek Harness plugins. Community-maintained; not affiliated with DeepSeek."

@@ -1,0 +1,5 @@
+url: "https://github.com/HaoyueQin/dsh-better-reasoning-effort"
+name: "HaoyueQin/dsh-better-reasoning-effort"
+category: model
+description:
+  en: "Reasoning-effort editing for third-party models in DeepSeek Harness: per-model thinking levels with a knowledge base + protocol inference, edited inside the official Models page card."

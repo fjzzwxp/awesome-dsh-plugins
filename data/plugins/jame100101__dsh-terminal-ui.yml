@@ -1,0 +1,5 @@
+url: "https://github.com/jame100101/dsh-terminal-ui"
+name: "jame100101/dsh-terminal-ui"
+category: ui
+description:
+  en: "A local-first terminal UI for DeepSeek Harness, built with TypeScript, React 19, and Ink 7."

@@ -1,0 +1,5 @@
+url: "https://github.com/sixtysevenlf/dsh-blender-plugin"
+name: "sixtysevenlf/dsh-blender-plugin"
+category: tools
+description:
+  en: "DSH x Blender direct realtime plugin - let an AI model drive Blender over a direct TCP channel: viewport frames, custom-angle renders, inner-loop search, render profiling, safe decimation, headless offload."

@@ -1,0 +1,5 @@
+url: "https://github.com/eskim2001/dshcloud"
+name: "eskim2001/dshcloud"
+category: usage
+description:
+  en: "DeepSeek Harness (dsh) 自托管多用户云平台：提供隔离工作空间、持久化存储、访问控制与资源配额。Self-hosted multi-user cloud platform for DeepSeek Harness, with isolated workspaces, persistent storage, access control, and resource quotas."

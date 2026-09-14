@@ -1,0 +1,5 @@
+url: "https://github.com/vritser/dsh-emacs"
+name: "vritser/dsh-emacs"
+category: model
+description:
+  en: "An Emacs client for DeepSeek Harness."

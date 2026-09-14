@@ -1,0 +1,5 @@
+url: "https://github.com/ManoloRemiddi/augmentor-dsh-extension-plugin"
+name: "ManoloRemiddi/augmentor-dsh-extension-plugin"
+category: tools
+description:
+  en: "Chromium side panel and browser control for DeepSeek Harness. Includes the plugin, extension and native host."

@@ -1,0 +1,5 @@
+url: "https://github.com/Cerbur/clutch-dsh"
+name: "Cerbur/clutch-dsh"
+category: session
+description:
+  en: "Open-source DSH plugins for DeepSeek Harness：Git Worktree session management（会话管理）、Session Title（会话标题）与 Fireworks（庆祝特效），面向 AI coding workflows。"

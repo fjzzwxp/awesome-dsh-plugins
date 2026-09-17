@@ -1,0 +1,5 @@
+url: "https://github.com/Clearailhc/clearai-dsh"
+name: "Clearailhc/clearai-dsh"
+category: model
+description:
+  en: "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness."

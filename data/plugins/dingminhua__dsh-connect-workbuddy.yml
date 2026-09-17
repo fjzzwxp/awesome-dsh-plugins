@@ -1,0 +1,5 @@
+url: "https://github.com/dingminhua/dsh-connect-workbuddy"
+name: "dingminhua/dsh-connect-workbuddy"
+category: model
+description:
+  en: "Connect locally signed-in WorkBuddy models to DeepSeek Harness with a read-only credits overview and model management."

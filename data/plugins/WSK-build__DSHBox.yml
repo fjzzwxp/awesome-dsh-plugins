@@ -1,0 +1,5 @@
+url: "https://github.com/WSK-build/DSHBox"
+name: "WSK-build/DSHBox"
+category: remote
+description:
+  en: "DSHBox — Run DeepSeek Harness locally on Android phones and tablets. One APK with Debian, Node.js, DSH, and WebView — no root or Termux required. 一款在安卓手机和平板上本机运行完整 DSH的app —DSHBox。"

@@ -381,6 +381,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - ⭐ [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) - 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。
 - ⭐ [FuRongJun-1999/dsh-memory](https://github.com/FuRongJun-1999/dsh-memory) - AGI 的长期记忆基础设施。让 AI Agent 拥有不可遗忘的自我。跨会话记忆 · 持续学习 · 可审计信任（智能论 v3.2）.
 - ⭐ [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) - Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
+- [hr98w/dsh-memory](https://github.com/hr98w/dsh-memory) - 融合 Claude Code 的 Auto Memory 与 Codex 的 Session 记忆整理，为 DeepSeek Harness 提供简单、透明、上下文友好的长期记忆。Claude Code-inspired Auto Memory meets Codex-inspired Session consolidation, bringing simple, transparent, and context-efficient long-term memory to DeepSeek Harness.
 - [Meredith2328/dsh-sticky-note](https://github.com/Meredith2328/dsh-sticky-note) - 左下角便签：随手记点子/感想/TODO，实时保存到归档目录，清单+悬浮归档.
 - [modusensus/dsh-mneme](https://github.com/modusensus/dsh-mneme) - 🧠 The memory that dreams — self-evolving memory for DeepSeek Harness: your AI remembers across sessions, consolidates in its sleep, forgets what matters less, and grows smarter over time. Fully offline & private.
 - [Qinling-Melon-Farmers/dsh-memoir](https://github.com/Qinling-Melon-Farmers/dsh-memoir) - 本地优先、零普通运行时依赖的 DSH 项目记忆：有界会话冻结 Hot Memory、倒排 BM25 召回、生命周期与缓存命中优化、中英双语 GUI。 / Local-first DSH project memory with zero regular runtime dependencies: bounded session-frozen Hot Memory, inverted-index BM25 recall, lifecycle, cache-aware design, and a bilingual GUI.
@@ -420,6 +421,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [dsheval/dsh-top100](https://github.com/dsheval/dsh-top100) - A DeepSeek Harness (dsh) plugin.
 - [EdgeTypE/dsh-better-deepseek](https://github.com/EdgeTypE/dsh-better-deepseek) - DeepSeek Harness bridge plugin for Better DeepSeek Chrome extension.
 - [enchangcui340-cloud/dsh-whale-balance](https://github.com/enchangcui340-cloud/dsh-whale-balance) - A DeepSeek Harness (dsh) plugin.
+- [evaldock/dsh-top100](https://github.com/evaldock/dsh-top100) - A DeepSeek Harness (dsh) plugin.
 - [ExElectron/dsh-tool-hongtou](https://github.com/ExElectron/dsh-tool-hongtou) - DeepSeek Harness 红头公文插件：两阶段解耦流水线（LLM 结构化提纲 + 确定性 Word 2003 XML 版式渲染）生成标准红头公文.
 - [fandc520/dsh-comfyui](https://github.com/fandc520/dsh-comfyui) - 一个基于DeepSeek-Harness的ComfyUI插件.
 - [Fengze233/dsh-vscode](https://github.com/Fengze233/dsh-vscode) - 在 VS Code 侧边栏内嵌使用 DeepSeek Harness（DSH）网页界面的插件.
@@ -651,6 +653,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [SCSpotato/dsh-remote](https://github.com/SCSpotato/dsh-remote) - Native Android client to remotely control DeepSeek Harness (DSH) from your phone.
 - [summer1238/dsh-remote-web-gateway](https://github.com/summer1238/dsh-remote-web-gateway) - 手机平板远程 DeepSeek Harness：扫码即可继续使用电脑上的 DSH，无需远程桌面 / SSH / 公网 IP，支持一次性配对、Github授权加密登录，独立设备授权与随时撤销，实现远程连接很简单，但安全才是我们所想要的。
 - [thness/dsh-mobile](https://github.com/thness/dsh-mobile) - DeepSeek Harness Android — 把 DeepSeek Harness 完整装进安卓手机：内嵌 Node.js 运行时 + 官方 Web UI，开箱即用的独立 App。
+- [WSK-build/DSHBox](https://github.com/WSK-build/DSHBox) - DSHBox — Run DeepSeek Harness locally on Android phones and tablets. One APK with Debian, Node.js, DSH, and WebView — no root or Termux required. 一款在安卓手机和平板上本机运行完整 DSH的app —DSHBox。
 - [zexadev/dsh-tether](https://github.com/zexadev/dsh-tether) - Reach the DeepSeek Harness on your dev machine from your phone — across networks, through no server at all (iroh P2P).
 
 ### 🛒 市场与商店

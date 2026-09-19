@@ -1,0 +1,5 @@
+url: "https://github.com/slow-stack/dsh-mneme"
+name: "slow-stack/dsh-mneme"
+category: ui
+description:
+  en: "🧠 The memory that dreams — cross-session memory for DeepSeek Harness. Offline & private, auto-consolidates in its sleep (autoDream), visualized in a memory panel."

@@ -1,0 +1,5 @@
+url: "https://github.com/duhu2000/dsh-mcp-connector"
+name: "duhu2000/dsh-mcp-connector"
+category: model
+description:
+  en: "DeepSeek Harness MCP Connector: connect servers, search tools across active connections, and troubleshoot discovery. Includes a continuously updated catalog; supports OAuth 2.0 PKCE, API keys, Streamable HTTP/stdio, and mcpServers JSON import."

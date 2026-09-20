@@ -1,0 +1,5 @@
+url: "https://github.com/yj-liuzepeng/dsh-project-brain"
+name: "yj-liuzepeng/dsh-project-brain"
+category: session
+description:
+  en: "Persistent project intelligence and memory plugin for DSH: architecture analysis, cross-session context, TODOs, and optional hybrid retrieval."

@@ -174,6 +174,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - ⭐ [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) - DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版.
 - ⭐ [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99).
 - ⭐ [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) - DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.
+- [121103qwq/DSH-Launcher](https://github.com/121103qwq/DSH-Launcher) - 面向 Windows x64 的 DeepSeek Harness 启动器与生态管理器。
 - [2439816947/DSH-Desktop](https://github.com/2439816947/DSH-Desktop) - DeepSeek Harness 桌面端.
 - [398894496-arch/DSH-KRouter](https://github.com/398894496-arch/DSH-KRouter) - Second brain for coding agents. Seal the day, distill into Obsidian, hit that page tomorrow. Cursor, Codex, Claude Code, DeepSeek Harness.
 - [609476965/dsh-LorebookMD](https://github.com/609476965/dsh-LorebookMD) - DSH lorebook-driven fiction writer plugin: import Tavern/SillyTavern character cards & world books, save local Markdown settings, generate novel prose referencing the world.

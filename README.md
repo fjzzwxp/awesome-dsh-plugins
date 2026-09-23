@@ -183,6 +183,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [a179-sanae/dsh-auto-collapse](https://github.com/a179-sanae/dsh-auto-collapse) - A DeepSeek Harness (dsh) plugin.
 - [a1exsun/dsh-council](https://github.com/a1exsun/dsh-council) - Multi-model council for DeepSeek Harness: independent answers, anonymous peer reviews, and an inspectable final decision.
 - [aa2246740/dsh-watcher](https://github.com/aa2246740/dsh-watcher) - Read-only Agent work-path observer for DeepSeek Harness.
+- [Aa728848/dsh-chatgpt-subscription](https://github.com/Aa728848/dsh-chatgpt-subscription) - A DeepSeek Harness (dsh) plugin.
 - [AcidGr/dsh-preset-mobile-use](https://github.com/AcidGr/dsh-preset-mobile-use) - DeepSeek Harness (dsh) Mobile Use Agent preset — Autonomous background headless control for Android.
 - [AcidGr/dsh-web-lan-access](https://github.com/AcidGr/dsh-web-lan-access) - DeepSeek Harness (dsh) Web plugin.
 - [AITabby/dockyard-dsh](https://github.com/AITabby/dockyard-dsh) - A macOS-only native account-pool and provider plugin for DeepSeek Harness.

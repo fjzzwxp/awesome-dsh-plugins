@@ -488,6 +488,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [Magiczerowxy/dsh-modef](https://github.com/Magiczerowxy/dsh-modef) - A DeepSeek Harness (dsh) plugin.
 - [majiayu000/dsh-desk](https://github.com/majiayu000/dsh-desk) - Installable Tauri desktop distribution for DeepSeek Harness with a bundled runtime, trusted plugin review, and daily compatibility checks.
 - [ManoloRemiddi/augmentor-dsh-extension-plugin](https://github.com/ManoloRemiddi/augmentor-dsh-extension-plugin) - Chromium side panel and browser control for DeepSeek Harness. Includes the plugin, extension and native host.
+- [maogeigei/dsh_ai1net](https://github.com/maogeigei/dsh_ai1net) - A DeepSeek Harness (dsh) plugin.
 - [MAXeaglet/dsh-bash-terminal](https://github.com/MAXeaglet/dsh-bash-terminal) - A DeepSeek Harness (dsh) plugin.
 - [MichengAI/dsh-archive-manager](https://github.com/MichengAI/dsh-archive-manager) - DSH Archive Manager 基于 DeepSeek Harness 的归档会话管理插件.
 - [MichengAI/dsh-codex-ui](https://github.com/MichengAI/dsh-codex-ui) - DSH Codex UI 基于 DeepSeek Harness 的 Codex UI 插件，还原度90%，小细节拉满.

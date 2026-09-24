@@ -260,6 +260,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [memorax-ai/dsh-harmony](https://github.com/memorax-ai/dsh-harmony) - A library for patching, replacing and decorating dsh plugin during runtime.
 - [MichengAI/dsh-agency-agents](https://github.com/MichengAI/dsh-agency-agents) - DSH agency agents 基于 DeepSeek Harness 的全行业智能体.
 - [MichengAI/dsh-codex-desktop](https://github.com/MichengAI/dsh-codex-desktop) - DeepSeek Harness Codex 跨平台桌面版，无需提前安装任何环境，开箱即用.
+- [Miyazawai/DSH-Melody-Launcher-Overture](https://github.com/Miyazawai/DSH-Melody-Launcher-Overture) - DSH 旋律启动器：序曲 — 面向 DeepSeek Harness 的 Windows 桌面启动器（C 端分支，上游 rirko/dsh-melody-launcher）.
 - [MJorgin/dsh-media-skills](https://github.com/MJorgin/dsh-media-skills) - Free image reading & generation for DeepSeek Harness (rc.7 / rc.8 / v0.1.1-rc.1 / rc.2) — paste-image reading with auto vision transcription, DeepSeek-V4-Flash-Vision-Exp / GLM-4V-Flash / SenseNova / Gemini failover, Kolors + U1 Fast generation. No keys in repo.
 - [MoFeng2223/dsh-claude-provider](https://github.com/MoFeng2223/dsh-claude-provider) - Custom Claude provider support for DeepSeek Harness.
 - [Mombrane/dsh-subagent-monitor](https://github.com/Mombrane/dsh-subagent-monitor) - A DeepSeek Harness (dsh) plugin.
@@ -433,6 +434,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [cloader/dsh-taskboard](https://github.com/cloader/dsh-taskboard) - deepseekharness 任务看板插件.
 - [Devin-AXIS/jev-dsh-decision](https://github.com/Devin-AXIS/jev-dsh-decision) - Jev DSH 决策引擎｜面向 Agent Harness 的结构化决策插件。原生支持 DeepSeek Harness，通过 iPolloWork 支持 OpenCode、Codex Harness。
 - [dingkaihu63/dsh-robotic-harness](https://github.com/dingkaihu63/dsh-robotic-harness) - Robotic Harness: embodied-intelligence research tools for DeepSeek Harness - robot asset inspection, MuJoCo pick-place simulation with fault injection, evidence-based diagnostics, and reproducible experiment bundles.
+- [DSH-PackForge/DSH-PackForge](https://github.com/DSH-PackForge/DSH-PackForge) - A DeepSeek Harness (dsh) plugin.
 - [dsheval/dsh-top100](https://github.com/dsheval/dsh-top100) - A DeepSeek Harness (dsh) plugin.
 - [Duskriver/dsh-opencode-go](https://github.com/Duskriver/dsh-opencode-go) - 让你的DSH完美适配opencodeg-go套餐.
 - [EdgeTypE/dsh-better-deepseek](https://github.com/EdgeTypE/dsh-better-deepseek) - DeepSeek Harness bridge plugin for Better DeepSeek Chrome extension.

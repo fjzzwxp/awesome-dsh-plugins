@@ -1,0 +1,5 @@
+url: "https://github.com/Miyazawai/DSH-Melody-Launcher-Overture"
+name: "Miyazawai/DSH-Melody-Launcher-Overture"
+category: model
+description:
+  en: "DSH 旋律启动器：序曲 — 面向 DeepSeek Harness 的 Windows 桌面启动器（C 端分支，上游 rirko/dsh-melody-launcher）."

@@ -1,0 +1,5 @@
+url: "https://github.com/dingminhua/dsh-connect-trae"
+name: "dingminhua/dsh-connect-trae"
+category: model
+description:
+  en: "Connect locally signed-in Trae models to DeepSeek Harness with a read-only credits overview."

@@ -1,0 +1,5 @@
+url: "https://github.com/Jueze-2019/dsh-redteam-mode"
+name: "Jueze-2019/dsh-redteam-mode"
+category: model
+description:
+  en: "DSH RedTeam 模式：把 DeepSeek Harness 变成红队作战指挥台——一个靶标名称拉起信息收集/漏洞检测/漏洞利用/内网渗透四个角色，资产与战果实时落入本地 SQLite 事实库（仅供已授权测试）."

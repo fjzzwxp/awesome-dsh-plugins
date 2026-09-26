@@ -1,0 +1,5 @@
+url: "https://github.com/reddapidev/dsh-reddit-radar"
+name: "reddapidev/dsh-reddit-radar"
+category: memory
+description:
+  en: "A dsh plugin that periodically scans reddapi.dev for new Reddit leads matching your one-sentence ICP, dedupes what you've already seen, and writes a dated markdown report. Also forwards 6 read-only Reddit search/lookup MCP tools."

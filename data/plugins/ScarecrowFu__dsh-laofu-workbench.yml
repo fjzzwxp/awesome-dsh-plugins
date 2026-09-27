@@ -1,0 +1,5 @@
+url: "https://github.com/ScarecrowFu/dsh-laofu-workbench"
+name: "ScarecrowFu/dsh-laofu-workbench"
+category: model
+description:
+  en: "基于 deepseek harness 的可动态加载/卸载场景功能的工作台."

@@ -1,0 +1,5 @@
+url: "https://github.com/NativeDog1/dsh-boot-animation"
+name: "NativeDog1/dsh-boot-animation"
+category: session
+description:
+  en: "打开新对话、或打开你钉住的会话时，视频铺满整个窗口播放一段片头开机动画。支持换成自己的视频，每个会话只播一次或每次打开都播."

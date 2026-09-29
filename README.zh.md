@@ -190,6 +190,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [Andiii208/dsh-ultramath](https://github.com/Andiii208/dsh-ultramath) - UltraMath 数学建模竞赛多 Agent 求解 DSH 插件: 5 角色预设 + 33 篇模型库 + 论文模板/审稿脚本随包 + 进度可视化.
 - [anweat/dsh-web-search-pro](https://github.com/anweat/dsh-web-search-pro) - Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering).
 - [anysearch-team/anysearch-dsh](https://github.com/anysearch-team/anysearch-dsh) - AnySearch web search provider and advanced search tools for DeepSeek Harness (DSH).
+- [AskTheWay/dsh-auto-memory](https://github.com/AskTheWay/dsh-auto-memory) - Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into the system prompt. File-only, no external services.
 - [Averyyy/pi-dsh-minimal](https://github.com/Averyyy/pi-dsh-minimal) - Pi adapter for official DeepSeek Harness minimal mode. V4 Pro thinks We need… / I need…, not Let me….
 - [Axiaohungry/dsh-llm-codebuddy](https://github.com/Axiaohungry/dsh-llm-codebuddy) - 在deepseek harness中使用workbuddy api，因为公司只提供workbuddy积分.
 - [Axiaohungry/dsh-llm-workbuddy](https://github.com/Axiaohungry/dsh-llm-workbuddy) - 在deepseek harness中使用workbuddy api，因为公司只提供workbuddy积分.
@@ -628,8 +629,8 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 ### 🔔 通知与提醒
 
 - ⭐ [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) - 通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).
-- ⭐ [THEWOLFWALKER/dsh-notifier](https://github.com/THEWOLFWALKER/dsh-notifier) - Unified notification push plugin for DeepSeek Harness (DSH): one minimal notify() API, 8 channel adapters (telegram/dingtalk/feishu/wxpusher/pushplus/serverchan/bark/webhook), dual trigger (auto session events + agent tool).
 - ⭐ [Phant0Meow/dsh-meow-smooth](https://github.com/Phant0Meow/dsh-meow-smooth) - 手机电脑dsh通知功能！移动端可用的通知！手机端ui交互优化！让手机端dsh真正可用。
+- ⭐ [THEWOLFWALKER/dsh-notifier](https://github.com/THEWOLFWALKER/dsh-notifier) - Unified notification push plugin for DeepSeek Harness (DSH): one minimal notify() API, 8 channel adapters (telegram/dingtalk/feishu/wxpusher/pushplus/serverchan/bark/webhook), dual trigger (auto session events + agent tool).
 - [bill9109/dsh-web-ui-notify](https://github.com/bill9109/dsh-web-ui-notify) - 为 DSH 增加桌面通知提醒.
 
 ### 🧑💻 开发工具

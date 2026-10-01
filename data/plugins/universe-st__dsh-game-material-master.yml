@@ -1,0 +1,5 @@
+url: "https://github.com/universe-st/dsh-game-material-master"
+name: "universe-st/dsh-game-material-master"
+category: model
+description:
+  en: "dsh游戏素材大师插件。接入seedream生图模型和minimax视频生成模型，可生成各种游戏素材。"

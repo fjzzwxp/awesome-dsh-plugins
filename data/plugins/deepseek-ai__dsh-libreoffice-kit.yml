@@ -1,0 +1,5 @@
+url: "https://github.com/deepseek-ai/dsh-libreoffice-kit"
+name: "deepseek-ai/dsh-libreoffice-kit"
+category: ui
+description:
+  en: "An internal component used by DeepSeek Harness."

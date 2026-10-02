@@ -1,0 +1,5 @@
+url: "https://github.com/lxj5820/dsh-boot-animation"
+name: "lxj5820/dsh-boot-animation"
+category: dev
+description:
+  en: "DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md."

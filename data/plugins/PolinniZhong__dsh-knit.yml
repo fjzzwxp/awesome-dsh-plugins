@@ -1,0 +1,5 @@
+url: "https://github.com/PolinniZhong/dsh-knit"
+name: "PolinniZhong/dsh-knit"
+category: dev
+description:
+  en: "面向 DeepSeek Harness 的任务上下文检索：根据当前对话，从项目工作区找到最相关的上下文，组织为主要 / 辅助 / 相关内容，并通过 Knit 面板与 knit_docs 提供给人和 Agent。纯本地、确定性、零模型调用、零网络。 Task-aware workspace context retrieval for DeepSeek Harness. Knit finds the project context most relevant to the current task, organizes it into primary / supporting / related context, and exposes the same context to humans a."

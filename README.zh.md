@@ -412,14 +412,14 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 
 - ⭐ [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) - 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。
 - ⭐ [FuRongJun-1999/dsh-memory](https://github.com/FuRongJun-1999/dsh-memory) - AGI 的长期记忆基础设施。让 AI Agent 拥有不可遗忘的自我。跨会话记忆 · 持续学习 · 可审计信任（智能论 v3.2）.
-- ⭐ [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) - Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
+- ⭐ [reddapidev/dsh-reddit-radar](https://github.com/reddapidev/dsh-reddit-radar) - A dsh plugin that periodically scans reddapi.dev for new Reddit leads matching your one-sentence ICP, dedupes what you've already seen, and writes a dated markdown report. Also forwards 6 read-only Reddit search/lookup MCP tools.
 - [hr98w/dsh-memory](https://github.com/hr98w/dsh-memory) - 融合 Claude Code 的 Auto Memory 与 Codex 的 Session 记忆整理，为 DeepSeek Harness 提供简单、透明、上下文友好的长期记忆。Claude Code-inspired Auto Memory meets Codex-inspired Session consolidation, bringing simple, transparent, and context-efficient long-term memory to DeepSeek Harness.
 - [Meredith2328/dsh-sticky-note](https://github.com/Meredith2328/dsh-sticky-note) - 左下角便签：随手记点子/感想/TODO，实时保存到归档目录，清单+悬浮归档.
 - [modusensus/dsh-mneme](https://github.com/modusensus/dsh-mneme) - 🧠 The memory that dreams — self-evolving memory for DeepSeek Harness: your AI remembers across sessions, consolidates in its sleep, forgets what matters less, and grows smarter over time. Fully offline & private.
 - [Qinling-Melon-Farmers/dsh-memoir](https://github.com/Qinling-Melon-Farmers/dsh-memoir) - 本地优先、零普通运行时依赖的 DSH 项目记忆：有界会话冻结 Hot Memory、倒排 BM25 召回、生命周期与缓存命中优化、中英双语 GUI。 / Local-first DSH project memory with zero regular runtime dependencies: bounded session-frozen Hot Memory, inverted-index BM25 recall, lifecycle, cache-aware design, and a bilingual GUI.
 - [quqxui/dsh-memgas](https://github.com/quqxui/dsh-memgas) - DeepSeek Harness 长期记忆插件：四通道检索融合 + 记忆演化闭环，记忆构建与检索方法来自 ICLR 2026 论文 MemGAS。Long-term memory plugin for DeepSeek Harness (dsh).
-- [reddapidev/dsh-reddit-radar](https://github.com/reddapidev/dsh-reddit-radar) - A dsh plugin that periodically scans reddapi.dev for new Reddit leads matching your one-sentence ICP, dedupes what you've already seen, and writes a dated markdown report. Also forwards 6 read-only Reddit search/lookup MCP tools.
 - [Soren-ABT/dsh-knowledge](https://github.com/Soren-ABT/dsh-knowledge) - Knowledge base & RAG plugin for DeepSeek Harness (DSH): chunking, local embeddings, hybrid search, management panel.
+- [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) - Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
 
 ### 🛠️ 工具与能力
 
@@ -665,6 +665,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [pax-beehive/dsh-hub-cli](https://github.com/pax-beehive/dsh-hub-cli) - Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub.
 - [PerryLink/dsh-doublecheck](https://github.com/PerryLink/dsh-doublecheck) - Double-check before you ship: grill the requirements, test the implementation, prove the delivery. An engineering-discipline bundle for DeepSeek Harness.
 - [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide) - Installable DSH bundle: the dsh-plugin-guide plugin-development knowledge base as an on-demand agent skill. Official docs archive (EN/ZH), Cordis primer, 114-repo community archive, 1654 archived Discussions, 20+ battle-tested pitfalls.
+- [PolinniZhong/dsh-knit](https://github.com/PolinniZhong/dsh-knit) - 面向 DeepSeek Harness 的任务上下文检索：根据当前对话，从项目工作区找到最相关的上下文，组织为主要 / 辅助 / 相关内容，并通过 Knit 面板与 knit_docs 提供给人和 Agent。纯本地、确定性、零模型调用、零网络。 Task-aware workspace context retrieval for DeepSeek Harness. Knit finds the project context most relevant to the current task, organizes it into primary / supporting / related context, and exposes the same context to humans a.
 - [sryimnoob123/dsh-starter](https://github.com/sryimnoob123/dsh-starter) - A beginner-friendly starter for DeepSeek Harness - a minimal Electron desktop client for the official web GUI.
 - [whitelonng/dshcode](https://github.com/whitelonng/dshcode) - Community desktop companion for DeepSeek Harness — one-click Electron app for macOS and Windows.
 - [yhshzh/dsh-cline-pass](https://github.com/yhshzh/dsh-cline-pass) - A DeepSeek Harness (dsh) plugin.

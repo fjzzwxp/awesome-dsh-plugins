@@ -1,0 +1,5 @@
+url: "https://github.com/mooooorty/dsh-harness-evolution"
+name: "mooooorty/dsh-harness-evolution"
+category: dev
+description:
+  en: "Reproducible research rig for isolated mutation search, Pareto/Best-of-N selection, controlled promotion, lineage, and recovery."

@@ -466,6 +466,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [Duskriver/dsh-opencode-go](https://github.com/Duskriver/dsh-opencode-go) - 让你的DSH完美适配opencodeg-go套餐.
 - [EdgeTypE/dsh-better-deepseek](https://github.com/EdgeTypE/dsh-better-deepseek) - DeepSeek Harness bridge plugin for Better DeepSeek Chrome extension.
 - [enchangcui340-cloud/dsh-whale-balance](https://github.com/enchangcui340-cloud/dsh-whale-balance) - A DeepSeek Harness (dsh) plugin.
+- [evaldock-account/dsh-top100](https://github.com/evaldock-account/dsh-top100) - A DeepSeek Harness (dsh) plugin.
 - [evaldock/dsh-top100](https://github.com/evaldock/dsh-top100) - A DeepSeek Harness (dsh) plugin.
 - [ExElectron/dsh-tool-hongtou](https://github.com/ExElectron/dsh-tool-hongtou) - DeepSeek Harness 红头公文插件：两阶段解耦流水线（LLM 结构化提纲 + 确定性 Word 2003 XML 版式渲染）生成标准红头公文.
 - [fandc520/dsh-comfyui](https://github.com/fandc520/dsh-comfyui) - 一个基于DeepSeek-Harness的ComfyUI插件.
@@ -581,8 +582,8 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 
 ### Browser & Web
 
-- ⭐ [Lum1104/dsh-browser](https://github.com/Lum1104/dsh-browser) - Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。
 - ⭐ [omdsh-dev/dsh-browser](https://github.com/omdsh-dev/dsh-browser) - Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。
+- ⭐ [Lum1104/dsh-browser](https://github.com/Lum1104/dsh-browser) - Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。
 - ⭐ [antibrow/dsh-antibrow](https://github.com/antibrow/dsh-antibrow) - DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
 - [2672243194/dsh-read-url](https://github.com/2672243194/dsh-read-url) - DeepSeek Harness URL reader: fetch any page and return clean main-content text/Markdown. Auto charset (GBK/GB2312/UTF-8/Big5), token-efficient (6000-char cap, cache, offset), zero deps, no API key. 网页一键读全文 → 干净正文 / 结构化 Markdown.
 - [A3Boy/dsh-web-tools](https://github.com/A3Boy/dsh-web-tools) - Multi-provider Web Search & Fetch for DeepSeek Harness — Tavily, Exa, Firecrawl, Brave, You.com, Jina & SearXNG with fallback and native settings UI.
@@ -671,6 +672,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [lire1131/dsh-undo-savepoint](https://github.com/lire1131/dsh-undo-savepoint) - DSH crash-rescue plugin: undo config & plugin-code changes, secret-safe snapshots, one-click SAFE MODE, plus offline CLI/GUI that work even when DSH won't boot.
 - [lxj5820/dsh-boot-animation](https://github.com/lxj5820/dsh-boot-animation) - DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md.
 - [lxzy-7/dsh-plugin-guard](https://github.com/lxzy-7/dsh-plugin-guard) - Install safety net for DeepSeek Harness: pre-install snapshots, one-click/automatic rollback, guarded boot, and incident reports that auto-trigger agent analysis. 中文: DeepSeek Harness 插件安装安全网（安装前自动快照、一键/自动回退、守护启动、事故报告自动触发 Agent 分析）。
+- [mooooorty/dsh-harness-evolution](https://github.com/mooooorty/dsh-harness-evolution) - Reproducible research rig for isolated mutation search, Pareto/Best-of-N selection, controlled promotion, lineage, and recovery.
 - [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) - Import 14+ external agent chat histories (Claude Code, Codex, ChatGPT, Cursor, Gemini, Reasonix, opencode, ZCode, Grok Build, OpenClaw, Pi, Hermes, Kimi CLI, DSH) into DeepSeek Harness as resumable sessions — full-fidelity, reverse export/sync, bundle backup. | 从 Claude Code、Codex、Reasonix 等 Agent 工具导入历史消息到 DeepSeek Harness 并继续对话。
 - [pax-beehive/dsh-hub-cli](https://github.com/pax-beehive/dsh-hub-cli) - Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub.
 - [PerryLink/dsh-doublecheck](https://github.com/PerryLink/dsh-doublecheck) - Double-check before you ship: grill the requirements, test the implementation, prove the delivery. An engineering-discipline bundle for DeepSeek Harness.

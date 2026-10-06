@@ -399,6 +399,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [gjj-star/dsh-conversation-navigator](https://github.com/gjj-star/dsh-conversation-navigator) - DSH 会话导航.
 - [gokul6350/dsh-shell](https://github.com/gokul6350/dsh-shell) - Deep Shell is an intelligent terminal application that combines a chat interface with a command-line interface, It helps users execute terminal commands through natural language conversations.
 - [guo6x/dsh-pilot](https://github.com/guo6x/dsh-pilot) - Give your DSH agent hands: drive a real browser (Edge/Chrome over CDP) from the chat — ref-driven clicking, per-session browsers, and a live cockpit panel. Zero runtime deps, no API key.
+- [hkkz9522/dsh-session-manager](https://github.com/hkkz9522/dsh-session-manager) - DeepSeek Harness session manager: delete, archive, move sessions across workspaces, migrate presets, favorites, review-later, search, filter, sort, prioritize, add tags & notes, and batch-manage sessions. | DSH 会话管理：删除、归档、跨工作区移动、预设迁移、收藏、待回看、搜索、筛选、排序、优先级、标签、备注及批量操作。
 - [jsdvjx/dsh-strata](https://github.com/jsdvjx/dsh-strata) - Session strata for the DeepSeek Harness Web GUI: the transcript's scrollbar becomes a to-scale, colour-coded map of the whole run, with your own messages emphasised and clickable anchors.
 - [KaichenCurry/dsh-design-mode](https://github.com/KaichenCurry/dsh-design-mode) - Visual execution layer for DeepSeek Harness—guided intent, infinite canvas, contextual image tools, and chat-native comments.
 - [Miyazawai/dsh-client-pricing](https://github.com/Miyazawai/dsh-client-pricing) - 会话顶栏实时显示 DeepSeek API 价格（峰谷定价 / 现行一口价，flash / pro 自动切换） | DeepSeek Harness client plugin: live DeepSeek API pricing badge (peak/off-peak, flash/pro) in the session header.
@@ -432,6 +433,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [10086ggqq/dsh_theme_terraria](https://github.com/10086ggqq/dsh_theme_terraria) - 把 DeepSeek Harness 的 AI 编码控制台变成泰拉瑞亚像素世界——向导陪你写代码，真实对话、工具审批、难度切换，单文件零依赖。
 - [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research) - Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.
 - [6Mikao9/dsh-wsl-workspace](https://github.com/6Mikao9/dsh-wsl-workspace) - WSL workspace support for DeepSeek Harness——无缝的 WSL 工作区使用体验，无需在 WSL 之中再安装一个dsh，安装该插件后在 GUI 里直接添加 WSL 工作区即可。WSL workspace support for DeepSeek Harness — Enjoy a seamless WSL workspace experience without needing to install dsh inside WSL. Once this plugin is installed, you can directly add a WSL workspace right from the GUI.
+- [6shenhonghong9/dsh-startup-screen](https://github.com/6shenhonghong9/dsh-startup-screen) - A DeepSeek Harness (dsh) plugin.
 - [988hj7tczd-oss/dsh-computer-use](https://github.com/988hj7tczd-oss/dsh-computer-use) - Computer Use 插件：虚拟鼠标真人操作 for DeepSeek Harness（screen_observe + computer_click 等 11 个模型友好工具，跨平台 cua-driver 引擎）.
 - [A8Chann/dsh-pet-live2d](https://github.com/A8Chann/dsh-pet-live2d) - DSH Web GUI 的 Live2D 桌宠插件：可拖动、跟随鼠标、跟着会话状态换动作与表情，右键面板可换装.
 - [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) - DSH Plugin Radar — 开源 DSH 插件生态雷达：自动发现 15900+ 候选、k8s 运行级实测 10000+、15 分钟快照管线；插件目录是其自动生成的 artifact.
@@ -551,6 +553,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [Tkingxiao/dsh-any-background](https://github.com/Tkingxiao/dsh-any-background) - Deepseek Harness 自定义主题插件，支持自定义图片/视频壁纸，对话框，侧边栏等透明度模糊度调整，全局主题色的色轮调整插件.
 - [urzeye/dsh-outline](https://github.com/urzeye/dsh-outline) - DeepSeek Harness（DSH）Web GUI 的实时大纲插件，移植自 Ophel Atlas.
 - [vlln/dsh-navbar](https://github.com/vlln/dsh-navbar) - DSH 插件：对话节点导航条（右缘节点串快速跳转 user 消息）。官方 bundle 插件，dsh plugin --profile web add 安装.
+- [Vncntvx/dsh-zotero](https://github.com/Vncntvx/dsh-zotero) - Zotero toolkit for DeepSeek harness; Turn your Zotero library into an evidence store for agents.
 - [weijiafu14/pi2dsh](https://github.com/weijiafu14/pi2dsh) - Bridge the Pi and DeepSeek Harness ecosystems: one Pi Host ABI runs unmodified Pi extensions as native DSH plugins. 打通 Pi 与 DSH 生态。
 - [WEP-56/DSH-Launcher](https://github.com/WEP-56/DSH-Launcher) - deepseek harness的启动器，非webui二次打包而是webui内嵌，可以适配所有webui强化插件。额外提供dsh包管理、配置文件管理、插件管理、浏览器标签页、多窗口等功能.
 - [WestFox-AwA/dsh-prompt-optimizer](https://github.com/WestFox-AwA/dsh-prompt-optimizer) - A DeepSeek Harness (dsh) plugin.

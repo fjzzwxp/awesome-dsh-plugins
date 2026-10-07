@@ -622,7 +622,8 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 
 - ⭐ [VDERR/dsh-echocat-skill-panel](https://github.com/VDERR/dsh-echocat-skill-panel) - DSH 技能调用审计 + 应用内 skill 管理器.
 - ⭐ [a735624258/dsh-skill-picker](https://github.com/a735624258/dsh-skill-picker) - DSH 实现 workbuddy 同款选择 skill 功能 | WorkBuddy-style skill picker for DeepSeek Harness: pick a skill in the composer, insert the official /skill-name gesture, and DSH loads it with your message.
-- ⭐ [pyqx/dsh-preset-minimal-plus](https://github.com/pyqx/dsh-preset-minimal-plus) - A DeepSeek Harness (dsh) plugin.
+- ⭐ [bychv/dsh-preset-enhance](https://github.com/bychv/dsh-preset-enhance) - SillyTavern preset mode, macro engine and editor for DeepSeek Harness.
+- [pyqx/dsh-preset-minimal-plus](https://github.com/pyqx/dsh-preset-minimal-plus) - A DeepSeek Harness (dsh) plugin.
 
 ### 🔁 工作流与自动化
 

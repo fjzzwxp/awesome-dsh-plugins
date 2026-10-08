@@ -1,0 +1,5 @@
+url: "https://github.com/Contexera/dsh-agent-team"
+name: "Contexera/dsh-agent-team"
+category: memory
+description:
+  en: "dsh-agent-team gives DeepSeek Harness agents that don't reset: durable Members with their own memory, notes, and skills across sessions, rollovers, and restarts. You set the direction; agents coordinate through Channels and Tasks."

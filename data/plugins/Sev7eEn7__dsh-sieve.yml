@@ -1,0 +1,5 @@
+url: "https://github.com/Sev7eEn7/dsh-sieve"
+name: "Sev7eEn7/dsh-sieve"
+category: tools
+description:
+  en: "dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化插件。"

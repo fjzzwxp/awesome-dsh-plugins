@@ -329,6 +329,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [SiriLee/dsh-rewind](https://github.com/SiriLee/dsh-rewind) - DeepSeek Harness plugin: in-place conversation rewind in the same session window (Claude Code /rewind semantics) + optional file restore.
 - [sjh9714/dsh-win32](https://github.com/sjh9714/dsh-win32) - Fix and diagnose DeepSeek Harness on native Windows. Official PowerShell, Workspace Write, shortcuts, and legacy preset repair. No WSL.
 - [sluminositys/dsh-nested-followups](https://github.com/sluminositys/dsh-nested-followups) - Ask a follow-up on any past answer in an isolated branch, keeping your main conversation clean. 针对任意历史回答发起追问，新问题在独立分支中展开，主对话保持干净。A conversation-tree plugin for DeepSeek Harness / DeepSeek Harness 会话树插件。
+- [sol5766/dshm](https://github.com/sol5766/dshm) - deepseek harnes HarmonyOS PC client.
 - [Solismuchengxue/dsh_plugin_swift_cycle](https://github.com/Solismuchengxue/dsh_plugin_swift_cycle) - Swift Cycle governance skill adapter for DeepSeek Harness; user-invoked, version-pinned, and offline-verifiable.
 - [songoao25/dsh-bottom-info-bar](https://github.com/songoao25/dsh-bottom-info-bar) - Bottom Info Bar — an information bar plugin for DeepSeek Harness: provider/model, live balance, peak/off-peak pricing with countdown, and real persisted per-session spend in a single line.
 - [STARKTANG108/dsh-free-models](https://github.com/STARKTANG108/dsh-free-models) - 一键把 6 家大厂免费大模型接入 DeepSeek Harness：安装脚本 + 配置模板，全部免费、不绑信用卡，不含任何 API Key.
@@ -571,6 +572,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [Yan-Zero/dsh-std](https://github.com/Yan-Zero/dsh-std) - A DeepSeek Harness (dsh) plugin.
 - [yejiming/dsh-museai-tavern](https://github.com/yejiming/dsh-museai-tavern) - MuseAI的DeepSeek Harness插件，可以将你的MuseAI角色放进DSH使用啦！.
 - [yexi-by/dsh-unrestricted](https://github.com/yexi-by/dsh-unrestricted) - DeepSeek Harness Web 可开关破限提示词插件，支持多模式、子代理和锚点兼容检查。
+- [Yifffan/dsh-plugin-whale-pet](https://github.com/Yifffan/dsh-plugin-whale-pet) - Your little whale buddy for work, wins, and well-earned naps.
 - [yjh051108/dsh-agi-harness](https://github.com/yjh051108/dsh-agi-harness) - AGI harness: 责任闭环、信誉、学习的外部化（DSH 插件组合）.
 - [yjh051108/dsh-router-standard](https://github.com/yjh051108/dsh-router-standard) - Task-aware reasoning-mode router for DeepSeek Harness: three measured behavior bands (spec/mixed/react) with phase-transition evidence, persona + first-turn tool injection, agent-visible tuning. Dual-attractor policy paper included.
 - [yjh051108/dsh-super-injector](https://github.com/yjh051108/dsh-super-injector) - A DeepSeek Harness (dsh) plugin.
@@ -639,8 +641,9 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 
 - ⭐ [MerZlin/dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop) - 基于项目git@github.com:PC2005-cloud/dsh-pet.git，将桌宠移植到Windows和MacOS上，现在可以随时看到蓝色大肥鱼了：）.
 - ⭐ [PerryLink/dsh-research-report](https://github.com/PerryLink/dsh-research-report) - Verifiable research-report engine for DeepSeek Harness: content-addressed evidence ledger (claim-snapshot binding, tamper-evident) plus versioned sealed reports with per-claim verification verdicts and a manifest-sealed directory.
-- ⭐ [awesome-dsh-plugin/dsh-find-plugin](https://github.com/awesome-dsh-plugin/dsh-find-plugin) - Find DSH plugins inside the agent — live GitHub dsh-plugin topic search, star-ranked / 会话内搜索发现 DSH 插件.
+- ⭐ [Nagi-ovo/dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins) - 帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins.
 - [1841220388zzzcccxxx-star/dsh-git-graph](https://github.com/1841220388zzzcccxxx-star/dsh-git-graph) - Embedded git repository graph visualizer for the DeepSeek Harness Web GUI | 嵌入式 Git 仓库图谱可视化插件（提交历史图 / 分支过滤 / 文件 diff / VSCode 式未提交改动）.
+- [awesome-dsh-plugin/dsh-find-plugin](https://github.com/awesome-dsh-plugin/dsh-find-plugin) - Find DSH plugins inside the agent — live GitHub dsh-plugin topic search, star-ranked / 会话内搜索发现 DSH 插件.
 - [AwesomeHou/dsh-plugin-marketplace](https://github.com/AwesomeHou/dsh-plugin-marketplace) - Plugin marketplace for DeepSeek Harness — live-syncs the GitHub dsh-plugin topic (1800+ repos) into a searchable, paginated settings tab with one-click install and agent tools (market_search / market_install).
 - [bradeGithub/DSH-Plugins-Marketplace](https://github.com/bradeGithub/DSH-Plugins-Marketplace) - DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI.
 - [ccq1/dsh-side-panel](https://github.com/ccq1/dsh-side-panel) - DSH 侧边栏，集成文件浏览器、终端和 Git 审查，方便预览文件。
@@ -648,7 +651,6 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [extracurricular-ai/dsh-filesnap](https://github.com/extracurricular-ai/dsh-filesnap) - dsh-filesnap — 把对话和它改过的文件一起回退到某一轮之前,不需要 git 仓库. A blazing-fast rewind and redo plugin for DeepSeek Harness, powered by a 🦀 Rust core, tracking the conversion and the files it changed, no git required, low disk consumption.
 - [FeatherHunter/dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) - 拨开迷雾看见终点，剩下的交给任务栏。Part the fog, see the end — the task bar handles the rest. 🎮 mattpocock/skills 的 DSH 游戏任务系统：map 拨迷雾，任务栏推进一步。A game-like mission system for Matt Pocock skills in DeepSeek Harness. More by @FeatherHunter: 🎨 dsh-opencode-palette · ⚡ dsh-prompt.
 - [Kytolly/dsh-evolve-in-git](https://github.com/Kytolly/dsh-evolve-in-git) - A deepseek-harness plugin, making your agent evolve in customed git repository.
-- [Nagi-ovo/dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins) - 帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins.
 - [Noob-stupid/dsh-plugin-gating-hub](https://github.com/Noob-stupid/dsh-plugin-gating-hub) - DeepSeek Harness (DSH) 插件管理面板：一键启用/停用插件 + GitHub dsh-plugin 插件市场+自定义插件索引/市场，带插件详情与一键安装，一键框架升级自动回滚,插件升级门控 | Plugin manager & marketplace for DeepSeek Harness.
 - [Noob-stupid/dsh-plugin-hub](https://github.com/Noob-stupid/dsh-plugin-hub) - DeepSeek Harness (DSH) 插件管理面板：一键启用/停用插件 + GitHub dsh-plugin 插件市场，带插件详情与一键安装 | Plugin manager & marketplace for DeepSeek Harness.
 - [PivotStackIntelligence/dsh-github](https://github.com/PivotStackIntelligence/dsh-github) - A DeepSeek Harness (dsh) plugin.

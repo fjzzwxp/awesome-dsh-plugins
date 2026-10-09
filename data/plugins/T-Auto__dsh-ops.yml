@@ -1,0 +1,5 @@
+url: "https://github.com/T-Auto/dsh-ops"
+name: "T-Auto/dsh-ops"
+category: usage
+description:
+  en: "Bash, PowerShell 7, and Rust-based tools for dsh on Windows to cut token usage. / 为windows的dsh提供bash、powershell7及rust的高性能tools来减少token消耗."

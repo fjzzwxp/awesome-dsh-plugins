@@ -558,6 +558,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [T-Auto/dsh-std](https://github.com/T-Auto/dsh-std) - DSH Plugin Interoperability Meta-Protocol / DSH 插件互操作元协议.
 - [taxueseek/dsh-files](https://github.com/taxueseek/dsh-files) - DeepSeek Harness dual-face plugin: session-isolated file upload with colorful composer cards + read_document tool (text/PDF/DOCX/XLSX) with content sniffing and LRU caching.
 - [tencent-connect/dsh-qqbot](https://github.com/tencent-connect/dsh-qqbot) - 让 QQ Bot 接入 DeepSeek Harness（dsh）的官方插件.
+- [thissensen/dsh-agent-studio](https://github.com/thissensen/dsh-agent-studio) - 可视化地自定义配置 Agent 的提示词（prompt）、工具（tools）、可见技能（skills）、子代理、备用模型，轻松创建团队。
 - [Tkingxiao/dsh-any-background](https://github.com/Tkingxiao/dsh-any-background) - Deepseek Harness 自定义主题插件，支持自定义图片/视频壁纸，对话框，侧边栏等透明度模糊度调整，全局主题色的色轮调整插件.
 - [urzeye/dsh-outline](https://github.com/urzeye/dsh-outline) - DeepSeek Harness（DSH）Web GUI 的实时大纲插件，移植自 Ophel Atlas.
 - [vlln/dsh-navbar](https://github.com/vlln/dsh-navbar) - DSH 插件：对话节点导航条（右缘节点串快速跳转 user 消息）。官方 bundle 插件，dsh plugin --profile web add 安装.
@@ -580,6 +581,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [yjh051108/dsh-router-standard](https://github.com/yjh051108/dsh-router-standard) - Task-aware reasoning-mode router for DeepSeek Harness: three measured behavior bands (spec/mixed/react) with phase-transition evidence, persona + first-turn tool injection, agent-visible tuning. Dual-attractor policy paper included.
 - [yjh051108/dsh-super-injector](https://github.com/yjh051108/dsh-super-injector) - A DeepSeek Harness (dsh) plugin.
 - [YRN-playmaker/dsh-wallpaper_share](https://github.com/YRN-playmaker/dsh-wallpaper_share) - 一键同步壁纸引擎各类动态场景壁纸的插件，设置应用启动项。A "wallpaper engine" synchronization plugin mounted on the deepseek harness can synchronize static wallpapers.
+- [Yu-tao-Li/dsh-computer-use-win](https://github.com/Yu-tao-Li/dsh-computer-use-win) - Windows computer use for DeepSeek Harness (dsh): MCP stdio server + PowerShell UIA backend, 22 desktop tools.
 - [yueyezhufeng/dsh-platform](https://github.com/yueyezhufeng/dsh-platform) - M1 智能研发桌面工作台 —— "桌面即应用".
 - [yunxiiQwQ/dsh-maid-whale-UI](https://github.com/yunxiiQwQ/dsh-maid-whale-UI) - DeepSeek Harness Web UI 鲸鱼女仆主题插件.
 - [yunxiiQwQ/dsh-maid-whale-webUI](https://github.com/yunxiiQwQ/dsh-maid-whale-webUI) - DeepSeek Harness Web UI 鲸鱼女仆主题插件.

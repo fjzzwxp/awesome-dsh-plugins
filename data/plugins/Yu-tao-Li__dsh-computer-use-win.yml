@@ -1,0 +1,5 @@
+url: "https://github.com/Yu-tao-Li/dsh-computer-use-win"
+name: "Yu-tao-Li/dsh-computer-use-win"
+category: tools
+description:
+  en: "Windows computer use for DeepSeek Harness (dsh): MCP stdio server + PowerShell UIA backend, 22 desktop tools."

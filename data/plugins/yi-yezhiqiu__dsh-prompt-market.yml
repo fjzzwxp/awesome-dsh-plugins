@@ -1,0 +1,5 @@
+url: "https://github.com/yi-yezhiqiu/dsh-prompt-market"
+name: "yi-yezhiqiu/dsh-prompt-market"
+category: market
+description:
+  en: "DeepSeek Harness 提示词市场插件：对话框内一键浏览、搜索、收藏提示词，选中即写入输入框。零后端、免构建、数据只存本机。 | A prompt marketplace for DSH: browse, search and insert prompts straight into the composer."

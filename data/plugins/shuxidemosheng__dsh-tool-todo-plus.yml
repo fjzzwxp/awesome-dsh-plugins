@@ -1,0 +1,5 @@
+url: "https://github.com/shuxidemosheng/dsh-tool-todo-plus"
+name: "shuxidemosheng/dsh-tool-todo-plus"
+category: tools
+description:
+  en: "DeepSeek Harness 任务清单插件：官方 todo_write 的增强 fork —— 优先级标签、完整清单渲染、可拖动的会话内浮动任务面板（位置记忆 / 双击复位 / 当前动作显示）."

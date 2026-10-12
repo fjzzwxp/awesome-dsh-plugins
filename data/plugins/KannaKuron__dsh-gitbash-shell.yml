@@ -1,0 +1,5 @@
+url: "https://github.com/KannaKuron/dsh-gitbash-shell"
+name: "KannaKuron/dsh-gitbash-shell"
+category: git
+description:
+  en: "DSH plugin: Git Bash shell for all agent modes on Windows (replaces pwsh executor)."

@@ -1,0 +1,5 @@
+url: "https://github.com/sixtysevenlf/dsh-skill-blender-modeling"
+name: "sixtysevenlf/dsh-skill-blender-modeling"
+category: tools
+description:
+  en: "DSH skill v1.0 · Blender 建模与装配流程：多 Agent 分工范式（冻结 spec/写作用域/接口表）、参考图形体还原、六条必踩的坑、十道数值门装配审计；23 条配方；配套插件 dsh-blender-plugin v1.0.0."

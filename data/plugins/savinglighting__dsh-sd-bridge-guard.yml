@@ -1,0 +1,5 @@
+url: "https://github.com/savinglighting/dsh-sd-bridge-guard"
+name: "savinglighting/dsh-sd-bridge-guard"
+category: tools
+description:
+  en: "用大肥鱼弄了个操作ds的插件，没ds的这个插件会帮你下，由于是本地部署的sd，所以懂得都懂，至于怎么绕过dsh 的审核嘛，md里面有，安装好之后试一下就知道了—嘿嘿嘿."

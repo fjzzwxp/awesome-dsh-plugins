@@ -1,0 +1,5 @@
+url: "https://github.com/ffyfox/dsh-prompt-hardener"
+name: "ffyfox/dsh-prompt-hardener"
+category: model
+description:
+  en: "DSH 插件，把提示词改写成「硬邦邦」风格再交给模型，有概率提升部分模型表现."

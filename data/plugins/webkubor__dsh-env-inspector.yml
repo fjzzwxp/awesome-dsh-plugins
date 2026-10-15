@@ -1,0 +1,5 @@
+url: "https://github.com/webkubor/dsh-env-inspector"
+name: "webkubor/dsh-env-inspector"
+category: tools
+description:
+  en: "DSH 环境自检：让读者看到自己电脑装了什么 —— 系统/CLI/DSH 插件/秘钥是否存在."

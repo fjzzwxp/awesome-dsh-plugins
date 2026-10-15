@@ -1,0 +1,5 @@
+url: "https://github.com/webkubor/dsh-museav-assets"
+name: "webkubor/dsh-museav-assets"
+category: dev
+description:
+  en: "DSH 资产台：主区「资产」tab，按项目（工作区）看 MUSE AV 素材库 + 作品集，点素材复制直链当垫图。基于本机 museav CLI，零运行时依赖，不碰密钥。"

@@ -1,0 +1,5 @@
+url: "https://github.com/UncleK/dsh-think-translate"
+name: "UncleK/dsh-think-translate"
+category: model
+description:
+  en: "Thinking-chain UI translation for DeepSeek Harness: 8 target languages, local Ollama model primary with in-panel download, Google/Bing fallback."

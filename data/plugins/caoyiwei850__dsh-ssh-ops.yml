@@ -1,0 +1,5 @@
+url: "https://github.com/caoyiwei850/dsh-ssh-ops"
+name: "caoyiwei850/dsh-ssh-ops"
+category: tools
+description:
+  en: "DeepSeek Harness SSH 运维插件：主对话驱动 SSH，带高危命令保护与右侧终端。"

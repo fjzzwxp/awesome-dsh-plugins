@@ -1,0 +1,5 @@
+url: "https://github.com/bronyacccxz/dsh-bilibili-reply"
+name: "bronyacccxz/dsh-bilibili-reply"
+category: skill
+description:
+  en: "让 AI 读懂你在 B 站 @ 它的视频，自动回一条带可跳转时间戳的评论。DSH / AI Agent 技能。"

@@ -1,0 +1,5 @@
+url: "https://github.com/NanmiCoder/dsh-skills-hub"
+name: "NanmiCoder/dsh-skills-hub"
+category: ui
+description:
+  en: "Skills Hub for DeepSeek Harness: browse, preview, install and remove third-party skills from ClawHub and SkillHub inside the DSH Web GUI."

@@ -97,6 +97,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [MisakaZentai/world-execute-me-dsh-pv](https://github.com/MisakaZentai/world-execute-me-dsh-pv) - Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.
 - [Moresyl/dsh-studio](https://github.com/Moresyl/dsh-studio) - DeepSeek Harness 原生桌面端 · Linux / macOS / Windows · Rust + Tauri.
 - [Nagi-ovo/dsh-ads](https://github.com/Nagi-ovo/dsh-ads) - 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI.
+- [NanmiCoder/dsh-skills-hub](https://github.com/NanmiCoder/dsh-skills-hub) - Skills Hub for DeepSeek Harness: browse, preview, install and remove third-party skills from ClawHub and SkillHub inside the DSH Web GUI.
 - [Nexus-Aethra/DSHBox](https://github.com/Nexus-Aethra/DSHBox) - Manage DeepSeek Harness locally: run multiple DSH versions in isolated containers, open the UI in an embedded WebView, import plugins/skills with one click, share extension bundles, and let a queued task system handle installs with live logs. Zero-dependency installer.
 - [niiang/dsh-kimino-theme](https://github.com/niiang/dsh-kimino-theme) - Kimi no Na wa (Your Name) theme for DeepSeek Harness Web GUI.
 - [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) - GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.
@@ -198,6 +199,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [AITabby/dockyard-dsh](https://github.com/AITabby/dockyard-dsh) - A macOS-only native account-pool and provider plugin for DeepSeek Harness.
 - [Ajwyunsx/dsh-cmdgo-provider](https://github.com/Ajwyunsx/dsh-cmdgo-provider) - A DeepSeek Harness (dsh) plugin.
 - [aklnaaw/dsh-xiaoke-widget](https://github.com/aklnaaw/dsh-xiaoke-widget) - Claude 拟人桌宠「小克」· DSH Web 余额挂件（二创自 MeteorNOX/DeepSeek-Balance-Whale-Widget）.
+- [Alice-Marx/dsh-model-router](https://github.com/Alice-Marx/dsh-model-router) - Model Router and GALGame plugin for DeepSeek Harness.
 - [amlyczz/dsh-agy-link](https://github.com/amlyczz/dsh-agy-link) - Google Antigravity (agy CLI) models for DeepSeek Harness — streaming chat, thinking, tool activity, usage, in-GUI Google OAuth login.
 - [Andiii208/dsh-ultramath](https://github.com/Andiii208/dsh-ultramath) - UltraMath 数学建模竞赛多 Agent 求解 DSH 插件: 5 角色预设 + 33 篇模型库 + 论文模板/审稿脚本随包 + 进度可视化.
 - [anweat/dsh-web-search-pro](https://github.com/anweat/dsh-web-search-pro) - Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering).
@@ -693,6 +695,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - ⭐ [Oscar-Williams/dsh-deepcanary](https://github.com/Oscar-Williams/dsh-deepcanary) - Know when your DeepSeek Harness tasks need you. Local alerts, quiet notifications, and a task inbox.
 - ⭐ [Phant0Meow/dsh-meow-smooth](https://github.com/Phant0Meow/dsh-meow-smooth) - 手机电脑dsh通知功能！移动端可用的通知！手机端ui交互优化！让手机端dsh真正可用。
 - [bill9109/dsh-web-ui-notify](https://github.com/bill9109/dsh-web-ui-notify) - 为 DSH 增加桌面通知提醒.
+- [chromoany/dsh-notify-me](https://github.com/chromoany/dsh-notify-me) - DSH 桌面消息提醒插件 / desktop notification and message alerts for DeepSeek Harness web：需要你操作（可操作提醒）与回复完成提醒，系统通知+提示音+标签页标题，设置页开关 + 中英通知语言.
 - [THEWOLFWALKER/dsh-notifier](https://github.com/THEWOLFWALKER/dsh-notifier) - Unified notification push plugin for DeepSeek Harness (DSH): one minimal notify() API, 8 channel adapters (telegram/dingtalk/feishu/wxpusher/pushplus/serverchan/bark/webhook), dual trigger (auto session events + agent tool).
 
 ### Developer Tools

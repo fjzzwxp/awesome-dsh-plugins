@@ -260,6 +260,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [hg1048596-pixel/dsh-recall-unread](https://github.com/hg1048596-pixel/dsh-recall-unread) - DeepSeek Harness (DSH) 插件：在模型读取前撤回已发送的文字消息，支持单条与全部撤回。A DeepSeek Harness plugin that recalls sent-but-unread text messages before the model reads them — one-by-one or all at once.
 - [HOWILLMAKEIT/dsh-model-context-catalog](https://github.com/HOWILLMAKEIT/dsh-model-context-catalog) - DeepSeek Harness 插件：维护 llm-pi-ai 模型的准确上下文窗口，避免长会话被误判为上下文溢出。
 - [howmp/dsh-pentest](https://github.com/howmp/dsh-pentest) - 面向 DeepSeek Harness（dsh）的渗透测试模式 @CloverSecLabs.
+- [huzhengcai471-crypto/dsh-startup-secret](https://github.com/huzhengcai471-crypto/dsh-startup-secret) - DeepSeek Harness 启动动画插件（二次创作版）：暗色赛博风格开机动画，党徽标识 + 赛博电子风人物立绘 + 访问密码功能.
 - [hytime/dsh-thinking-effort](https://github.com/hytime/dsh-thinking-effort) - Configurable reasoning levels for hand-declared DSH llm-pi-ai models, with bilingual settings and subagent defaults.
 - [IPF-Sinon/DSH-Folk](https://github.com/IPF-Sinon/DSH-Folk) - DSH-Folk —— 基于 FolkPatch 设计风格的 DeepSeek Harness 移动端启动器。
 - [JAdpp/dsh-whale-galgame](https://github.com/JAdpp/dsh-whale-galgame) - 工作推gal两不误~面向DeepSeek Harness的跨会话事件感知Galgame引擎与界面插件，支持鲸鱼娘/GPT/Claude/Grok/Gemini/Kimi多位模型娘角色.
@@ -493,6 +494,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [evaldock/dsh-top100](https://github.com/evaldock/dsh-top100) - A DeepSeek Harness (dsh) plugin.
 - [ExElectron/dsh-tool-hongtou](https://github.com/ExElectron/dsh-tool-hongtou) - DeepSeek Harness 红头公文插件：两阶段解耦流水线（LLM 结构化提纲 + 确定性 Word 2003 XML 版式渲染）生成标准红头公文.
 - [fandc520/dsh-comfyui](https://github.com/fandc520/dsh-comfyui) - 一个基于DeepSeek-Harness的ComfyUI插件.
+- [Fanqi89/dsh-rea](https://github.com/Fanqi89/dsh-rea) - REA (Reverse Engineer Anything) MCP bridge for DeepSeek Harness — 接入 REA 逆向工具的 DSH 插件.
 - [fb0sh/dsh-pentester](https://github.com/fb0sh/dsh-pentester) - 基于 DeepSeek Harness 的多 Agent PTES 渗透测试编排插件，支持自动化侦察、漏洞分析、验证与报告，使用 Docker/Kali 隔离工具箱 | Multi-agent PTES penetration testing plugin for DeepSeek Harness with automated recon, vulnerability analysis, validation, reporting, and Docker/Kali toolbox.
 - [FeatherHunter/dsh-prompt](https://github.com/FeatherHunter/dsh-prompt) - DeepSeek Harness 的 Prompt 工具箱：别再复制粘贴——24 条深度模板随手点，/prompt 与智能推荐主动兜底，装好即用、可自定义。 | The Prompt toolbox for DeepSeek Harness: stop copy-pasting — 24 deep templates at a click, /prompt & smart suggestions as backup; out of the box, fully customizable.
 - [Fengze233/dsh-vscode](https://github.com/Fengze233/dsh-vscode) - 在 VS Code 侧边栏内嵌使用 DeepSeek Harness（DSH）网页界面的插件.

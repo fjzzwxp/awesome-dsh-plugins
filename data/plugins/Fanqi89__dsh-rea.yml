@@ -1,0 +1,5 @@
+url: "https://github.com/Fanqi89/dsh-rea"
+name: "Fanqi89/dsh-rea"
+category: tools
+description:
+  en: "REA (Reverse Engineer Anything) MCP bridge for DeepSeek Harness — 接入 REA 逆向工具的 DSH 插件."

@@ -1,0 +1,5 @@
+url: "https://github.com/oil-oil/dsh-oil-ui"
+name: "oil-oil/dsh-oil-ui"
+category: ui
+description:
+  en: "Oil UI 的 DeepSeek Harness 原生插件，支持自动切换本地安装的 Oil UI Pro."

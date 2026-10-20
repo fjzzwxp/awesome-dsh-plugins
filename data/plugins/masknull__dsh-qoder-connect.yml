@@ -1,0 +1,5 @@
+url: "https://github.com/masknull/dsh-qoder-connect"
+name: "masknull/dsh-qoder-connect"
+category: model
+description:
+  en: "将 Qoder（国内版/国际版）以 PAT 接入 DeepSeek Harness —— 侧栏额度展示、上下文窗口切换、模型自由开关、每日自动签到。Qoder CN & Global models for DeepSeek Harness via PAT. 支持 DSH 0.2.1-rc.1+。"

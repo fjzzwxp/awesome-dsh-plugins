@@ -1,0 +1,5 @@
+url: "https://github.com/Likenttt/garmin-connect-plugin-for-dsh"
+name: "Likenttt/garmin-connect-plugin-for-dsh"
+category: model
+description:
+  en: "A TypeScript-based Garmin Connect plugin and MCP server with secure browser-based MFA, built for DeepSeek Harness and designed to work with other AI agents."

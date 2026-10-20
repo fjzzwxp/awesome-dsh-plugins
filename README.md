@@ -479,6 +479,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [ARFCON/dsh-hotplug-hub](https://github.com/ARFCON/dsh-hotplug-hub) - DSH - Dseam.
 - [Awu12277/dsh-stock-watch](https://github.com/Awu12277/dsh-stock-watch) - A股自选股实时行情盯盘插件 - DeepSeek Harness Web 右上角可折叠弹窗.
 - [ayuanwong/dsh-ux](https://github.com/ayuanwong/dsh-ux) - 长任务，不刷屏：关键进度清晰可见，完成后自动折叠，详情随时展开。 Long agent tasks, without transcript clutter: focused progress, auto-folded history, details on demand.
+- [beiyege-01/dsh-voice-ai-girlfriend-plugin](https://github.com/beiyege-01/dsh-voice-ai-girlfriend-plugin) - A DeepSeek Harness (dsh) plugin.
 - [biociao/dsh-science](https://github.com/biociao/dsh-science) - A DeepSeek Harness (dsh) plugin.
 - [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) - The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
 - [bruc3van/dsh-desktop](https://github.com/bruc3van/dsh-desktop) - 一款主打安全且更尊重开发者的开源 DeepSeek Harness 桌面客户端。官方 Web UI ，长任务常驻托盘，支持通知推送；内置安全市场，600+精选插件支持先审查、再安装。

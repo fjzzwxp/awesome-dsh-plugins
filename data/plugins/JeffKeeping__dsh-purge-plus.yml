@@ -1,0 +1,5 @@
+url: "https://github.com/JeffKeeping/dsh-purge-plus"
+name: "JeffKeeping/dsh-purge-plus"
+category: ui
+description:
+  en: "dsh-purge 的非官方分支（fork）：适配 DeepSeek Harness 0.2.1-rc.2、破甲内核 v3、设置页 UI 重做 / unofficial fork of YuJunZhiXue/dsh-purge (MIT)."

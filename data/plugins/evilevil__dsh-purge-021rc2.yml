@@ -1,0 +1,5 @@
+url: "https://github.com/evilevil/dsh-purge-021rc2"
+name: "evilevil/dsh-purge-021rc2"
+category: model
+description:
+  en: "dsh-purge 社区适配版：上游已停更，这里让它继续跑在 DeepSeek Harness 0.2.1-rc.2 上（基于 1.1.72）."

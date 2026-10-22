@@ -1,0 +1,5 @@
+url: "https://github.com/mortyandtimo/dsh-purge-plus"
+name: "mortyandtimo/dsh-purge-plus"
+category: model
+description:
+  en: "DeepSeek Harness 破甲增强版 (enhanced fork): TUN fake-ip dynamic pass-through (patch #38), persona prefix variants, Node 24 compat, idempotent anchors."

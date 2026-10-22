@@ -1,0 +1,5 @@
+url: "https://github.com/AtinyFurina/dsh-prompt-layer"
+name: "AtinyFurina/dsh-prompt-layer"
+category: ui
+description:
+  en: "Configurable system-prompt section for DeepSeek Harness, rendered after every built-in section."

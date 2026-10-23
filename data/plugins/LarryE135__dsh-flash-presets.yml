@@ -1,0 +1,5 @@
+url: "https://github.com/LarryE135/dsh-flash-presets"
+name: "LarryE135/dsh-flash-presets"
+category: usage
+description:
+  en: "降低Deepseek v4.1flash的Token消耗/Raising Token efficiency with same performance(Works for v4.1flash)."

@@ -1,0 +1,5 @@
+url: "https://github.com/MindLab-Research/dsh-generative-ui"
+name: "MindLab-Research/dsh-generative-ui"
+category: ui
+description:
+  en: "Generative UI for DeepSeek Harness — the agent writes TSX and the web UI compiles every frame as it streams, so a card renders while its JSX is still unclosed. Inline in the conversation, or in a side canvas."

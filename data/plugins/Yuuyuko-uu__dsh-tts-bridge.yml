@@ -1,0 +1,5 @@
+url: "https://github.com/Yuuyuko-uu/dsh-tts-bridge"
+name: "Yuuyuko-uu/dsh-tts-bridge"
+category: tools
+description:
+  en: "DSH 朗读桥：会话里的话自动交给 DeepSeek 网页端朗读，声音从你自己的电脑里出来."

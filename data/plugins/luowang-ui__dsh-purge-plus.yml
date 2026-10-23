@@ -1,0 +1,5 @@
+url: "https://github.com/luowang-ui/dsh-purge-plus"
+name: "luowang-ui/dsh-purge-plus"
+category: tools
+description:
+  en: "Purge Community Plus - DeepSeek Harness jailbreak plugin, adapted for DSH Desktop 0.2.1-rc.x. Fixes #119 host crash and the toolFilter preset-registration failure."

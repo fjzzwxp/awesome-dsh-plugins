@@ -1,0 +1,5 @@
+url: "https://github.com/MochiNek0/dsh-web-search-free"
+name: "MochiNek0/dsh-web-search-free"
+category: tools
+description:
+  en: "面向 DeepSeek Harness 的免费 Web Search / 网页抓取插件，支持 Tavily、Exa、Brave、百度、SearXNG 等多个引擎按可配置顺序自动 fallback."

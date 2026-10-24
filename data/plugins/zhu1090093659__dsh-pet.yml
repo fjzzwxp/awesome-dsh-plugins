@@ -1,0 +1,5 @@
+url: "https://github.com/zhu1090093659/dsh-pet"
+name: "zhu1090093659/dsh-pet"
+category: ui
+description:
+  en: "Multi-pet companion plugin for the DSH Web GUI: a registry-driven floating pet that reacts to model activity, with per-pet naming, petting/feeding interactions and an affinity score."

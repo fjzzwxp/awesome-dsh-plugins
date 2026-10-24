@@ -1,0 +1,5 @@
+url: "https://github.com/Lixiaoyiao/DSH-action"
+name: "Lixiaoyiao/DSH-action"
+category: dev
+description:
+  en: "Community GitHub Action for DeepSeek Harness — AI Code Review · CI Diagnosis · Auto Fix · Issue → PR."

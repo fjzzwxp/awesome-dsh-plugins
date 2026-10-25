@@ -1,0 +1,5 @@
+url: "https://github.com/KardDev/dsh-plugins"
+name: "KardDev/dsh-plugins"
+category: tools
+description:
+  en: "A DeepSeek Harness (dsh) plugin."

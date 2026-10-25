@@ -1,0 +1,5 @@
+url: "https://github.com/LJL454/dsh-computer-use"
+name: "LJL454/dsh-computer-use"
+category: model
+description:
+  en: "给 DeepSeek Harness 装上「一双手」：让模型能看屏幕、动鼠标键盘、操作窗口与控件。截屏 / 鼠标 / 键盘 / 剪贴板 / 窗口与 UI Automation，支持批处理动作与可读的失败原因。"

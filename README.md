@@ -123,6 +123,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [william-jin-cmu/dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) - DSH WebUI sticker plugin for bidirectional user and agent reactions.
 - [WSL043/DSH-Portable](https://github.com/WSL043/DSH-Portable) - A truly portable DeepSeek Harness desktop build. Sessions, settings, plugins, and workspace move with the folder.
 - [xituisuany-max/dsh-client-ui-pet](https://github.com/xituisuany-max/dsh-client-ui-pet) - DSH web GUI 鲸鱼娘桌宠插件：23 个序列帧动作、多吸附点、坐姿专属动作套、token 汇报、滑动选择器（RunningHub H3 Ref2VA 素材管线）.
+- [xjxlabs/dsh-chat-mode-preview](https://github.com/xjxlabs/dsh-chat-mode-preview) - A DeepSeek Harness (dsh) plugin.
 - [yannicksong0106/dsh-550c-boot](https://github.com/yannicksong0106/dsh-550c-boot) - 550C 开机动画 for DeepSeek Harness — 首帧由宿主半边注入，DSH 的 Loading 卡片不露脸；桌面原生标题栏按钮收编成终端配色 | 550C boot splash plugin for DSH.
 - [zhu1090093659/dsh-pet](https://github.com/zhu1090093659/dsh-pet) - Multi-pet companion plugin for the DSH Web GUI: a registry-driven floating pet that reacts to model activity, with per-pet naming, petting/feeding interactions and an affinity score.
 - [zhu1090093659/dsh-trading](https://github.com/zhu1090093659/dsh-trading) - Agent-native trading terminal built on DeepSeek Harness. Crypto, US, CN and HK in one three-column GUI, 19+ hot-swappable connectors, dry-run by default with human approval on every live order. BYOK, no data redistribution.
@@ -407,6 +408,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [Yi-111-a/dsh-jingling](https://github.com/Yi-111-a/dsh-jingling) - dsh · dsh-plugin · deepseek · deepseek-harness · deepseek-harness-plugin · ai-companion · desktop-pet · character-card · local-first · privacy · jingling · 鲸灵.
 - [Yuntwo/dsh-langfuse-plugin](https://github.com/Yuntwo/dsh-langfuse-plugin) - Langfuse telemetry sidecar bundle for DeepSeek Harness.
 - [Yuuyuko-uu/dsh-feiyu-mood](https://github.com/Yuuyuko-uu/dsh-feiyu-mood) - 给 AI 伙伴一个会自己判断、你看得见的心情 —— 每轮聊完自动判断涨跌，右下角挂饰看数值、情绪和时间线.
+- [Yuuyuko-uu/dsh-qq-bridge](https://github.com/Yuuyuko-uu/dsh-qq-bridge) - 通到 QQ：DSH 里的 AI 伙伴和 QQ 双向互通 —— 它说完话自动发到 QQ，你在 QQ 说的话自动转进 DSH（走 OneBot 11 HTTP，NapCat / SnowLuma 都行）.
 - [yyh-001/DSH-X](https://github.com/yyh-001/DSH-X) - DeepSeek Harness 轻量 Windows 启动器。选一个版本，启动 dsh web。
 - [yyxcnasd/amadeus-for-dsh](https://github.com/yyxcnasd/amadeus-for-dsh) - Amadeus (AI assistant from Steins;Gate 0) for DeepSeek Harness.
 - [zenstory-ai/oh-story-dsh](https://github.com/zenstory-ai/oh-story-dsh) - A DSH plugin for novel writing and short-drama production, powered by Oh Story and Drama Skills.
@@ -615,6 +617,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [tencent-connect/dsh-qqbot](https://github.com/tencent-connect/dsh-qqbot) - 让 QQ Bot 接入 DeepSeek Harness（dsh）的官方插件.
 - [thissensen/dsh-agent-studio](https://github.com/thissensen/dsh-agent-studio) - 可视化地自定义配置 Agent 的提示词（prompt）、工具（tools）、可见技能（skills）、子代理、备用模型，轻松创建团队。
 - [Tkingxiao/dsh-any-background](https://github.com/Tkingxiao/dsh-any-background) - Deepseek Harness 自定义主题插件，支持自定义图片/视频壁纸，对话框，侧边栏等透明度模糊度调整，全局主题色的色轮调整插件.
+- [Tony-Chen-Stark/dsh-pet-android](https://github.com/Tony-Chen-Stark/dsh-pet-android) - 把 dsh-pet 移植成安卓悬浮桌宠：106 段透明动画、点击 Q 弹、拖拽甩抛、长按动作菜单；无 AI、不联网.
 - [urzeye/dsh-outline](https://github.com/urzeye/dsh-outline) - DeepSeek Harness（DSH）Web GUI 的实时大纲插件，移植自 Ophel Atlas.
 - [vlln/dsh-navbar](https://github.com/vlln/dsh-navbar) - DSH 插件：对话节点导航条（右缘节点串快速跳转 user 消息）。官方 bundle 插件，dsh plugin --profile web add 安装.
 - [Vncntvx/dsh-zotero](https://github.com/Vncntvx/dsh-zotero) - Zotero toolkit for DeepSeek harness; Turn your Zotero library into an evidence store for agents.
@@ -810,6 +813,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [alexchenzl/dsh-plugin-directory](https://github.com/alexchenzl/dsh-plugin-directory) - Community-driven DeekSeek Harness Plugin Directory.
 - [hikariming/dshfind](https://github.com/hikariming/dshfind) - DSH (DeepSeek Harness) 原理学习、插件市场与最佳实践 · Learn DSH principles, plugin marketplace & best practices.
 - [mishibeikejie/zat-dsh-engine](https://github.com/mishibeikejie/zat-dsh-engine) - Visual plugin marketplace for DeepSeek Harness — browse, search and install community plugins.
+- [polang233/dsh-plugin-index](https://github.com/polang233/dsh-plugin-index) - Open Plugin Market — Community plugin index for DeepSeek Harness (DSH). 照顾小开发者的插件索引、插件市场、开放插件市场.
 - [sliverp/dsh-hub-plugin](https://github.com/sliverp/dsh-hub-plugin) - Native DSH Hub marketplace plugin for DeepSeek Harness.
 - [YELEBAI/dsh-plugin-marketplace](https://github.com/YELEBAI/dsh-plugin-marketplace) - Verified plugin marketplace and autonomous registry for DeepSeek Harness.
 - [yi-yezhiqiu/dsh-prompt-market](https://github.com/yi-yezhiqiu/dsh-prompt-market) - DeepSeek Harness 提示词市场插件：对话框内一键浏览、搜索、收藏提示词，选中即写入输入框。零后端、免构建、数据只存本机。 | A prompt marketplace for DSH: browse, search and insert prompts straight into the composer.

@@ -1,0 +1,5 @@
+url: "https://github.com/jadezane6634-ops/dsh-purge-flash"
+name: "jadezane6634-ops/dsh-purge-flash"
+category: model
+description:
+  en: "DSH 破甲插件：token 级重试环 + 十片按需叶子（含邻近交付）+ 分级 prefill + 拒答阶梯 L0–L3 + finish_reason 四路分流 + 请求体级整形。不写宿主文件、不碰 approval 与 sandbox，188 项测试 / 56 条探针。"

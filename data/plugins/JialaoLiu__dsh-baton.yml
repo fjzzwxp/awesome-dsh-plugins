@@ -1,0 +1,5 @@
+url: "https://github.com/JialaoLiu/dsh-baton"
+name: "JialaoLiu/dsh-baton"
+category: model
+description:
+  en: "Pass the baton from Claude Code or Codex to a local DeepSeek Harness. An MCP server that hands off tasks and brings the result back."

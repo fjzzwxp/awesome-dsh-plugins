@@ -1,0 +1,5 @@
+url: "https://github.com/vibe-any/dsh-plugin-save-token"
+name: "vibe-any/dsh-plugin-save-token"
+category: usage
+description:
+  en: "A DeepSeek Harness (dsh) dynamic plugin that cuts token cost without cutting model intelligence."

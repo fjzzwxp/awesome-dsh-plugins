@@ -1,0 +1,5 @@
+url: "https://github.com/cyanwell/dsh-agent-soul"
+name: "cyanwell/dsh-agent-soul"
+category: model
+description:
+  en: "一套给 agent 用的「灵魂架构」—— 五层模型、四条判据、一份能力清单、一次自检。交付的是问法和判据，不是答案。"

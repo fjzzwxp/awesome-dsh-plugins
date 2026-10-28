@@ -1,0 +1,5 @@
+url: "https://github.com/SAOS-3624/dsh-video-storyboard"
+name: "SAOS-3624/dsh-video-storyboard"
+category: model
+description:
+  en: "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packed into ONE image (384 tokens). Two tools: video_storyboard and video_zoom."

@@ -243,6 +243,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [cpp285/dsh-plugin-center](https://github.com/cpp285/dsh-plugin-center) - A compact discovery and lifecycle console for DeepSeek Harness plugins.
 - [crazywoola/dsh-balance](https://github.com/crazywoola/dsh-balance) - DeepSeek Harness balance plugin for the Settings page.
 - [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login) - Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE streaming, prompting-based tool calls.
+- [cyanwell/dsh-agent-soul](https://github.com/cyanwell/dsh-agent-soul) - 一套给 agent 用的「灵魂架构」—— 五层模型、四条判据、一份能力清单、一次自检。交付的是问法和判据，不是答案。
 - [daha1216/dsh-adult-tension](https://github.com/daha1216/dsh-adult-tension) - DeepSeek自带破甲18+互动叙事 Skill：NPC 活人感（有记忆/立场/底线）、数百项素材库、随机开局可预锁、时间推进、全维 YAML 存档。
 - [DDDMUC/dsh-free-search](https://github.com/DDDMUC/dsh-free-search) - Free web search provider for DeepSeek Harness - DuckDuckGo backend, no API key needed.
 - [Dely0/dsh-personal-workbench](https://github.com/Dely0/dsh-personal-workbench) - DSH 个人工作台：日历 + 任务列表 + AI 澄清/拆解/执行/复盘 | Personal workbench for DeepSeek Harness Web: calendar + task list + AI assistant.
@@ -364,6 +365,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [rootkiller6788/dsh-launcher](https://github.com/rootkiller6788/dsh-launcher) - Unlock DeepSeek Harness plugin-native core capabilities, unifying Runtime, Provider, Plugin, Skill and MCP orchestration to build an extensible, composable and manageable local AI runtime platform.
 - [Rosynb666/dsh-whale-catch](https://github.com/Rosynb666/dsh-whale-catch) - 深海鱼篓：不用 agent 登记，自动收进本场会话产出的文件——右侧栏预览、一键打包 zip、归档。Zero-registration deliverable basket for DeepSeek Harness.
 - [sagirimo/BioDSH](https://github.com/sagirimo/BioDSH) - The bioinformatics agent desktop for clinicians and wet-lab scientists — built on DeepSeek Harness. One-click installers, a skill store, offline mode.
+- [SAOS-3624/dsh-video-storyboard](https://github.com/SAOS-3624/dsh-video-storyboard) - Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packed into ONE image (384 tokens). Two tools: video_storyboard and video_zoom.
 - [ScarecrowFu/dsh-laofu-workbench](https://github.com/ScarecrowFu/dsh-laofu-workbench) - 基于 deepseek harness 的可动态加载/卸载场景功能的工作台.
 - [SeaOf0/dsh-redteam-model](https://github.com/SeaOf0/dsh-redteam-model) - 基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，不定期完善逻辑与修复bug）.
 - [seriousz158/dsh-memory](https://github.com/seriousz158/dsh-memory) - A DeepSeek Harness (dsh) plugin.

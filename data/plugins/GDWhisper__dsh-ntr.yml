@@ -1,0 +1,5 @@
+url: "https://github.com/GDWhisper/dsh-ntr"
+name: "GDWhisper/dsh-ntr"
+category: model
+description:
+  en: "让你的Deepseek harness成为一个统一的agent入口，轻松接入codebuddy、claude code、opencode、qoder."

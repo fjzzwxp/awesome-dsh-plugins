@@ -1,0 +1,5 @@
+url: "https://github.com/uumit-ai/dsh-uumit-remote"
+name: "uumit-ai/dsh-uumit-remote"
+category: model
+description:
+  en: "A DeepSeek Harness (dsh) plugin."

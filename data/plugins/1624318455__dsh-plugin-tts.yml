@@ -1,0 +1,5 @@
+url: "https://github.com/1624318455/dsh-plugin-tts"
+name: "1624318455/dsh-plugin-tts"
+category: voice
+description:
+  en: "Edge TTS voice plugin for DeepSeek Harness: read assistant replies aloud, auto-read toggle, voice settings panel (free, no API key)."

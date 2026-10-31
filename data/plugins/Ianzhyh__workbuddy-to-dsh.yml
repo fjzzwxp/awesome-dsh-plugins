@@ -1,0 +1,5 @@
+url: "https://github.com/Ianzhyh/workbuddy-to-dsh"
+name: "Ianzhyh/workbuddy-to-dsh"
+category: model
+description:
+  en: "把本机 WorkBuddy 桌面端已登录的模型（DeepSeek / GLM / Kimi / MiniMax 等）变成本地的 OpenAI 与 Anthropic 兼容接口 —— Claude Code / opencode / Cursor / Trae / Cherry Studio / LobeChat 等任意支持自定义 Base URL 的客户端可直连。附网页控制台与 DeepSeek Harness 原生插件。零依赖，仅监听 127.0.0.1。"

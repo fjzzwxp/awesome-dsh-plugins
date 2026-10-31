@@ -1,0 +1,5 @@
+url: "https://github.com/huaguoxingkong/dsh-prompt-rewriter"
+name: "huaguoxingkong/dsh-prompt-rewriter"
+category: dev
+description:
+  en: "One-click prompt enhancement beside the DeepSeek Harness composer: rewrites a draft in place without sending it."

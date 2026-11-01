@@ -455,6 +455,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - ⭐ [NativeDog1/dsh-boot-animation](https://github.com/NativeDog1/dsh-boot-animation) - 打开新对话、或打开你钉住的会话时，视频铺满整个窗口播放一段片头开机动画。支持换成自己的视频，每个会话只播一次或每次打开都播.
 - ⭐ [Phant0Meow/dsh-meow-memory](https://github.com/Phant0Meow/dsh-meow-memory) - Cross-session memory plugin for DeepSeek Harness: seven-layer SQLite store (soul/user/project/fact/lesson/topic/rules), BM25 retrieval, per-window dream consolidation. 跨会话七层长期记忆插件。
 - [abhishekgahlot2/pi-dsh](https://github.com/abhishekgahlot2/pi-dsh) - Pi coding-agent harness with durable sessions, causal history, reversible components, and approval-gated host self-extension.
+- [aureth-labs/dsh-aurabot-qq](https://github.com/aureth-labs/dsh-aurabot-qq) - 让 DeepSeek Harness 里的 AI 以「大肥鱼」住进 QQ：会聊天、发表情、发语音、记事、发空间、刷 B 站、唱歌。功能都是模块，能开关、能自己写，还能从模块市场装更多（SnowLuma / OneBot v11）。
 - [Blank-not-black/dsh-Remote](https://github.com/Blank-not-black/dsh-Remote) - DSH Remote · 口袋里的 DSH 控制台 会话 · 审批 · 提问 · 文件传输，局域网 / Tailscale 直连 多服务器自动选优，聊天记录离线可看 带 Token 鉴权，数据只在你的设备之间流动 Sessions · approvals · questions · file transfer over LAN / Tailscale. Automatic fastest-server selection. Chat history available offline. Token-authenticated — your data flows only between your devices.
 - [Cerbur/clutch-dsh](https://github.com/Cerbur/clutch-dsh) - Open-source DSH plugins for DeepSeek Harness：Git Worktree session management（会话管理）、Session Title（会话标题）与 Fireworks（庆祝特效），面向 AI coding workflows。
 - [dingyi222666/dsh-focus-chat](https://github.com/dingyi222666/dsh-focus-chat) - 为 dsh 提供新的「聚焦会话」精简会话视图，更轻松易于阅读，只关注最终产出结果。
@@ -585,6 +586,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [kanneiren/dsh-network-settings](https://github.com/kanneiren/dsh-network-settings) - DSH网络设置插件 | DeepSeek Harness network diagnostics, proxy detection and repair for Windows/WSL/MacOS.
 - [KardDev/dsh-plugins](https://github.com/KardDev/dsh-plugins) - A DeepSeek Harness (dsh) plugin.
 - [kingcharleslzy-ai/dsh-purge](https://github.com/kingcharleslzy-ai/dsh-purge) - dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。
+- [LanJinGod/dsh-purge](https://github.com/LanJinGod/dsh-purge) - DeepSeek Harness 破甲插件 dsh-purge 1.1.72 — 换包生效、账本自检、三平台分流.
 - [LaplaceYoung/oh-my-dsh](https://github.com/LaplaceYoung/oh-my-dsh) - oh-my-dsh：面向 DSH (DeepSeek Harness) 的插件生态——700+ 插件，只通过扩展接缝注册，不修改 agent-loop 骨架.
 - [left0ver/dsh-file-review](https://github.com/left0ver/dsh-file-review) - dsh插件 - 立刻审查agent对文件的修改，查看diff。a dsh plugin - review files that an agent just changed,you can see the diff.
 - [lehhair/dsh-mobile](https://github.com/lehhair/dsh-mobile) - A DeepSeek Harness (dsh) plugin.

@@ -151,6 +151,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [PolinniZhong/dsh-personal-center](https://github.com/PolinniZhong/dsh-personal-center) - DeepSeek Harness 个人中心:用量统计 / 自定义指令 / 成本估算 / 桌面宠物(纯本地，不联网）。 Personal center & custom instructions for DSH.
 - [Rianico/dsh-better-edit](https://github.com/Rianico/dsh-better-edit) - Hash-anchored read/edit/undo_last_edit tools for DeepSeek Harness (dsh), fewer token consumption, lower cost.
 - [SAOS-3624/dsh-see-now](https://github.com/SAOS-3624/dsh-see-now) - 让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token.
+- [SteelUnion/dsh-confirm-gate](https://github.com/SteelUnion/dsh-confirm-gate) - DeepSeek Harness gate - per-turn persistent-operation counter: remind, instruct the model to stop, then ask for confirmation. Steps aside under sandbox/read-only modes; follows a live permission switch without restart. Verified on real hardware (full -> workspace-write -> read-only -> full). Crafted on an estimated 0.27 USD of model spend.
 - [vibe-any/dsh-plugin-save-token](https://github.com/vibe-any/dsh-plugin-save-token) - A DeepSeek Harness (dsh) dynamic plugin that cuts token cost without cutting model intelligence.
 - [xinyuquan985-coder/DSH-webtokens](https://github.com/xinyuquan985-coder/DSH-webtokens) - A DeepSeek Harness (dsh) plugin.
 - [Ychris12138/dsh-usage-stats](https://github.com/Ychris12138/dsh-usage-stats) - Provider balances, subscription quotas, and token-usage analytics for the DeepSeek Harness Web GUI (dsh web).
@@ -309,6 +310,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [LiZhenNet/dsh-antigravity](https://github.com/LiZhenNet/dsh-antigravity) - 为 DeepSeek Harness (DSH) 打造的 Google Antigravity 模型提供者插件/Google Antigravity LLM provider for DeepSeek Harness with native Web OAuth, real-time quota tracking, and dynamic reasoning effort routing.
 - [LJL454/dsh-computer-use](https://github.com/LJL454/dsh-computer-use) - 给 DeepSeek Harness 装上「一双手」：让模型能看屏幕、动鼠标键盘、操作窗口与控件。截屏 / 鼠标 / 键盘 / 剪贴板 / 窗口与 UI Automation，支持批处理动作与可读的失败原因。
 - [lninghaha/dsh-coding-subscription-oauth](https://github.com/lninghaha/dsh-coding-subscription-oauth) - DeepSeek Harness coding-subscription OAuth: SuperGrok / Grok Build, ChatGPT Plus Codex, Kimi Code, Claude Code. No API-key pasting.
+- [LockyBee/dsh-douyin-agent](https://github.com/LockyBee/dsh-douyin-agent) - DSH 原生抖音助手：有限自主观看、共享人格与兴趣记忆、原生设置和观看日报。
 - [Loping151/dsh-nekowhale-stickers](https://github.com/Loping151/dsh-nekowhale-stickers) - 大肥鱼 / GPT娘 sticker knowledge kit for DeepSeek Harness (dsh), MCP and any chat bot · 大肥鱼表情包知识库.
 - [luobosibing2/dsh-jev-plugin](https://github.com/luobosibing2/dsh-jev-plugin) - Native DeepSeek Harness (DSH) plugin integrating TypeSafe Jev as a System One decision layer for agent selection, supervision, corrections, and approvals.
 - [MarcoG-h/DSH-Launcher](https://github.com/MarcoG-h/DSH-Launcher) - 最全面的DeepSeek Harness🐋启动器 *首创多实例管理中枢* | 多开并行 | 整合包下载 | 一键部署 | 插件管理 |.
@@ -836,6 +838,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [chenw2759-wq/dsh-IDE](https://github.com/chenw2759-wq/dsh-IDE) - dsh-IDE 把 DeepSeek Harness（DSH）网页版升级成一站式 IDE：JupyterLab 式文件树、带语法高亮的代码编辑、多格式预览、Trae 风格红绿 diff 和内置终端，再加上「本地大脑、远程手脚」的 SSH 远程工作区，让 AI 直接在本机操控远程服务器，全程零配置文件改动。
 - [Clarklevis1995/dsh-mobile](https://github.com/Clarklevis1995/dsh-mobile) - DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生 iOS 客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言.
 - [Clarklevis1995/dsh-plugin-mobile-gateway](https://github.com/Clarklevis1995/dsh-plugin-mobile-gateway) - 以websocket为通信方式的dsh网关插件，支持在同一网域内移动端的接入，实现移动端的dsh app.
+- [dingchenhui0618-arch/dsh-in-hand](https://github.com/dingchenhui0618-arch/dsh-in-hand) - 掌上 DSH（dsh-in-hand）：DeepSeek Harness 的手机端，不用装 App——一份只读任务监控页长成的手机浏览器客户端（PWA）：会话、实时对话、交付文件、后台任务与待批准；也自带一个 GUI 侧边栏面板。 / DSH in hand: the phone client for DeepSeek Harness with no app to install, plus a GUI sidebar panel.
 - [eskim2001/dsh-cloud](https://github.com/eskim2001/dsh-cloud) - dshcloud：部署并托管 DeepSeek Harness (dsh) 实例的多租户平台，支持自托管或云端部署。Deploy and host DeepSeek Harness (dsh) instances — self-hosted on your own server or cloud-hosted: a multi-tenant platform with isolated Docker containers, persistent workspaces and resource quotas.
 - [hongshuxifan321/dsh-mobile-app](https://github.com/hongshuxifan321/dsh-mobile-app) - DSH Remote - Android client for DeepSeek Harness.
 - [JUANWANG-BUAA/dsh-full-remote](https://github.com/JUANWANG-BUAA/dsh-full-remote) - Auditable, token-gated DeepSeek Harness remote gateway: mobile QR access, per-device sessions, Host/Origin rewrite, settings/credentials/directory support.

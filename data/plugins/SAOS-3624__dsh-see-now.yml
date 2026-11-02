@@ -1,0 +1,5 @@
+url: "https://github.com/SAOS-3624/dsh-see-now"
+name: "SAOS-3624/dsh-see-now"
+category: usage
+description:
+  en: "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token."

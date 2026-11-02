@@ -1,0 +1,5 @@
+url: "https://github.com/Anchorite-no/dsh-zju-assistant"
+name: "Anchorite-no/dsh-zju-assistant"
+category: model
+description:
+  en: "ZJU All-in-One Assistant：浙大学生的一站式校园 AI 助手，DeepSeek Harness 插件（npm 包 dsh-zju-assistant）."

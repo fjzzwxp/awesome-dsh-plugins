@@ -1,0 +1,5 @@
+url: "https://github.com/wonderandyou/dsh-qwen-paint"
+name: "wonderandyou/dsh-qwen-paint"
+category: tools
+description:
+  en: "DSH 插件：在对话里调用本机 ComfyUI，用千问 Qwen-Image 2.1 出图。纯本地、不出网、不需要 API Key。"

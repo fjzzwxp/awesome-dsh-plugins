@@ -115,6 +115,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [plolpl789/dsh-raw-html-v2](https://github.com/plolpl789/dsh-raw-html-v2) - VCP visual-synesthesia plugin v2 for DeepSeek Harness (official Slot API): raw-HTML vcp-root cards, streaming render, KaTeX/Mermaid/SVG, builtin fonts.
 - [qkycir-123/dsh-run2skill](https://github.com/qkycir-123/dsh-run2skill) - Automatically turn successful DeepSeek Harness sessions into reusable, reviewable Agent Skills.
 - [rison114514/dsh-endfield-ui](https://github.com/rison114514/dsh-endfield-ui) - Endfield-inspired industrial UI shell for DeepSeek Harness (dsh) — non-official fan theme. Install: dsh plugin --profile web add @rison/dsh-endfield-ui.
+- [Roland0511/dsh-marktext](https://github.com/Roland0511/dsh-marktext) - MarkText (muya) WYSIWYG Markdown editor for the DeepSeek Harness right sidebar.
 - [rootkiller6788/dsh-flow](https://github.com/rootkiller6788/dsh-flow) - A pluginized microkernel architecture for building, orchestrating, and extending multi-agent systems in DeepSeek Harness.
 - [Ruler4396/dsh-launcher](https://github.com/Ruler4396/dsh-launcher) - DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained.
 - [shengsheng90/DSH-taskboard](https://github.com/shengsheng90/DSH-taskboard) - Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.
@@ -674,6 +675,8 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [whDonline/dsh-capsule](https://github.com/whDonline/dsh-capsule) - A DeepSeek Harness (dsh) plugin.
 - [whiteguo233/dsh-openbiliclaw](https://github.com/whiteguo233/dsh-openbiliclaw) - OpenBiliClaw 是本地运行的跨平台个性化内容推荐 Agent，持续理解你的兴趣并主动找内容。本仓库是它的 DeepSeek Harness 插件：DSH 界面常驻第四栏（推荐/内容库/对话/画像/设置），注册 22 个 Agent Bridge 工具，让 Agent 也能读推荐、答探测、闭环学习。
 - [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) - The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and scaffolder. DSH 插件活目录：每小时刷新，每日兼容实测，内置插件商店与脚手架。
+- [wonderandyou/dsh-qwen-paint](https://github.com/wonderandyou/dsh-qwen-paint) - DSH 插件：在对话里调用本机 ComfyUI，用千问 Qwen-Image 2.1 出图。纯本地、不出网、不需要 API Key。
+- [woniuniuniu/dsh-media-desk](https://github.com/woniuniuniu/dsh-media-desk) - DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜.
 - [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) - 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插.
 - [xiaoxianyu-office/dsh-router-flash](https://github.com/xiaoxianyu-office/dsh-router-flash) - DSH bundle 插件：V4 Flash 神模式（opencode-go）agent preset 分发包，dsh plugin add 安装后自动同步 router-flash preset。DSH agent preset bundle for DeepSeek V4 Flash godmode.
 - [xuedai-mayi/dsh-wenshan](https://github.com/xuedai-mayi/dsh-wenshan) - 问山：DeepSeek Harness 地理野外实习知识图谱插件与非官方二次开发项目.
@@ -754,6 +757,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 ### Workflows & Automation
 
 - ⭐ [KelaoHu/dsh-lowtide](https://github.com/KelaoHu/dsh-lowtide) - Time-shifting task delegation for DeepSeek Harness (dsh): plan tasks at leisure, they run unattended off-peak, come back to a report. Human-adjudicated, desktop + web.
+- ⭐ [Minglink/dsh-jailbreak-workflow](https://github.com/Minglink/dsh-jailbreak-workflow) - DSH Workflow Lite 插件dsh工作流程插件.
 - ⭐ [titanwings/dsh-automation](https://github.com/titanwings/dsh-automation) - DSH 自动化插件：让 Coding 任务按计划在全新 Agent Session 中运行，并由用户或 Agent 创建和管理定时任务。 / Run coding tasks in fresh Agent sessions and manage schedules from DSH Web or an Agent.
 
 ### Git & Version Control

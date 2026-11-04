@@ -1,0 +1,5 @@
+url: "https://github.com/MerkyorLynn/dsh-live-compact"
+name: "MerkyorLynn/dsh-live-compact"
+category: model
+description:
+  en: "边做边压 Live Compact. Compress the finished turn in place and keep the prefix cache."

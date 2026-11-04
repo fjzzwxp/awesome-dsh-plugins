@@ -1,0 +1,5 @@
+url: "https://github.com/ZhangFengshun/dsh-remote-ssh"
+name: "ZhangFengshun/dsh-remote-ssh"
+category: dev
+description:
+  en: "DSH web plugin: VSCode Remote-SSH-like remote development (SSH, remote workspace, file explorer, integrated terminal)."

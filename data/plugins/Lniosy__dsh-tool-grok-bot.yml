@@ -1,0 +1,5 @@
+url: "https://github.com/Lniosy/dsh-tool-grok-bot"
+name: "Lniosy/dsh-tool-grok-bot"
+category: tools
+description:
+  en: "在 DSH 里把一句话发给指定的 Grok Bot。"

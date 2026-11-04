@@ -1,0 +1,5 @@
+url: "https://github.com/SoledadAki/dsh-im-qq-wechat"
+name: "SoledadAki/dsh-im-qq-wechat"
+category: model
+description:
+  en: "Connect DeepSeek Harness to WeChat & QQ seamlessly. | 使 DeepSeek Harness 能接受到你微信与 QQ发来的信息的插件，打造远程全自动 AI 工作流助理."

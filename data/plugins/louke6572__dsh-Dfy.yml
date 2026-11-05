@@ -1,0 +1,5 @@
+url: "https://github.com/louke6572/dsh-Dfy"
+name: "louke6572/dsh-Dfy"
+category: tools
+description:
+  en: "QQ × B站 × 桌宠一体化插件 dsh-Dfy：余额小鲸鱼挂件 + 106 段透明动画桌宠 + QQ 消息卡；内置 SurfCore 后端（QQ/B站/双向脱敏记忆）。安装：克隆后 npm install 再 node scripts/setup-dsh.mjs."

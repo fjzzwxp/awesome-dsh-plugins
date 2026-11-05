@@ -1,0 +1,5 @@
+url: "https://github.com/frostming/dsh-hongguo"
+name: "frostming/dsh-hongguo"
+category: ui
+description:
+  en: "DSH plugin: watch Hongguo short dramas in the right sidebar while the agent works (built on openhongguo)."

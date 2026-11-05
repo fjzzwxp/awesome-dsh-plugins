@@ -1,0 +1,5 @@
+url: "https://github.com/luckui/dsh-livestream"
+name: "luckui/dsh-livestream"
+category: model
+description:
+  en: "DeepSeek Harness 直播插件：让 DSH 里的 agent 在 B 站直播间当主播（默认角色：大肥鱼）."

@@ -1,0 +1,5 @@
+url: "https://github.com/oriliz/dsh-mcp-apps-host"
+name: "oriliz/dsh-mcp-apps-host"
+category: tools
+description:
+  en: "MCP Apps Host plugin for DeepSeek Harness: renders interactive HTML cards from MCP _meta.ui in sandboxed iframes, bridges postMessage to MCP tools/call and resources/read."

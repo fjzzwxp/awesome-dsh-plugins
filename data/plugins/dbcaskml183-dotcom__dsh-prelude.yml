@@ -1,0 +1,5 @@
+url: "https://github.com/dbcaskml183-dotcom/dsh-prelude"
+name: "dbcaskml183-dotcom/dsh-prelude"
+category: tools
+description:
+  en: "DeepSeek Harness (DSH) 提示词工程插件：用 90 张方法卡发现遗漏，在光标处补一句，或对照原稿采用整段改写。Prompt optimizer and editor for the DSH chat composer."

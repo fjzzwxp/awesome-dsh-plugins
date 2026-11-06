@@ -1,0 +1,5 @@
+url: "https://github.com/Tranquillitatis-Lab/dsh-live-compact"
+name: "Tranquillitatis-Lab/dsh-live-compact"
+category: model
+description:
+  en: "边做边压 Live Compact. Compress the finished turn in place and keep the prefix cache."

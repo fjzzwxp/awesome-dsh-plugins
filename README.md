@@ -211,6 +211,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [609476965/dsh-LorebookMD](https://github.com/609476965/dsh-LorebookMD) - DSH lorebook-driven fiction writer plugin: import Tavern/SillyTavern character cards & world books, save local Markdown settings, generate novel prose referencing the world.
 - [a179-sanae/dsh-auto-collapse](https://github.com/a179-sanae/dsh-auto-collapse) - A DeepSeek Harness (dsh) plugin.
 - [a1exsun/dsh-council](https://github.com/a1exsun/dsh-council) - Multi-model council for DeepSeek Harness: independent answers, anonymous peer reviews, and an inspectable final decision.
+- [aa1143/NamiDSH](https://github.com/aa1143/NamiDSH) - 对照 DeepSeek Harness 的迷你学习项目：迷你版 Cordis + 迷你版 DSH + 网页端 Agent.
 - [aa2246740/dsh-model-fusion](https://github.com/aa2246740/dsh-model-fusion) - Fusion for DeepSeek Harness: a frontier Lead plans and reviews, a much cheaper Sidekick writes the code — frontier results at a discount.
 - [aa2246740/dsh-watcher](https://github.com/aa2246740/dsh-watcher) - Read-only Agent work-path observer for DeepSeek Harness.
 - [Aa728848/dsh-chatgpt-subscription](https://github.com/Aa728848/dsh-chatgpt-subscription) - A DeepSeek Harness (dsh) plugin.
@@ -342,6 +343,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [Mombrane/dsh-subagent-monitor](https://github.com/Mombrane/dsh-subagent-monitor) - A DeepSeek Harness (dsh) plugin.
 - [mortyandtimo/dsh-purge-plus](https://github.com/mortyandtimo/dsh-purge-plus) - DeepSeek Harness 破甲增强版 (enhanced fork): TUN fake-ip dynamic pass-through (patch #38), persona prefix variants, Node 24 compat, idempotent anchors.
 - [Mr-potato-123/dsh-mcp](https://github.com/Mr-potato-123/dsh-mcp) - dsh as mcp, make your claude code or codex etc. faster, more powerful and more economic!
+- [Mt-Youya/dsh-plugins](https://github.com/Mt-Youya/dsh-plugins) - A plugin collection for DeepSeek Harness (DSH). Install this one bundle to get every plugin listed below; each plugin can also be installed on its own.
 - [myYangyunfan/dsh_desktop](https://github.com/myYangyunfan/dsh_desktop) - DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch.
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) - 在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations.
 - [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) - AgentTeams plugin for DeepSeek Harness.
@@ -374,6 +376,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) - Bounded, layered, approval-gated, auditable cross-session memory for DeepSeek Harness (capability seam: ctx.memory + SQLite provider + memory tool + frozen snapshot injection).
 - [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) - Claude Code-style declarative permission rules for DeepSeek Harness: ordered allow/deny/ask rules with tool-name, argument (glob/regex), and workspace-path matching on the tools/pre-execute waterfall, session-log audit, and HMR reload.
 - [PlutoKeating/dsh-lark-bot](https://github.com/PlutoKeating/dsh-lark-bot) - DeepSeek Harness (dsh) 接入飞书/Lark bot，扫码即用：流式卡片、项目工作区、并行任务、多角色 Agent、跨会话通知、对话内模型/密钥管理与安全网守护（dsh 崩溃后飞书仍可自救）。A scan-to-connect bridge bot connecting DeepSeek Harness (dsh) into Feishu/Lark: streaming cards, workspaces, parallel tasks, multi-role agents, cross-session notify, in-chat model/key management, and a safety-net guardian.
+- [poco-ai/agentero-dsh-plugin](https://github.com/poco-ai/agentero-dsh-plugin) - 给 DeepSeek Harness 用的科研文献库插件：搜论文、带出处、审批入库、把笔记线索交给同会话其他插件。Academic research library for DSH — search, cite, approve imports, hand off notes.
 - [pointer-a/dsh-server-login](https://github.com/pointer-a/dsh-server-login) - 面向公网的多租户 DSH 托管平台 —— 部署到一台公网服务器后，多个用户注册并经管理员审核，各自获得一套相互隔离的 deepseek-harness（DSH）环境，随时通过域名安全访问。
 - [Potato1008ypy/dsh-purge-0.2.1rc2-fix](https://github.com/Potato1008ypy/dsh-purge-0.2.1rc2-fix) - DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model.
 - [QCYTSN/dsh-dafeiyu](https://github.com/QCYTSN/dsh-dafeiyu) - Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.
@@ -804,8 +807,8 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 ### Notifications & Alerts
 
 - ⭐ [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) - 通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).
-- ⭐ [chromoany/dsh-notify-me](https://github.com/chromoany/dsh-notify-me) - DSH 桌面消息提醒插件 / desktop notification and message alerts for DeepSeek Harness web：需要你操作（可操作提醒）与回复完成提醒，系统通知+提示音+标签页标题，设置页开关 + 中英通知语言.
 - ⭐ [Oscar-Williams/dsh-deepcanary](https://github.com/Oscar-Williams/dsh-deepcanary) - Know when your DeepSeek Harness tasks need you. Local alerts, quiet notifications, and a task inbox.
+- ⭐ [chromoany/dsh-notify-me](https://github.com/chromoany/dsh-notify-me) - DSH 桌面消息提醒插件 / desktop notification and message alerts for DeepSeek Harness web：需要你操作（可操作提醒）与回复完成提醒，系统通知+提示音+标签页标题，设置页开关 + 中英通知语言.
 - [bill9109/dsh-web-ui-notify](https://github.com/bill9109/dsh-web-ui-notify) - 为 DSH 增加桌面通知提醒.
 - [Phant0Meow/dsh-meow-smooth](https://github.com/Phant0Meow/dsh-meow-smooth) - 手机电脑dsh通知功能！移动端可用的通知！手机端ui交互优化！让手机端dsh真正可用。
 - [THEWOLFWALKER/dsh-notifier](https://github.com/THEWOLFWALKER/dsh-notifier) - Unified notification push plugin for DeepSeek Harness (DSH): one minimal notify() API, 8 channel adapters (telegram/dingtalk/feishu/wxpusher/pushplus/serverchan/bark/webhook), dual trigger (auto session events + agent tool).
@@ -845,6 +848,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [z91772524-ai/dsh-pojia-mode](https://github.com/z91772524-ai/dsh-pojia-mode) - 双击一个文件，给 DeepSeek Harness 加一个「破甲模式」Agent Preset —— 零侵入、零依赖、双击无黑框，不改 DSH 一字节代码，升级不丢。
 - [ZhangFengshun/dsh-remote-ssh](https://github.com/ZhangFengshun/dsh-remote-ssh) - DSH web plugin: VSCode Remote-SSH-like remote development (SSH, remote workspace, file explorer, integrated terminal).
 - [ZSeven-W/dsh-android](https://github.com/ZSeven-W/dsh-android) - DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb.
+- [ZSeven-W/dsh-game-studio](https://github.com/ZSeven-W/dsh-game-studio) - Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, export one HTML file.
 
 ### Security & Privacy
 

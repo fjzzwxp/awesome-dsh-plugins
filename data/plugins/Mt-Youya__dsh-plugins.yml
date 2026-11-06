@@ -1,0 +1,5 @@
+url: "https://github.com/Mt-Youya/dsh-plugins"
+name: "Mt-Youya/dsh-plugins"
+category: model
+description:
+  en: "A plugin collection for DeepSeek Harness (DSH). Install this one bundle to get every plugin listed below; each plugin can also be installed on its own."

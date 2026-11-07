@@ -1,0 +1,5 @@
+url: "https://github.com/lili-luo/dsh-plugin-bundle"
+name: "lili-luo/dsh-plugin-bundle"
+category: tools
+description:
+  en: "基于 DeepSeek Harness（DSH）的插件组合包。每个插件在独立子目录里，可以用 `path:` 单独安装。"

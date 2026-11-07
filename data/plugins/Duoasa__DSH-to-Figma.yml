@@ -1,0 +1,5 @@
+url: "https://github.com/Duoasa/DSH-to-Figma"
+name: "Duoasa/DSH-to-Figma"
+category: tools
+description:
+  en: "为 DeepSeek Harness 接入 Figma 原生画布能力：读取与编辑设计、组件与变量、素材导出和截图；本地模式不消耗官方 MCP 调用额度。Native Figma canvas tools for DSH."

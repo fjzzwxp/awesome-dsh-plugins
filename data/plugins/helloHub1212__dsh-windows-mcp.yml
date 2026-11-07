@@ -1,0 +1,5 @@
+url: "https://github.com/helloHub1212/dsh-windows-mcp"
+name: "helloHub1212/dsh-windows-mcp"
+category: model
+description:
+  en: "Windows desktop automation for DeepSeek Harness: the in-box MCP client bridge mounted against CursorTouch/Windows-MCP, with an off-by-default Computer Use switch and an in-app dependency installer."

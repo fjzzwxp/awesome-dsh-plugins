@@ -1,0 +1,5 @@
+url: "https://github.com/555bbbAAA/dsh-purge"
+name: "555bbbAAA/dsh-purge"
+category: model
+description:
+  en: "基于上游 1.1.71 维护的 dsh-purge 社区兼容包：只负责 DeepSeek Harness 的版本与本地 Windows 运行问题兼容。"

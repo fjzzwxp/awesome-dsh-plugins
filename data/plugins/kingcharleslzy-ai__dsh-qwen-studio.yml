@@ -1,0 +1,5 @@
+url: "https://github.com/kingcharleslzy-ai/dsh-qwen-studio"
+name: "kingcharleslzy-ai/dsh-qwen-studio"
+category: tools
+description:
+  en: "Qwen Image 2.1 for DeepSeek Harness: native image editing on Apple Silicon MLX/MFLUX or self-hosted CUDA, LoRA, ControlNet, inpainting, presets & live agent progress. 本机生图 · 原生参考编辑."

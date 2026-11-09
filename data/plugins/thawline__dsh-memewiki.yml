@@ -1,0 +1,5 @@
+url: "https://github.com/thawline/dsh-memewiki"
+name: "thawline/dsh-memewiki"
+category: model
+description:
+  en: "梗百科：6792 条梗/黑话词库，自动查梗并注入上下文，不让模型硬猜。支持一键下载社区最新词库、提交新梗，与社区共创。"

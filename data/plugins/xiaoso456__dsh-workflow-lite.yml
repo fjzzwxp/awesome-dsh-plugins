@@ -1,0 +1,5 @@
+url: "https://github.com/xiaoso456/dsh-workflow-lite"
+name: "xiaoso456/dsh-workflow-lite"
+category: model
+description:
+  en: "DeepSeek Harness 的软工作流插件：在画布上设计流程，编译成计划提示词，由模型按计划执行；运行状态由模型自己记，没有执行引擎."

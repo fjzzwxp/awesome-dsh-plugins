@@ -1,0 +1,5 @@
+url: "https://github.com/YUsaltyfish/dsh-onebot-qq"
+name: "YUsaltyfish/dsh-onebot-qq"
+category: tools
+description:
+  en: "DeepSeek Harness 的原生 QQ 机器人插件：微内核 + 子插件，Linux/Windows 通用。收消息、发图、生图、发表情，装完就能聊。此项目为个人因需求爱好，人力设计方案AI构建代码的插件，所以bug和不够合理的地方有许多，发出来仅为学习和分享."

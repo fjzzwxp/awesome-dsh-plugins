@@ -310,6 +310,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [jingyi0605/Codingns4DSH](https://github.com/jingyi0605/Codingns4DSH) - 把外部 Agent CLI、持久终端、工作区调试和远程访问，装进 DSH 原生界面。
 - [jingyunstudio/jingyun-dsh](https://github.com/jingyunstudio/jingyun-dsh) - 基于 Jingyun Studio + DeepSeek Harness (DSH) 打造的一站式 AI 商业化桌面客户端.
 - [joeseesun/qiaomu-rss-dsh](https://github.com/joeseesun/qiaomu-rss-dsh) - 在 DeepSeek Harness 中阅读 RSS，与原生 AI 对话伴读文章 | RSS reading with native AI companion for DeepSeek Harness.
+- [john-walks-slow/dsh-inject](https://github.com/john-walks-slow/dsh-inject) - Advanced model-context injection and request-only rewriting for DeepSeek Harness with native Keysmith rules compatibility.
 - [Jueze-2019/dsh-redteam-mode](https://github.com/Jueze-2019/dsh-redteam-mode) - DSH RedTeam 模式：把 DeepSeek Harness 变成红队作战指挥台——一个靶标名称拉起信息收集/漏洞检测/漏洞利用/内网渗透四个角色，资产与战果实时落入本地 SQLite 事实库（仅供已授权测试）.
 - [just-a-FA-for-name/DSHgo](https://github.com/just-a-FA-for-name/DSHgo) - DSHgo - 把 DeepSeek Harness (dsh) 工作台装进口袋：手机端 App（内置 Tailscale）+ dsh PC 插件，开包即用。有问题 B 站视频下方交流 @Fa2517.
 - [JUSTMONIKA2022/dsh-sandbox-escalation-fix](https://github.com/JUSTMONIKA2022/dsh-sandbox-escalation-fix) - Session-aware sandbox escalation compatibility plugin for DeepSeek Harness/DSH第三方模型会话沙箱升级兼容插件.

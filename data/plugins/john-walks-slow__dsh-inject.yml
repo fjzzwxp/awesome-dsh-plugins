@@ -1,0 +1,5 @@
+url: "https://github.com/john-walks-slow/dsh-inject"
+name: "john-walks-slow/dsh-inject"
+category: model
+description:
+  en: "Advanced model-context injection and request-only rewriting for DeepSeek Harness with native Keysmith rules compatibility."

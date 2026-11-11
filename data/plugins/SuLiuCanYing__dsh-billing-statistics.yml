@@ -1,0 +1,5 @@
+url: "https://github.com/SuLiuCanYing/dsh-billing-statistics"
+name: "SuLiuCanYing/dsh-billing-statistics"
+category: usage
+description:
+  en: "Local billing dashboard for DSH model calls: multi-platform provider/model breakdowns of calls, tokens and spend, peak/off-peak pricing, manual CSV price import with peak windows, official-bill reconciliation, and HTML/PDF/CSV export."

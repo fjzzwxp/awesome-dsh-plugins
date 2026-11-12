@@ -1,0 +1,5 @@
+url: "https://github.com/OrderG-X/dsh-design-studio"
+name: "OrderG-X/dsh-design-studio"
+category: ui
+description:
+  en: "DSH 设计工作台：模型画的界面摆上画布，点一下就改，还有设计市场。 · Design canvas for DeepSeek Harness (DSH): web, app, mini program and desktop screens in device frames, click or draw to edit, a design market of templates, export and code handoff (React / Vue / uni-app)."

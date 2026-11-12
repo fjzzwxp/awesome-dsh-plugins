@@ -1,0 +1,5 @@
+url: "https://github.com/wang1299/dsh-reforge"
+name: "wang1299/dsh-reforge"
+category: model
+description:
+  en: "DSH-Reforge (dsh-reforge) — DeepSeek Harness plugin for traceable experience from test-verified Python bug fixes. 从有测试依据的 Python 修复中积累可追溯经验。Experimental alpha · DSH 0.2.0-rc.2 / 0.2.1-rc.5."

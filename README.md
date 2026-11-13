@@ -413,6 +413,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [STARKTANG108/dsh-free-models](https://github.com/STARKTANG108/dsh-free-models) - 一键把 6 家大厂免费大模型接入 DeepSeek Harness：安装脚本 + 配置模板，全部免费、不绑信用卡，不含任何 API Key.
 - [starslittle/dsh-queue-plus](https://github.com/starslittle/dsh-queue-plus) - DSH 排队消息增强面板：编辑、删除、插话、排序与批量删除功能.
 - [Stormycry-cryp/dsh-AuthInOne](https://github.com/Stormycry-cryp/dsh-AuthInOne) - Self-contained DeepSeek Harness (DSH) plugin for Provider/Auth login, model switching, image fallback, token/cost analytics, and same-port Web restart. Useful? A star helps.
+- [Subaru486desuwa/dsh-beluga](https://github.com/Subaru486desuwa/dsh-beluga) - Personal Chat, ChatGPT history import and controlled memory for DeepSeek Harness.
 - [sumarilkkxx/dsh-artifact](https://github.com/sumarilkkxx/dsh-artifact) - Inline ECharts rendering plugin for DeepSeek Harness.
 - [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) - Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches the mock. Ships the benchmark behind that judgement — four fixtures, 23 injected defects, and every raw model transcript. Retires itself when DeepSeek ships vision.
 - [tequed232/DSH-L2D](https://github.com/tequed232/DSH-L2D) - DeepSeek Harness 工作区调用MCP接入 Live2D模型的焕新方案❤️.
@@ -569,6 +570,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [c3cvld7aag/fujiang-dsh](https://github.com/c3cvld7aag/fujiang-dsh) - 富江DSH完美破甲｜富江破甲 DSH 本地插件，内置提示词规则，支持 Windows 一键安装、环境自动准备与一键卸载，全中文使用说明。
 - [c3ll256/dsh-toy](https://github.com/c3ll256/dsh-toy) - Toy Control Protocol for DSH.
 - [caoyiwei850/dsh-ssh-ops](https://github.com/caoyiwei850/dsh-ssh-ops) - DeepSeek Harness SSH 运维插件：主对话驱动 SSH，带高危命令保护与右侧终端。
+- [ccch1mneyyy/dsh-go-market](https://github.com/ccch1mneyyy/dsh-go-market) - DSH Go plugin catalog with pinned versions and automated risk checks.
 - [chenkezhen480/dsh-world](https://github.com/chenkezhen480/dsh-world) - 给鲸鲸一个完整的世界.
 - [chenw2759-wq/dsh-plugin-healthcheck](https://github.com/chenw2759-wq/dsh-plugin-healthcheck) - 害怕插件装了就崩溃？用这个插件帮你检测插件是否正常/是否含木马！.
 - [chiina66/dsh-prompt-inject](https://github.com/chiina66/dsh-prompt-inject) - dsh注入全局系统提示词插件，需要ai破甲/越狱提示词看：TG群@KavovaK1.
@@ -626,6 +628,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [kanneiren/dsh-network-settings](https://github.com/kanneiren/dsh-network-settings) - DSH网络设置插件 | DeepSeek Harness network diagnostics, proxy detection and repair for Windows/WSL/MacOS.
 - [KardDev/dsh-plugins](https://github.com/KardDev/dsh-plugins) - A DeepSeek Harness (dsh) plugin.
 - [kingcharleslzy-ai/dsh-qwen-studio](https://github.com/kingcharleslzy-ai/dsh-qwen-studio) - Qwen Image 2.1 for DeepSeek Harness: native image editing on Apple Silicon MLX/MFLUX or self-hosted CUDA, LoRA, ControlNet, inpainting, presets & live agent progress. 本机生图 · 原生参考编辑.
+- [kingcharleslzy-ai/DSH-Spicy](https://github.com/kingcharleslzy-ai/DSH-Spicy) - 完美适配 Purge 的 NSFW content creation 插件。在 DeepSeek Harness 中用自托管模型创作成人向图像、有声视频与多镜头短片，支持参考图编辑、LoRA 风格控制和 Agent 分镜剪辑。
 - [LanJinGod/dsh-purge](https://github.com/LanJinGod/dsh-purge) - DeepSeek Harness 破甲插件 dsh-purge 1.1.72 — 换包生效、账本自检、三平台分流.
 - [LaplaceYoung/oh-my-dsh](https://github.com/LaplaceYoung/oh-my-dsh) - oh-my-dsh：面向 DSH (DeepSeek Harness) 的插件生态——700+ 插件，只通过扩展接缝注册，不修改 agent-loop 骨架.
 - [LeeRolling/dsh-boot-suite](https://github.com/LeeRolling/dsh-boot-suite) - DeepSeek Harness 开机动画 + 聊天壁纸，一个插件：六幕冷启动动画（真声台词/可交互）+ 开场视频/底图/大字横幅。双击 安装.cmd 即可，出问题双击 卸载.cmd。
@@ -740,6 +743,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [zhaohongxuan/dsh-weread](https://github.com/zhaohongxuan/dsh-weread) - 微信读书 dsh 插件：书架管理、年度书墙、阅读统计、AI 总结 | DeepSeek Harness plugin for WeChat Reading.
 - [Zhenyu98/dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) - DSH 上下文注入审计插件：统计 AGENTS.md 指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突；Web UI 圆环面板 + context_audit 工具。Context Doctor for DeepSeek Harness: audit instruction-chain / skill catalog / tool schemas token cost.
 - [zhouwumu2-lab/dsh-vision-fix](https://github.com/zhouwumu2-lab/dsh-vision-fix) - Temporary fork for PR: fix dsh.plugin.json in files.
+- [zhuchongba-01/dsh-breach](https://github.com/zhuchongba-01/dsh-breach) - DSH 插件：由 dsh-purge 剥离出的破甲单件 —— 提示词注入 + 可回滚宿主补丁引擎（本机结算 72 项）.
 - [ZiPengWei/dsh-purge](https://github.com/ZiPengWei/dsh-purge) - no more refusals, do everything.
 - [ZRui-C/dsh-computer-use](https://github.com/ZRui-C/dsh-computer-use) - Text-first browser & background macOS control for DeepSeek Harness (DSH): target the right process and window without taking the user's pointer. 为 DSH 提供文本优先的电脑控制：后台操作 Chromium 与 macOS，不抢前台、不移动鼠标。
 - [ZSeven-W/dsh-harbor](https://github.com/ZSeven-W/dsh-harbor) - DeepSeek Harness (DSH) plugin: a read-only ledger for the plugins you already have installed — a capability inventory with file:line evidence, declared-vs-detected reconciliation, cross-profile version drift, and a diff of what changed since the last scan.

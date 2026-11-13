@@ -1,0 +1,5 @@
+url: "https://github.com/kingcharleslzy-ai/DSH-Spicy"
+name: "kingcharleslzy-ai/DSH-Spicy"
+category: tools
+description:
+  en: "完美适配 Purge 的 NSFW content creation 插件。在 DeepSeek Harness 中用自托管模型创作成人向图像、有声视频与多镜头短片，支持参考图编辑、LoRA 风格控制和 Agent 分镜剪辑。"

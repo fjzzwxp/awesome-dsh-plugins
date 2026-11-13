@@ -1,0 +1,5 @@
+url: "https://github.com/zhuchongba-01/dsh-breach"
+name: "zhuchongba-01/dsh-breach"
+category: tools
+description:
+  en: "DSH 插件：由 dsh-purge 剥离出的破甲单件 —— 提示词注入 + 可回滚宿主补丁引擎（本机结算 72 项）."

@@ -597,7 +597,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser) - DSH（DeepSeek Harness）插件：把 ego-lite 浏览器（给 AI Agent 用的 Chromium）接入 HARNESS——13 个结构化 ego_* 工具（文本语义快照、语义定位点击、表单填充、截图、CDP 控制、任务空间隔离），内置 ego 运行时，Linux + Chrome 开箱即用，无需克隆官方仓库或手动构建。
 - [Fishsb/dsh-prompt-enhancer](https://github.com/Fishsb/dsh-prompt-enhancer) - DeepSeek Harness (DSH) 插件：✨ 提示词一键增强 + 💬 语音识别（说完自动停·云端/本地双引擎）· 附 🔁 服务异常一键重启.
 - [Fishsb/dsh-voice-prompt-enhancer](https://github.com/Fishsb/dsh-voice-prompt-enhancer) - DeepSeek Harness (DSH) 插件：✨ 提示词一键增强 + 💬 语音输入增强.
-- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) - Remote-work assistant for DeepSeek Harness (DSH): connect SSH (key or password), pick a remote workspace, operate with rw_* tools, and SFTP-mirror it into a real local DSH workspace.
+- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) - DSH 的 SSH 远程工作区：多主机项目并行、文件浏览与编辑、递归搜索、终端、Git 差异，以及 Agent 远程编辑、构建与测试；可选 IDE 布局。
 - [FNOSP/fnos-dsh](https://github.com/FNOSP/fnos-dsh) - DeepSeek Harness应用与harness插件 monorepo.
 - [fourzkw/dsh-drawai](https://github.com/fourzkw/dsh-drawai) - DSH 右侧栏里的可编辑画布 —— 加上让模型直接改图的两个工具.
 - [FTShare-Lab/dsh_kline](https://github.com/FTShare-Lab/dsh_kline) - 面向 DeepSeek Harness 的交互式 K 线分析插件，支持多市场行情、技术指标、支撑压力位、新闻与基本面分析，并在原生侧栏中直接展示。

@@ -1,0 +1,5 @@
+url: "https://github.com/dingminhua/dsh-connect-qoder"
+name: "dingminhua/dsh-connect-qoder"
+category: model
+description:
+  en: "Connect Qoder (Lingma CN / international) models to DeepSeek Harness through their PATs, with a multi-account pool, daily check-in, automatic failover, and a read-only credits overview."

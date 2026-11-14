@@ -77,6 +77,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [dream-num/dsh-univer-office](https://github.com/dream-num/dsh-univer-office) - Preview, create, edit office spreadsheets, docs & slides inside DeepSeek Harness. Power by Univer.
 - [DreamRift/dsh-router-jspace](https://github.com/DreamRift/dsh-router-jspace) - Router J-Space: DSH agent preset combining dsh-routing-suite, J-Space Cognition Suite and oh-we-need.
 - [e2mcc/dsh-popout-sidebar](https://github.com/e2mcc/dsh-popout-sidebar) - A sidebar can pop out a separate browser tab (drag it to another monitor).
+- [fahsq72lan/dsh-guide-tutor](https://github.com/fahsq72lan/dsh-guide-tutor) - 屏幕教学助手：悬浮球 + 实时标注 + 步骤面板（DeepSeek Harness 插件）.
 - [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel) - DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）.
 - [frostming/dsh-hongguo](https://github.com/frostming/dsh-hongguo) - DSH plugin: watch Hongguo short dramas in the right sidebar while the agent works (built on openhongguo).
 - [Gitofxiongxiong/dsh-tui-grok](https://github.com/Gitofxiongxiong/dsh-tui-grok) - A DeepSeek Harness (dsh) plugin.
@@ -260,6 +261,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [Dely0/dsh-personal-workbench](https://github.com/Dely0/dsh-personal-workbench) - DSH 个人工作台：日历 + 任务列表 + AI 澄清/拆解/执行/复盘 | Personal workbench for DeepSeek Harness Web: calendar + task list + AI assistant.
 - [dickpy/dsh-cloud-sync](https://github.com/dickpy/dsh-cloud-sync) - Portable DeepSeek Harness profile and local-plugin source synchronization via WebDAV.
 - [dickpy/dsh-imagegen](https://github.com/dickpy/dsh-imagegen) - DSH (DeepSeek Harness) Web GUI AI image generation plugin: text-to-image & image-to-image via OpenAI-compatible endpoints (gpt-image-2), with shared cross-device history.
+- [dingminhua/dsh-connect-qoder](https://github.com/dingminhua/dsh-connect-qoder) - Connect Qoder (Lingma CN / international) models to DeepSeek Harness through their PATs, with a multi-account pool, daily check-in, automatic failover, and a read-only credits overview.
 - [dingminhua/dsh-connect-trae](https://github.com/dingminhua/dsh-connect-trae) - Connect locally signed-in Trae models to DeepSeek Harness with a read-only credits overview.
 - [dingminhua/dsh-connect-workbuddy](https://github.com/dingminhua/dsh-connect-workbuddy) - Connect locally signed-in WorkBuddy models to DeepSeek Harness with a read-only credits overview and model management.
 - [DKKD13/dsh-finance](https://github.com/DKKD13/dsh-finance) - DKKD13 个人开发的第三方 DSH 金融研究插件：研究 Skills、证据资料库、个股图表与模拟基金。与 DeepSeek 官方无隶属关系。

@@ -1,0 +1,5 @@
+url: "https://github.com/topmindspace/dsh-super-kanban"
+name: "topmindspace/dsh-super-kanban"
+category: ui
+description:
+  en: "AI task kanban plugin for DeepSeek Harness — derives task goals, progress and issues from DSH sessions, with session hand-off, subtasks, artifacts and a dual full-page/sidebar UI."

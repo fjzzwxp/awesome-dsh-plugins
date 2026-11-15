@@ -1,0 +1,5 @@
+url: "https://github.com/shenwei322/dsh-purge-ports"
+name: "shenwei322/dsh-purge-ports"
+category: tools
+description:
+  en: "把 dsh-purge 的破甲规则移植到 WorkBuddy 与 ZCode：插件包 + 一键注入 CLI。Jailbreak rule port for WorkBuddy & ZCode."

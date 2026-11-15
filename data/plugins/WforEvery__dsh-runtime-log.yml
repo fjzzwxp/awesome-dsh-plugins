@@ -1,0 +1,5 @@
+url: "https://github.com/WforEvery/dsh-runtime-log"
+name: "WforEvery/dsh-runtime-log"
+category: theme
+description:
+  en: "A lightweight DSH plugin for persistent local WARN/ERROR logs in rotating JSONL files. Features bounded buffering, best-effort secret redaction, and automatic log retention. Zero runtime dependencies. Supports DSH on Windows x64."

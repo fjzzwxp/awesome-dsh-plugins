@@ -1,0 +1,5 @@
+url: "https://github.com/lizi600jin/dsh-ensp"
+name: "lizi600jin/dsh-ensp"
+category: tools
+description:
+  en: "Automate Huawei eNSP labs: generate .topo files, start and stop devices, and push configuration one command at a time with per-command error reporting."

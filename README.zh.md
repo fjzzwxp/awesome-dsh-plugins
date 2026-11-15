@@ -346,6 +346,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [Microqian2th/dsh-codex-effort-slider](https://github.com/Microqian2th/dsh-codex-effort-slider) - Codex 风格的推理等级滑条（DeepSeek Harness 插件）：可拖动连续滑条 + 高档位渐变星尘特效.
 - [Minglink/dsh-armor-gen5](https://github.com/Minglink/dsh-armor-gen5) - 无限五代 破甲 — DeepSeek Harness专用一键破甲插件 仅支持合规合法研究使用 如果对你有帮助求一个star.
 - [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5) - DeepSeek v4.1 flash 逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进.
+- [Minglink/dsh-infinite-gen-n](https://github.com/Minglink/dsh-infinite-gen-n) - 无限N代 - DeepSeek Harness 破甲插件（无限一代至四代原作者维护）| 288+ 道测试题全过 · DeepSeek V4.1-Flash 1017 实测适配 如果对你的研究有帮助的话，求一个star 支持一下开源技术分享！.
 - [mini-yifan/dsh-orb-cordis](https://github.com/mini-yifan/dsh-orb-cordis) - Deepseek Harness悬浮球插件。
 - [Miyazawai/DSH-Melody-Launcher-Overture](https://github.com/Miyazawai/DSH-Melody-Launcher-Overture) - DSH 旋律启动器：序曲 — 面向 DeepSeek Harness 的 Windows 桌面启动器（C 端分支，上游 rirko/dsh-melody-launcher）.
 - [MJorgin/dsh-media-skills](https://github.com/MJorgin/dsh-media-skills) - Free image reading & generation for DeepSeek Harness (rc.7 / rc.8 / v0.1.1-rc.1 / rc.2) — paste-image reading with auto vision transcription, DeepSeek-V4-Flash-Vision-Exp / GLM-4V-Flash / SenseNova / Gemini failover, Kolors + U1 Fast generation. No keys in repo.

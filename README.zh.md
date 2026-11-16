@@ -582,6 +582,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [cloader/dsh-taskboard](https://github.com/cloader/dsh-taskboard) - deepseekharness 任务看板插件.
 - [czcdr/dsh-plugin-rea](https://github.com/czcdr/dsh-plugin-rea) - 第三方适配插件：把上游 REA（github.com/morluto/rea）的 MCP 服务接入 DeepSeek Harness，提供 mcp__rea__* 工具。2.x 会自动准备 Node、REA CLI、JDK 与 Ghidra 并把那一行接好；逆向分析能力全部由上游 REA 提供。
 - [dbcaskml183-dotcom/dsh-prelude](https://github.com/dbcaskml183-dotcom/dsh-prelude) - DeepSeek Harness (DSH) 提示词工程插件：用 90 张方法卡发现遗漏，在光标处补一句，或对照原稿采用整段改写。Prompt optimizer and editor for the DSH chat composer.
+- [Deiael/dsh-live-vibeCoding](https://github.com/Deiael/dsh-live-vibeCoding) - A DeepSeek Harness (dsh) plugin.
 - [Devin-AXIS/jev-dsh-decision](https://github.com/Devin-AXIS/jev-dsh-decision) - Jev DSH 决策引擎｜面向 Agent Harness 的结构化决策插件。原生支持 DeepSeek Harness，通过 iPolloWork 支持 OpenCode、Codex Harness。
 - [dingkaihu63/dsh-robotic-harness](https://github.com/dingkaihu63/dsh-robotic-harness) - Robotic Harness: embodied-intelligence research tools for DeepSeek Harness - robot asset inspection, MuJoCo pick-place simulation with fault injection, evidence-based diagnostics, and reproducible experiment bundles.
 - [DSH-EAC/EAC-Desktop](https://github.com/DSH-EAC/EAC-Desktop) - Embracing All Creation (Desktop) — Dedicated to the Harmonious Coexistence of Hundreds of DSH Plugins / 揽尽万象（桌面版） —— 致力于让数百个DSH插件和谐共存.
@@ -742,6 +743,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [yunxiiQwQ/dsh-maid-whale-UI](https://github.com/yunxiiQwQ/dsh-maid-whale-UI) - DeepSeek Harness Web UI 鲸鱼女仆主题插件.
 - [yunxiiQwQ/dsh-maid-whale-webUI](https://github.com/yunxiiQwQ/dsh-maid-whale-webUI) - DeepSeek Harness Web UI 鲸鱼女仆主题插件.
 - [YUsaltyfish/dsh-onebot-qq](https://github.com/YUsaltyfish/dsh-onebot-qq) - DeepSeek Harness 的原生 QQ 机器人插件：微内核 + 子插件，Linux/Windows 通用。收消息、发图、生图、发表情，装完就能聊。此项目为个人因需求爱好，人力设计方案AI构建代码的插件，所以bug和不够合理的地方有许多，发出来仅为学习和分享.
+- [Yuuyuko-uu/dsh-fish-buddy](https://github.com/Yuuyuko-uu/dsh-fish-buddy) - 鱼搭子：桌面小鲸鱼挂件 + DSH 插件（语音送话、陪看字幕、游戏弹幕、截图）.
 - [Yuuyuko-uu/dsh-speak-up](https://github.com/Yuuyuko-uu/dsh-speak-up) - DSH 插件：让她在没人跟她说话的时候主动搭话（本地掷骰子，掷中就走 DSH 自己的一轮）.
 - [Yuuyuko-uu/dsh-tts-bridge](https://github.com/Yuuyuko-uu/dsh-tts-bridge) - DSH 朗读桥：会话里的话自动交给 DeepSeek 网页端朗读，声音从你自己的电脑里出来.
 - [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme) - DeepSeek Harness 的表情包插件——找得到、发得出、学得会，纯文本斗图、情绪主动发图、像 QQ/微信 一样发图、AI 自动学图、自定义表情包 、多种风格随意切换。
@@ -756,8 +758,8 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 
 ### 🌐 浏览器与网络
 
-- ⭐ [Lum1104/dsh-browser](https://github.com/Lum1104/dsh-browser) - Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。
 - ⭐ [omdsh-dev/dsh-browser](https://github.com/omdsh-dev/dsh-browser) - Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。
+- ⭐ [Lum1104/dsh-browser](https://github.com/Lum1104/dsh-browser) - Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。
 - ⭐ [momasiku/dsh-pilot](https://github.com/momasiku/dsh-pilot) - DeepSeek Harness 的桌面自动化：给整台 Windows 机器装上眼睛和手。可以做人能做的任何事，包括且不仅限于CAD，WPS，浏览器操作，发微信。安全，快速，可靠，聪明，人性化。
 - [2672243194/dsh-read-url](https://github.com/2672243194/dsh-read-url) - DeepSeek Harness URL reader: fetch any page and return clean main-content text/Markdown. Auto charset (GBK/GB2312/UTF-8/Big5), token-efficient (6000-char cap, cache, offset), zero deps, no API key. 网页一键读全文 → 干净正文 / 结构化 Markdown.
 - [A3Boy/dsh-web-tools](https://github.com/A3Boy/dsh-web-tools) - Multi-provider Web Search & Fetch for DeepSeek Harness — Tavily, Exa, Firecrawl, Brave, You.com, Jina & SearXNG with fallback and native settings UI.
@@ -912,6 +914,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [summer1238/dsh-remote-web-gateway](https://github.com/summer1238/dsh-remote-web-gateway) - 手机平板远程 DeepSeek Harness：扫码即可继续使用电脑上的 DSH，无需远程桌面 / SSH / 公网 IP，支持一次性配对、Github授权加密登录，独立设备授权与随时撤销，实现远程连接很简单，但安全才是我们所想要的。
 - [thness/dsh-mobile](https://github.com/thness/dsh-mobile) - DeepSeek Harness Android — 把 DeepSeek Harness 完整装进安卓手机：内嵌 Node.js 运行时 + 官方 Web UI，开箱即用的独立 App。
 - [Tongyu3/DSH-Mobile-Android-NO-ROOT](https://github.com/Tongyu3/DSH-Mobile-Android-NO-ROOT) - 将dsh移植到了手机上，not Root，一键安装apk，可以读取文件并且编辑，在无障碍权限下还能做更多事情，欢迎来尝试。
+- [WNLUO/dsh-mobile-plugin](https://github.com/WNLUO/dsh-mobile-plugin) - DeepSeek Harness 移动端插件：手机远程操控宿主，提供受限移动 API、中转隧道与局域网配对（可作无头宿主运行）.
 - [WSK-build/DSHBox](https://github.com/WSK-build/DSHBox) - DSHBox — Run DeepSeek Harness locally on Android phones and tablets. One APK with Debian, Node.js, DSH, and WebView — no root or Termux required. 一款在安卓手机和平板上本机运行完整 DSH的app —DSHBox。
 - [zexadev/dsh-tether](https://github.com/zexadev/dsh-tether) - Reach the DeepSeek Harness on your dev machine from your phone — across networks, through no server at all (iroh P2P).
 

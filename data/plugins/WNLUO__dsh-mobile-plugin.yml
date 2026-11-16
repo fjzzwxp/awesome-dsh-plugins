@@ -1,0 +1,5 @@
+url: "https://github.com/WNLUO/dsh-mobile-plugin"
+name: "WNLUO/dsh-mobile-plugin"
+category: remote
+description:
+  en: "DeepSeek Harness 移动端插件：手机远程操控宿主，提供受限移动 API、中转隧道与局域网配对（可作无头宿主运行）."

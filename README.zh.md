@@ -756,8 +756,8 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 
 ### 🌐 浏览器与网络
 
-- ⭐ [omdsh-dev/dsh-browser](https://github.com/omdsh-dev/dsh-browser) - Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。
 - ⭐ [Lum1104/dsh-browser](https://github.com/Lum1104/dsh-browser) - Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。
+- ⭐ [omdsh-dev/dsh-browser](https://github.com/omdsh-dev/dsh-browser) - Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。
 - ⭐ [momasiku/dsh-pilot](https://github.com/momasiku/dsh-pilot) - DeepSeek Harness 的桌面自动化：给整台 Windows 机器装上眼睛和手。可以做人能做的任何事，包括且不仅限于CAD，WPS，浏览器操作，发微信。安全，快速，可靠，聪明，人性化。
 - [2672243194/dsh-read-url](https://github.com/2672243194/dsh-read-url) - DeepSeek Harness URL reader: fetch any page and return clean main-content text/Markdown. Auto charset (GBK/GB2312/UTF-8/Big5), token-efficient (6000-char cap, cache, offset), zero deps, no API key. 网页一键读全文 → 干净正文 / 结构化 Markdown.
 - [A3Boy/dsh-web-tools](https://github.com/A3Boy/dsh-web-tools) - Multi-provider Web Search & Fetch for DeepSeek Harness — Tavily, Exa, Firecrawl, Brave, You.com, Jina & SearXNG with fallback and native settings UI.
@@ -847,13 +847,14 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 ### 🧑💻 开发工具
 
 - ⭐ [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) - DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。 DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.
-- ⭐ [zouyuxuan122/DSH-Desktop-EAC](https://github.com/zouyuxuan122/DSH-Desktop-EAC) - DeepSeek Harness Desktop (dsh-desktop). EAC: Embracing All Creation (揽尽万象). Bundled Node.js runtime with full dsh-CLI kernel, one-click startup, 10 built-in UI themes.
 - ⭐ [DSH-EAC/DSH-Desktop-EAC](https://github.com/DSH-EAC/DSH-Desktop-EAC) - DeepSeek Harness Desktop (dsh-desktop). EAC: Embracing All Creation (揽尽万象). Bundled Node.js runtime with full dsh-CLI kernel, one-click startup, 10 built-in UI themes.
+- ⭐ [zouyuxuan122/DSH-Desktop-EAC](https://github.com/zouyuxuan122/DSH-Desktop-EAC) - DeepSeek Harness Desktop (dsh-desktop). EAC: Embracing All Creation (揽尽万象). Bundled Node.js runtime with full dsh-CLI kernel, one-click startup, 10 built-in UI themes.
 - [1na-ko/dsh-hdc-bridge](https://github.com/1na-ko/dsh-hdc-bridge) - DSH 原生鸿蒙开发助手：hdc 设备闭环调试 + 设备面板（官方 client 插件形态）+ 离线官方知识层（Tier-1 随包）+ DevEco CLI 构建/签名/模拟器控制 / DSH-native HarmonyOS dev assistant: hdc device loop, live device panel, offline official knowledge, DevEco CLI build/sign/emulator.
 - [anoslide/dsh-vscode-layout](https://github.com/anoslide/dsh-vscode-layout) - 把 DeepSeek Harness（dsh）Web 界面改造成 VS Code 式 IDE：三栏布局、文件树、多标签查看器/编辑器、桌面启动器，全部补丁可重放（MIT）.
 - [CCMu04/DSHDesktop](https://github.com/CCMu04/DSHDesktop) - Unofficial Windows desktop client for the unmodified DeepSeek Harness Web UI.
 - [ClapEcho233/dsh-cli-provider](https://github.com/ClapEcho233/dsh-cli-provider) - A DeepSeek Harness (dsh) plugin.
 - [ClickPM/dsh-acp-interactive](https://github.com/ClickPM/dsh-acp-interactive) - Editor-facing ACP server for Zed and other ACP clients, composed from published DeepSeek Harness plugins. Community-maintained; not affiliated with DeepSeek.
+- [ffyfox/dsh-desktop-linux](https://github.com/ffyfox/dsh-desktop-linux) - 将官方 DeepSeek Harness 桌面端打包移植到 Linux：AppImage、deb、rpm 和 Arch PKGBUILD，并通过一套补丁系列从上游源码构建。Ports the official DeepSeek Harness desktop packaging to Linux: AppImage, deb, rpm and an Arch PKGBUILD, built from upstream sources through a patch series.
 - [h-D-ACE/dsh-qq](https://github.com/h-D-ACE/dsh-qq) - 对于Derpyu520/qq-bridge项目的二次开发.
 - [hikarioyama/Smart-DSH](https://github.com/hikarioyama/Smart-DSH) - Unofficial DeepSeek Harness plugin: mobile-friendly UI, Web Push notifications, and Linux Tailscale setup guide.
 - [huaguoxingkong/dsh-prompt-rewriter](https://github.com/huaguoxingkong/dsh-prompt-rewriter) - One-click prompt enhancement beside the DeepSeek Harness composer: rewrites a draft in place without sending it.

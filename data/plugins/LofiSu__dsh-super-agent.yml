@@ -1,0 +1,5 @@
+url: "https://github.com/LofiSu/dsh-super-agent"
+name: "LofiSu/dsh-super-agent"
+category: model
+description:
+  en: "Open-source DeepSeek Super-agent style multi-agent framework with a thin harness — Router/Worker, triggers, Watchdog (not an official DeepSeek product)."

@@ -1,0 +1,5 @@
+url: "https://github.com/Jestions-dev/dsh-download-server"
+name: "Jestions-dev/dsh-download-server"
+category: model
+description:
+  en: "DLS — DSH Download Server: a global, session-aware, persistent download queue for DeepSeek Harness."

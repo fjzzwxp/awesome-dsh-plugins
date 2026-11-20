@@ -1,0 +1,5 @@
+url: "https://github.com/ArtlexYoung/dsh-super-code"
+name: "ArtlexYoung/dsh-super-code"
+category: usage
+description:
+  en: "一个更快、更节省、更准确的 DeepSeek Harness 插编码件。在 SWE-bench Pro 最难的 100 道题中，回答耗时减少21.8%，每题token减少34.6%，正确率甚至增加了6.5%。A faster, more accurate, and more cost-effective DeepSeek Harness plug-in component. Among the 100 most difficult questions in SWE-bench Pro, the response time -21.8%, tokens per question -34.6%, and the accuracy rate even +6.5%."

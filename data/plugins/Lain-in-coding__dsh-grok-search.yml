@@ -1,0 +1,5 @@
+url: "https://github.com/Lain-in-coding/dsh-grok-search"
+name: "Lain-in-coding/dsh-grok-search"
+category: browser
+description:
+  en: "为 DeepSeek Harness 接入可视化 Grok 主搜索与 Tavily、Exa、TinyFish、Firecrawl 自动回退，复用 grok-search-rs。"

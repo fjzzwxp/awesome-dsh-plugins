@@ -1,0 +1,5 @@
+url: "https://github.com/regrevia/dsh-unlag"
+name: "regrevia/dsh-unlag"
+category: ui
+description:
+  en: "Clear a sluggish DeepSeek Harness workbench without restarting: rebuild the interface and swap plugin code in place, keeping running turns, queued messages and unsent drafts."

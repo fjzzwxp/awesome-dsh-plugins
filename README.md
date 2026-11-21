@@ -620,8 +620,10 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [GDWhisper/dsh-web-startup-auth](https://github.com/GDWhisper/dsh-web-startup-auth) - DSH（DeepSeek Harness）远程 Web 启动 + 用户名/密码认证插件。 | DeepSeek Harness Remote‑Web‑Launch Plugin with Username/Password Auth.
 - [Gin-7/dsh-pet-remielle](https://github.com/Gin-7/dsh-pet-remielle) - A DeepSeek Harness (dsh) plugin.
 - [gityuanbao/DSH-Plugins](https://github.com/gityuanbao/DSH-Plugins) - 🔥 DeepSeek Harness 插件中文导航：热门项目、适用人群、安装命令、贴心 Tips 与避坑指南.
+- [gychen-NJU/dsh-game-daily](https://github.com/gychen-NJU/dsh-game-daily) - DSH 桌面端插件：游戏日常代理（原神 / 崩坏3 / 星穹铁道）—设置页逐游戏开关、排班、计划任务自动执行并汇报 | DSH plugin for daily game automation.
 - [GZX2211/dsh-Visual-Workflow](https://github.com/GZX2211/dsh-Visual-Workflow) - 专为 DeepSeek Harness Web GUI 打造的可视化多 Agent 工作流编排插件。公开测试版已上线！接下来会随着 DSH 的正式版上线一并发布正式版！最新声明：非常抱歉，经过昨日的一个测试，发现编排引擎会偶发提示词交叉，导致子代理越权行为，并且自己调用已限制工具，可能会有安全隐患，正在修复。
 - [hellodigua/dsh-share](https://github.com/hellodigua/dsh-share) - DSH 对话分享插件，分享单轮或多轮对话，可导出为图片或 Markdown。Share DSH Q&As or selected conversation groups as PNG or Markdown.
+- [HiSeax/dsh-windows-superagent](https://github.com/HiSeax/dsh-windows-superagent) - Windows-friendly multi-agent orchestration for DSH: WeChat channel, ticket board, policy-driven accept, eval toolchain.
 - [HiWhaleW/dsh-toolbox](https://github.com/HiWhaleW/dsh-toolbox) - Local-first DeepSeek Harness plugins for product research, context routing, plugin preflight, and compatibility monitoring.
 - [houyanchao/dsh-timeline](https://github.com/houyanchao/dsh-timeline) - 为 DeepSeek Harness（DSH）打造的会话效率插件，时间轴导航、收藏文件夹、对话导出、提示词库、闪记。
 - [HuangShengZeBlueSky/dsh-harness-evolution](https://github.com/HuangShengZeBlueSky/dsh-harness-evolution) - Evolved DSH plugin harnesses for five agent benchmarks, with versioned artifacts, evolution curves and Life-Harness comparisons.
@@ -681,6 +683,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [Minglink/dsh-infinite-gen-2](https://github.com/Minglink/dsh-infinite-gen-2) - DeepSeek 专用破甲插件「无限二代」dsh-infinite-gen-2 — armor-breaking plugin for DeepSeek稳定化破甲提示词，求 Star 收藏 ⭐.
 - [Minglink/dsh-infinite-gen-3](https://github.com/Minglink/dsh-infinite-gen-3) - DeepSeek 专用破甲插件「无限三代」dsh-infinite-gen-3 — armor-breaking plugin for DeepSeek，破甲版：稳定化破甲，求 Star 收藏 ⭐.
 - [Minglink/dsh-infinite-gen-4](https://github.com/Minglink/dsh-infinite-gen-4) - DeepSeek v4.1 flash 网络安全红队工具（无限四代） — jailbreak prompts and test suite for DeepSeek 求 Star 收藏 ⭐.
+- [mochi-fish/dsh-fish](https://github.com/mochi-fish/dsh-fish) - DSH插件：养一个会自己刷b站会成长的agent：不通过面板配置，通过学习诞生人格。
 - [MochiNek0/dsh-web-search-free](https://github.com/MochiNek0/dsh-web-search-free) - 面向 DeepSeek Harness 的免费 Web Search / 网页抓取插件，支持 Tavily、Exa、Brave、百度、SearXNG 等多个引擎按可配置顺序自动 fallback.
 - [Moeblack/dsh-message-edit](https://github.com/Moeblack/dsh-message-edit) - DSH 插件：分支式消息编辑、重掷、重试与版本时间线 | DSH plugin: branch-based message editing, reroll, retry, version timeline.
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) - Support dsh runtime on Multica.

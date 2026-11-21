@@ -1,0 +1,5 @@
+url: "https://github.com/HiSeax/dsh-windows-superagent"
+name: "HiSeax/dsh-windows-superagent"
+category: tools
+description:
+  en: "Windows-friendly multi-agent orchestration for DSH: WeChat channel, ticket board, policy-driven accept, eval toolchain."

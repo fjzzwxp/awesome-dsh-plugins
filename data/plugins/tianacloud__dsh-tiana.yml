@@ -1,0 +1,5 @@
+url: "https://github.com/tianacloud/dsh-tiana"
+name: "tianacloud/dsh-tiana"
+category: model
+description:
+  en: "在 DeepSeek Harness 中，无论是网页、数据库还是后端 API，都可以部署到 TianaCloud；也可以从丰富的模板开始开发并发布。"

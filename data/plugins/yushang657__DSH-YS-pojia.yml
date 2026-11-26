@@ -1,0 +1,5 @@
+url: "https://github.com/yushang657/DSH-YS-pojia"
+name: "yushang657/DSH-YS-pojia"
+category: git
+description:
+  en: "DeepSeek Harness (DSH) 破甲插件：对 DSH 三层解限越狱，宿主补丁(96补丁/70文件) + 消息层拒绝清洗 + 提示词注入。关键词：破甲 / 解限 / 越狱 / 红队 / 提示词注入。文档：https://yushang657.github.io/DSH-YS-pojia/."

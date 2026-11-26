@@ -1,0 +1,5 @@
+url: "https://github.com/NightFrost42/dsh-compaction-weave"
+name: "NightFrost42/dsh-compaction-weave"
+category: session
+description:
+  en: "Cache-friendly context compaction for DeepSeek Harness, with requirement retention, task continuity, history retrieval, and retries."

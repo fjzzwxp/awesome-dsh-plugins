@@ -120,6 +120,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [plolpl789/dsh-raw-html](https://github.com/plolpl789/dsh-raw-html) - VCP visual-synesthesia protocol plugin for DeepSeek Harness: render agent HTML output as real UI (cards / KaTeX math / Mermaid diagrams / built-in calligraphy fonts / zero-JS interactions), plug-and-play on any DSH environment.
 - [plolpl789/dsh-raw-html-v2](https://github.com/plolpl789/dsh-raw-html-v2) - VCP visual-synesthesia plugin v2 for DeepSeek Harness (official Slot API): raw-HTML vcp-root cards, streaming render, KaTeX/Mermaid/SVG, builtin fonts.
 - [qkycir-123/dsh-run2skill](https://github.com/qkycir-123/dsh-run2skill) - Automatically turn successful DeepSeek Harness sessions into reusable, reviewable Agent Skills.
+- [qq2218883648/dsh-purge-plus](https://github.com/qq2218883648/dsh-purge-plus) - dsh-purge 的非官方分支（fork）：适配 DeepSeek Harness 0.2.1-rc.2、破甲内核 v3、设置页 UI 重做 / unofficial fork of YuJunZhiXue/dsh-purge (MIT).
 - [regrevia/dsh-unlag](https://github.com/regrevia/dsh-unlag) - Clear a sluggish DeepSeek Harness workbench without restarting: rebuild the interface and swap plugin code in place, keeping running turns, queued messages and unsent drafts.
 - [rison114514/dsh-endfield-ui](https://github.com/rison114514/dsh-endfield-ui) - Endfield-inspired industrial UI shell for DeepSeek Harness (dsh) — non-official fan theme. Install: dsh plugin --profile web add @rison/dsh-endfield-ui.
 - [Roland0511/dsh-marktext](https://github.com/Roland0511/dsh-marktext) - MarkText (muya) WYSIWYG Markdown editor for the DeepSeek Harness right sidebar.
@@ -693,6 +694,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [mochi-fish/dsh-fish](https://github.com/mochi-fish/dsh-fish) - DSH插件：养一个会自己刷b站会成长的agent：不通过面板配置，通过学习诞生人格。
 - [MochiNek0/dsh-web-search-free](https://github.com/MochiNek0/dsh-web-search-free) - 面向 DeepSeek Harness 的免费 Web Search / 网页抓取插件，支持 Tavily、Exa、Brave、百度、SearXNG 等多个引擎按可配置顺序自动 fallback.
 - [Moeblack/dsh-message-edit](https://github.com/Moeblack/dsh-message-edit) - DSH 插件：分支式消息编辑、重掷、重试与版本时间线 | DSH plugin: branch-based message editing, reroll, retry, version timeline.
+- [mounta1n-18/dsh-computer-use](https://github.com/mounta1n-18/dsh-computer-use) - DSH 插件：Windows 电脑操作（computer_use）+ 零依赖 CDP 浏览器平面（browser_use）。软安装包，含写给 agent 的 INSTALL.md。 / Computer-use & browser-use plugin for DeepSeek Harness (Windows).
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) - Support dsh runtime on Multica.
 - [NEWJO123/dsh-douyin-scroll](https://github.com/NEWJO123/dsh-douyin-scroll) - A DeepSeek Harness (dsh) plugin.
 - [not-big-dog/DSH-pipeline-kernel](https://github.com/not-big-dog/DSH-pipeline-kernel) - A DeepSeek Harness (dsh) plugin.

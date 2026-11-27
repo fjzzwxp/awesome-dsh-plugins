@@ -1,0 +1,5 @@
+url: "https://github.com/mounta1n-18/dsh-computer-use"
+name: "mounta1n-18/dsh-computer-use"
+category: tools
+description:
+  en: "DSH 插件：Windows 电脑操作（computer_use）+ 零依赖 CDP 浏览器平面（browser_use）。软安装包，含写给 agent 的 INSTALL.md。 / Computer-use & browser-use plugin for DeepSeek Harness (Windows)."

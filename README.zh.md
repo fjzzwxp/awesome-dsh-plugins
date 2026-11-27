@@ -431,6 +431,7 @@ DeepSeek Harness 是 DeepSeek 开源的 Agent 运行时——一个可运行的�
 - [Subaru486desuwa/dsh-beluga](https://github.com/Subaru486desuwa/dsh-beluga) - Personal Chat, ChatGPT history import and controlled memory for DeepSeek Harness.
 - [sumarilkkxx/dsh-artifact](https://github.com/sumarilkkxx/dsh-artifact) - Inline ECharts rendering plugin for DeepSeek Harness.
 - [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) - Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches the mock. Ships the benchmark behind that judgement — four fixtures, 23 injected defects, and every raw model transcript. Retires itself when DeepSeek ships vision.
+- [superj0107/dsh-pojia](https://github.com/superj0107/dsh-pojia) - DeepSeek Harness 破甲融合包：宿主清洗 + 破甲内核双层合一，统一 /pojia 命令.
 - [tequed232/DSH-L2D](https://github.com/tequed232/DSH-L2D) - DeepSeek Harness 工作区调用MCP接入 Live2D模型的焕新方案❤️.
 - [thawline/dsh-memewiki](https://github.com/thawline/dsh-memewiki) - 梗百科：6792 条梗/黑话词库，自动查梗并注入上下文，不让模型硬猜。支持一键下载社区最新词库、提交新梗，与社区共创。
 - [tianacloud/dsh-tiana](https://github.com/tianacloud/dsh-tiana) - 在 DeepSeek Harness 中，无论是网页、数据库还是后端 API，都可以部署到 TianaCloud；也可以从丰富的模板开始开发并发布。

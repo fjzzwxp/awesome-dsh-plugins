@@ -728,6 +728,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [sjtuszh/dsh-plugins](https://github.com/sjtuszh/dsh-plugins) - A DeepSeek Harness (dsh) plugin.
 - [ssamurias/dsh-fish](https://github.com/ssamurias/dsh-fish) - DSH插件：养一个会自己刷b站会成长的agent：不通过面板配置，通过学习诞生人格。
 - [sugarforever/dsh-lark](https://github.com/sugarforever/dsh-lark) - DeepSeek Harness Plugin for Lark Integration.
+- [sunmingqi-1/dsh-tree](https://github.com/sunmingqi-1/dsh-tree) - DSH 学习树插件，通过树形问答与无限画布学习新知识.
 - [Sutera-Diffusus/dsh-whale-musume](https://github.com/Sutera-Diffusus/dsh-whale-musume) - DeepSeek Harness 桌宠插件：元气鲸鱼娘陪你写代码 🐋.
 - [T-Auto/dsh-ecosystem-spec](https://github.com/T-Auto/dsh-ecosystem-spec) - deepseek-harness TUI Plugin Access and Implementation Standards / deepseek-harness终端交互生态插件准入规范与实施标准.
 - [T-Auto/dsh-std](https://github.com/T-Auto/dsh-std) - DSH Plugin Interoperability Meta-Protocol / DSH 插件互操作元协议.
